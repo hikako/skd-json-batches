@@ -1,0 +1,3426 @@
+{
+  "bankVersion": "2026.1-batch-03",
+  "module": "modul_4_drill_skd",
+  "batch": 3,
+  "totalQuestions": 100,
+  "updatedAt": "2026-11-24",
+  "distribution": {
+    "TWK": 50,
+    "TKP": 50
+  },
+  "subtopicCounts": {
+    "twk_nasionalisme": 10,
+    "twk_integritas": 10,
+    "twk_bela_negara": 10,
+    "twk_pilar_negara": 10,
+    "twk_bahasa_negara": 10,
+    "tkp_pelayanan": 9,
+    "tkp_jejaring_kerja": 9,
+    "tkp_sosial_budaya": 8,
+    "tkp_tik": 8,
+    "tkp_profesionalisme": 8,
+    "tkp_anti_radikalisme": 8
+  },
+  "questions": [
+    {
+      "id": "dr_b03_201",
+      "category": "TWK",
+      "subtopic": "twk_nasionalisme",
+      "question": "Taman Siswa yang didirikan oleh Ki Hajar Dewantara pada 3 Juli 1922 di Yogyakarta berkontribusi besar terhadap nasionalisme Indonesia melalui...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pengiriman seluruh pelajar pribumi untuk bekerja paksa di perusahaan perkebunan",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Penyediaan kurikulum khusus bahasa Belanda bagi kalangan bangsawan kolonial",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Pembentukan pasukan bersenjata pelajar di seluruh sekolah pemerintah Hindia Belanda",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Penghapusan seluruh kesenian daerah dari kegiatan pembelajaran sekolah",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Penyelenggaraan pendidikan nasional yang merdeka, berakar pada budaya bangsa, dan menanamkan kemandirian serta cinta tanah air di luar sistem pendidikan kolonial",
+          "points": 5
+        }
+      ],
+      "explanation": "Jawaban benar: E. Taman Siswa memelopori sistem pendidikan nasional berbasis kemandirian dan semboyan Ing Ngarso Sung Tulodo, Ing Madyo Mangun Karso, Tut Wuri Handayani."
+    },
+    {
+      "id": "dr_b03_202",
+      "category": "TWK",
+      "subtopic": "twk_nasionalisme",
+      "question": "Pada masa revolusi fisik, Pertempuran Ambarawa (November–Desember 1945) yang dipimpin Kolonel Sudirman menunjukkan semangat nasionalisme dan strategi kemandirian bangsa melalui...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pembubaran Tentara Keamanan Rakyat di wilayah Semarang dan Magelang",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Permintaan bantuan pasukan kolonial lain untuk mengambil alih pemerintahan kota",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Kesepakatan pembagian kekuasaan militer bersama pihak NICA di Ambarawa",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Penerapan taktik Supit Urang untuk mengepung dan mengusir pasukan Sekutu serta NICA guna mempertahankan wilayah kedaulatan Republik Indonesia",
+          "points": 5
+        },
+        {
+          "key": "E",
+          "text": "Penyerahan wilayah Jawa Tengah secara sukarela demi gencatan senjata permanen",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: D. Kemenangan di Ambarawa (15 Desember 1945, diperingati sebagai Hari Juang TNI AD) membuktikan daya juang bangsa mempertahankan kemerdekaan."
+    },
+    {
+      "id": "dr_b03_203",
+      "category": "TWK",
+      "subtopic": "twk_nasionalisme",
+      "question": "Gerakan Pemberontakan PETA di Blitar pada 14 Februari 1945 yang dipimpin oleh Supriyadi mencerminkan semangat nasionalisme karena dipicu oleh...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Penolakan terhadap penggunaan bahasa Indonesia dalam komunikasi militer",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Penderitaan rakyat akibat kerja paksa romusha dan perampasan hasil bumi oleh tentara pendudukan Jepang",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Perselisihan internal antarprajurit mengenai pembagian wilayah kekuasaan kerajaan",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Upaya memisahkan wilayah Jawa Timur dari rencana kemerdekaan Indonesia",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Keinginan bergabung kembali ke dalam pemerintahan kolonial Hindia Belanda",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: B. Pemberontakan PETA di Blitar merupakan bentuk keberanian membela rakyat dari kekejaman pendudukan Jepang dan menumbuhkan tekad merdeka."
+    },
+    {
+      "id": "dr_b03_204",
+      "category": "TWK",
+      "subtopic": "twk_nasionalisme",
+      "question": "Peran penting R.A. Kartini dalam sejarah kesadaran kebangsaan Indonesia, terutama melalui kumpulan suratnya yang dibukukan menjadi 'Habis Gelap Terbitlah Terang', terletak pada gagasan...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pembentukan organisasi militer perempuan untuk merebut kantor gubernur kolonial",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Pelarangan perempuan pribumi mempelajari ilmu pengetahuan modern",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Penolakan seluruh bentuk sekolah formal bagi masyarakat umum",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Pemisahan wilayah pendidikan antara pulau Jawa dan pulau-pulau lainnya",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Emansipasi dan akses pendidikan bagi perempuan pribumi sebagai fondasi kemajuan peradaban serta martabat bangsa",
+          "points": 5
+        }
+      ],
+      "explanation": "Jawaban benar: E. Pemikiran R.A. Kartini mendorong kesetaraan akses pendidikan perempuan yang menginspirasi lahirnya sekolah-sekolah perempuan dan kebangkitan nasional."
+    },
+    {
+      "id": "dr_b03_205",
+      "category": "TWK",
+      "subtopic": "twk_nasionalisme",
+      "question": "Sikap rela melepas jabatan dan kekuasaan pribadi demi menjaga keutuhan bangsa dan persatuan negara baru ditunjukkan oleh Sri Sultan Hamengkubuwono IX pada tahun 1945 melalui...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pengambilalihan kewenangan legislatif nasional oleh pihak keraton secara penuh",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Amanat 5 September 1945 yang menyatakan Kesultanan Ngayogyakarta Hadiningrat bergabung menjadi bagian dari Negara Kesatuan Republik Indonesia serta memberikan dukungan dana dan fasilitas ibu kota darurat",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Penandatanganan perjanjian kerja sama pertahanan permanen dengan pihak NICA",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Penolakan terhadap pemindahan pusat pemerintahan RI dari Jakarta ke Yogyakarta",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Deklarasi pembentukan negara merdeka terpisah di wilayah Jawa bagian selatan",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: B. Amanat 5 September 1945 dan dukungan finansial Sri Sultan Hamengkubuwono IX menjadi teladan nasionalisme dan pengorbanan demi tegaknya NKRI."
+    },
+    {
+      "id": "dr_b03_206",
+      "category": "TWK",
+      "subtopic": "twk_nasionalisme",
+      "question": "Peristiwa Puputan Margarana di Bali pada 20 November 1946 yang dipimpin oleh Letkol I Gusti Ngurah Rai mencerminkan tekad nasionalisme berupa...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kesepakatan pembentukan Negara Indonesia Timur di bawah kendali penuh Belanda",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Kerja sama ekonomi eksklusif antara penguasa lokal Bali dan pemerintah kolonial",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Penyerahan senjata laskar Bali kepada tentara Sekutu tanpa perlawanan",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Perjuangan mempertahankan kemerdekaan hingga titik darah penghabisan serta menolak pembentukan negara boneka buatan Belanda di Indonesia Timur",
+          "points": 5
+        },
+        {
+          "key": "E",
+          "text": "Pemisahan wilayah Bali dari kekuasaan Republik Indonesia pasca-Linggarjati",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: D. I Gusti Ngurah Rai bersama pasukan Ciung Wanara menolak bujukan Belanda membentuk negara bagian dan bertempur habis-habisan (puputan) demi keutuhan NKRI."
+    },
+    {
+      "id": "dr_b03_207",
+      "category": "TWK",
+      "subtopic": "twk_nasionalisme",
+      "question": "Dalam kajian sosiologi politik, rasa persatuan bangsa yang terbentuk dan bertahan kuat karena seluruh warga menyepakati nilai dasar bersama seperti Pancasila dan Bhinneka Tunggal Ika disebut...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Asimilasi paksa",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Disintegrasi struktural",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Integrasi normatif",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "Primordialisme etnis",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Integrasi koersif",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: C. Integrasi normatif terbentuk karena adanya norma, konsensus, dan nilai bersama yang diakui serta mempersatukan masyarakat majemuk."
+    },
+    {
+      "id": "dr_b03_208",
+      "category": "TWK",
+      "subtopic": "twk_nasionalisme",
+      "question": "Organisasi pemuda seperti Jong Java, Jong Sumatranen Bond, Jong Celebes, dan Jong Ambon pada dekade 1920-an akhirnya meleburkan diri ke dalam Indonesia Muda (1930) sebagai tindak lanjut Sumpah Pemuda. Makna strategis peleburan ini adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Penghapusan seluruh adat istiadat dan kesenian tradisional masing-masing pulau",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Penyerahan kepengurusan organisasi pemuda kepada pemerintah kolonial Belanda",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Transformasi kesadaran identitas dari semangat kedaerahan yang terpisah-pisah menjadi satu identitas kebangsaan Indonesia",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "Pengalihan fokus pemuda sepenuhnya dari perjuangan kebangsaan ke perdagangan lokal",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Pembatasan keanggotaan pemuda hanya bagi lulusan universitas di Eropa",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: C. Peleburan organisasi pemuda kedaerahan menjadi Indonesia Muda mengokohkan kesatuan gerakan pemuda lintas suku dan pulau."
+    },
+    {
+      "id": "dr_b03_209",
+      "category": "TWK",
+      "subtopic": "twk_nasionalisme",
+      "question": "Berdasarkan UU Nomor 24 Tahun 2009, perlakuan yang dilarang terhadap Bendera Negara Sang Merah Putih sebagai bentuk penghormatan terhadap simbol kedaulatan bangsa meliputi...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mengibarkan bendera negara di halaman kantor pemerintah setiap hari kerja",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Merusak, merobek, menginjak-injak, membakar, atau memakai bendera negara untuk reklame dan iklan komersial",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Memasang bendera negara di rumah warga pada peringatan Hari Kemerdekaan",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Melipat dan menyimpan bendera negara dengan rapi setelah penurunan sore hari",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Menggunakan bendera negara pada upacara pemakaman pahlawan nasional",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: B. Pasal 24 UU No. 24 Tahun 2009 melarang perusakan, penodaan, pencetakan tulisan/gambar pada bendera, serta pemakaian bendera untuk iklan komersial atau pembungkus barang."
+    },
+    {
+      "id": "dr_b03_210",
+      "category": "TWK",
+      "subtopic": "twk_nasionalisme",
+      "question": "Seorang ASN yang mendapatkan tugas belajar ke luar negeri dengan beasiswa negara segera kembali ke tanah air setelah lulus dan menerapkan ilmunya untuk membenahi layanan publik di daerah. Tindakan ini mencerminkan...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kewajiban administratif biasa tanpa kaitan dengan semangat kebangsaan",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Nasionalisme dalam bentuk tanggung jawab pengabdian dan kesetiaan berkontribusi bagi kemajuan bangsa",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Isolasionisme dari perkembangan komunitas ilmiah internasional",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Chauvinisme yang menolak seluruh ilmu pengetahuan dari luar negeri",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Primordialisme terhadap instansi pemberi beasiswa semata",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: B. Kembali mengabdi dan memanfaatkan kompetensi global untuk membangun kualitas layanan dalam negeri merupakan wujud nyata nasionalisme ASN."
+    },
+    {
+      "id": "dr_b03_211",
+      "category": "TWK",
+      "subtopic": "twk_integritas",
+      "question": "Pada tahun 1957, tokoh nasional dr. Johannes Leimena menunjukkan teladan integritas kepemimpinan yang relevan bagi ASN saat ini melalui sikapnya yang...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menerima hadiah barang mewah dari kontraktor asing saat kunjungan kerja",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Menolak menerima uang atau fasilitas di luar hak resmi, tetap hidup sederhana, serta memisahkan secara ketat kepentingan pribadi dari jabatan menteri yang diembannya",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Menunjuk kerabat dekat tanpa seleksi pada seluruh jabatan strategis kementerian",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Menggunakan kendaraan dinas kementerian untuk usaha pribadi keluarganya",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Menggabungkan dana operasional kementerian ke dalam rekening pribadinya",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: B. Johannes Leimena dikenal luas sebagai pejabat berintegritas tinggi yang hidup sederhana, jujur, dan tegas memisahkan aset negara dari kepentingan pribadi."
+    },
+    {
+      "id": "dr_b03_212",
+      "category": "TWK",
+      "subtopic": "twk_integritas",
+      "question": "Sebuah instansi menerapkan kebijakan 'No Gift Policy' (Larangan Menerima Hadiah/Bingkisan dalam Bentuk Apa Pun) menjelang hari raya keagamaan. Tujuan utama kebijakan ini adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menghapus kewajiban pelaporan LHKPN bagi pejabat struktural",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Mencegah praktik gratifikasi terselubung yang dapat memengaruhi objektivitas keputusan jabatan serta membangun budaya birokrasi bersih",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Memutus seluruh hubungan komunikasi profesional antara instansi dan pemangku kepentingan",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Mewajibkan pemohon layanan menyerahkan donasi tunai langsung ke kas unit kerja",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Mengurangi biaya operasional penyedia barang pada akhir tahun anggaran",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: B. Kebijakan No Gift Policy mempersempit peluang tanam budi dan konflik kepentingan sekaligus mengedukasi mitra bahwa layanan publik bebas imbalan."
+    },
+    {
+      "id": "dr_b03_213",
+      "category": "TWK",
+      "subtopic": "twk_integritas",
+      "question": "Dalam pencegahan korupsi modern, penerapan transaksi pembayaran nontunai (cashless) melalui kanal perbankan resmi pada seluruh retribusi dan PNBP instansi pemerintah berperan menjaga integritas karena...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Membebaskan instansi dari kewajiban audit Badan Pemeriksa Keuangan",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Memungkinkan petugas mengubah tarif layanan secara fleksibel di loket",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Menyembunyikan data penerimaan negara dari sistem pelaporan publik",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Menghilangkan kontak langsung petugas dengan uang tunai, menekan potensi pungutan liar, dan memastikan penerimaan langsung masuk ke kas negara secara tercatat",
+          "points": 5
+        },
+        {
+          "key": "E",
+          "text": "Menghapus kewajiban pemberian bukti pembayaran resmi kepada warga",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: D. Transaksi nontunai langsung ke rekening kas negara menutup celah pungli, penggelapan kas, dan menciptakan rekam jejak transaksi yang transparan."
+    },
+    {
+      "id": "dr_b03_214",
+      "category": "TWK",
+      "subtopic": "twk_integritas",
+      "question": "Seorang staf kepegawaian mengetahui bahwa data ijazah palsu digunakan oleh seorang kenalan untuk melamar jabatan di instansinya. Sikap berintegritas yang harus diambil adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menutupi temuan tersebut karena merasa kasihan dengan kondisi ekonomi kenalannya",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Melaporkan temuan ketidakabsahan dokumen tersebut secara objektif dan berbasis bukti kepada panitia seleksi/atasan agar ditindak sesuai ketentuan hukum yang berlaku",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Menyebarkan identitas kenalan tersebut di media sosial tanpa melapor ke panitia seleksi",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Meminta sejumlah uang kepada kenalan tersebut agar datanya tetap diloloskan",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Membiarkannya lolos dulu lalu menegurnya secara pribadi setelah diangkat",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: B. Menegakkan kejujuran verifikasi dokumen mencegah kecurangan seleksi dan menjaga mutu integritas aparatur sejak tahap rekrutmen."
+    },
+    {
+      "id": "dr_b03_215",
+      "category": "TWK",
+      "subtopic": "twk_integritas",
+      "question": "Dalam sembilan nilai antikorupsi KPK, kegigihan menyelesaikan pekerjaan secara tuntas, sungguh-sungguh, dan tidak mengambil jalan pintas yang melanggar aturan demi hasil instan mencerminkan nilai...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kerja keras",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Kemandirian",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Kesederhanaan",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Kepedulian",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Keadilan",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: A. Kerja keras dalam etos kerja antikorupsi menumbuhkan keyakinan bahwa hasil yang baik dicapai melalui usaha sah, bukan lewat suap atau kecurangan."
+    },
+    {
+      "id": "dr_b03_216",
+      "category": "TWK",
+      "subtopic": "twk_integritas",
+      "question": "Mekanisme Pakta Integritas yang ditandatangani oleh pejabat pembuat komitmen, panitia pengadaan, dan penyedia barang/jasa sebelum proses tender dimulai berfungsi sebagai...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Surat pembebasan tanggung jawab hukum apabila proyek mengalami kerugian negara",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Pengganti seluruh dokumen kontrak kerja dan spesifikasi teknis pengadaan",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Jaminan bahwa penyedia tertentu pasti memenangkan tender tanpa evaluasi harga",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Persyaratan formalitas yang tidak memiliki kekuatan mengikat secara etik maupun hukum",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Komitmen tertulis bersama untuk mencegah praktik KKN, tidak memberi atau menerima suap/gratifikasi, serta bersedia menerima sanksi apabila melanggar",
+          "points": 5
+        }
+      ],
+      "explanation": "Jawaban benar: E. Pakta Integritas adalah pernyataan janji formal guna mewujudkan pengadaan yang transparan, objektif, dan akuntabel."
+    },
+    {
+      "id": "dr_b03_217",
+      "category": "TWK",
+      "subtopic": "twk_integritas",
+      "question": "Jika seorang ASN tidak sengaja menerima bingkisan yang dikirim ke rumahnya oleh mitra kerja yang sedang mengurus perizinan di kantornya, dan bingkisan itu berisi makanan cepat basi (mudah rusak), langkah yang diatur dalam pedoman KPK adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menghubungi mitra pengirim untuk meminta agar bingkisan ditukar menjadi uang tunai saja",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Menyimpannya di gudang kantor hingga membusuk sebelum diserahkan ke KPK bulan depan",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Mendokumentasikan barang tersebut, menyalurkannya sebagai bantuan sosial/panti asuhan atau pihak membutuhkan (bukan dinikmati pribadi), dan tetap melaporkannya ke KPK/UPG dalam batas waktu yang ditentukan disertai bukti penyaluran",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "Langsung memakannya bersama keluarga di rumah lalu tidak perlu melapor karena nilainya kecil",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Membagikannya kepada seluruh pejabat penentu izin di kantor agar dinikmati bersama",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: C. Sesuai pedoman pengendalian gratifikasi KPK, barang mudah busuk/kedaluwarsa dapat disalurkan untuk bantuan sosial dengan dokumentasi lengkap dan tetap dilaporkan ke UPG/KPK."
+    },
+    {
+      "id": "dr_b03_218",
+      "category": "TWK",
+      "subtopic": "twk_integritas",
+      "question": "Perbedaan mendasar antara tindak pidana 'Penggelapan dalam Jabatan' (Pasal 8 UU Tipikor) dan 'Pemalsuan Buku/Daftar Administrasi' (Pasal 9 UU Tipikor) adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pasal 8 berfokus pada penggelapan uang atau surat berharga yang disimpan karena jabatannya, sedangkan Pasal 9 berfokus pada perbuatan sengaja memalsukan buku-buku atau daftar khusus untuk pemeriksaan administrasi",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Pasal 8 hanya berlaku untuk sektor swasta, sedangkan Pasal 9 hanya berlaku untuk anggota DPR",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Pasal 8 tidak dikenai sanksi penjara, sedangkan Pasal 9 hanya dikenai sanksi teguran lisan",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Pasal 8 mengenai suap kepada hakim, sedangkan Pasal 9 mengenai pemerasan di loket layanan",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Keduanya tidak termasuk dalam kelompok tindak pidana korupsi menurut UU Tipikor",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: A. UU Tipikor merinci berbagai modus kejahatan jabatan secara spesifik, termasuk penggelapan kas/surat berharga (Pasal 8) dan pemalsuan catatan/pembukuan pemeriksaan administrasi (Pasal 9)."
+    },
+    {
+      "id": "dr_b03_219",
+      "category": "TWK",
+      "subtopic": "twk_integritas",
+      "question": "Dalam sistem pengendalian intern pemerintah, penerapan pemisahan fungsi (segregation of duties)—misalnya pihak yang menyetujui pembayaran berbeda dengan pihak yang mencatat dan pihak yang menyimpan kas—bertujuan untuk...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menambah jumlah pegawai di bagian keuangan tanpa uraian tugas yang jelas",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Menciptakan saling uji (check and balance) internal sehingga tidak satu orang pun dapat melakukan sekaligus menutupi penyimpangan keuangan",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Mengalihkan seluruh kewenangan pencatatan keuangan kepada vendor swasta",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Memperpanjang birokrasi agar pencairan dana selalu terlambat hingga akhir tahun",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Menghilangkan tanggung jawab kepala satuan kerja atas laporan keuangan",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: B. Pemisahan fungsi merupakan prinsip inti pengendalian intern untuk mencegah fraud, penggelapan, dan manipulasi laporan keuangan."
+    },
+    {
+      "id": "dr_b03_220",
+      "category": "TWK",
+      "subtopic": "twk_integritas",
+      "question": "Seorang ASN melihat atasannya sendiri secara rutin menggunakan kendaraan dinas operasional kantor pada akhir pekan untuk keperluan usaha pribadi keluarga. Langkah berintegritas yang paling tepat sesuai mekanisme tata kelola adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mengabaikannya sepenuhnya karena pelakunya adalah atasan langsung yang menilai kinerja Anda",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Meminta bagian keuntungan usaha pribadi atasan agar Anda tetap diam",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Melaporkan indikasi penyalahgunaan Barang Milik Negara tersebut disertai bukti objektif melalui saluran pengaduan internal (Whistleblowing System/Inspektorat) tanpa menyebarkannya secara liar di media sosial",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "Ikut meminjam kendaraan dinas untuk keperluan pribadi agar terasa adil",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Memfoto kendaraan tersebut lalu mengunggahnya ke akun anonim media sosial untuk menghujat atasan",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: C. Saluran WBS/APIP dirancang untuk melindungi pelapor sekaligus menindaklanjuti dugaan penyalahgunaan fasilitas negara secara objektif dan berintegritas."
+    },
+    {
+      "id": "dr_b03_221",
+      "category": "TWK",
+      "subtopic": "twk_bela_negara",
+      "question": "Dalam sistem pertahanan negara Indonesia yang bersifat semesta (Sishankamrata), tiga ciri utama penyelenggaraannya menurut UU Pertahanan Negara adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Federalistis, tertutup, dan hanya melibatkan komponen militer aktif",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Eksklusif, ofensif, dan ekspansif",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Komersial, sektoral, dan terpusat mutlak pada militer asing",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Kedaerahan, sementara, dan sukarela tanpa komando negara",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Kerakyatan, kesemestaan, dan kewilayahan",
+          "points": 5
+        }
+      ],
+      "explanation": "Jawaban benar: E. Pertahanan bersifat semesta bercirikan kerakyatan (orientasi rakyat), kesemestaan (seluruh sumber daya nasional), dan kewilayahan (digelar merata di seluruh wilayah NKRI)."
+    },
+    {
+      "id": "dr_b03_222",
+      "category": "TWK",
+      "subtopic": "twk_bela_negara",
+      "question": "Upaya diplomasi pertahanan dan kerja sama patroli maritim terkoordinasi antara Indonesia dan negara-negara tetangga ASEAN di Selat Malaka bertujuan untuk...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Membentuk pakta militer ofensif untuk menyerang negara di luar kawasan",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Menghapus peran TNI Angkatan Laut dan Bakamla di wilayah perbatasan",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Menutup jalur perdagangan internasional yang melintasi perairan kepulauan",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Menjaga stabilitas keamanan kawasan, mencegah perompakan dan kejahatan lintas negara, serta melindungi jalur pelayaran strategis tanpa mengorbankan kedaulatan NKRI",
+          "points": 5
+        },
+        {
+          "key": "E",
+          "text": "Menyerahkan kedaulatan perairan teritorial Indonesia kepada negara tetangga",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: D. Kerja sama keamanan maritim regional menjaga kedaulatan serta mencegah ancaman lintas negara (perompakan, penyelundupan, perdagangan orang) sesuai politik bebas aktif."
+    },
+    {
+      "id": "dr_b03_223",
+      "category": "TWK",
+      "subtopic": "twk_bela_negara",
+      "question": "Ketika terjadi bencana gempa bumi besar di suatu provinsi, sinergi antara TNI, Polri, BNPB, pemerintah daerah, tenaga kesehatan ASN, dan relawan masyarakat dalam evakuasi serta pemulihan pascabencana merupakan cerminan konkret dari...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pengambilalihan pemerintahan daerah secara permanen oleh lembaga pusat",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Ketahanan nasional dan semangat bela negara berbasis gotong royong menghadapi ancaman nonmiliter berdimensi keselamatan umum",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Mobilisasi tempur komponen cadangan dalam keadaan darurat perang",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Pelaksanaan tugas diplomasi pertahanan luar negeri",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Operasi militer perang menghadapi agresi negara asing",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: B. Penanggulangan bencana terpadu mencerminkan kesiapsiagaan seluruh elemen bangsa dalam melindungi segenap bangsa dan tumpah darah Indonesia."
+    },
+    {
+      "id": "dr_b03_224",
+      "category": "TWK",
+      "subtopic": "twk_bela_negara",
+      "question": "Keberadaan pulau-pulau kecil terluar Indonesia yang berbatasan langsung dengan negara lain memiliki arti strategis bagi bela negara karena...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menjadi titik pangkal penentuan batas wilayah maritim NKRI, garda terdepan kedaulatan negara, serta beranda depan pertahanan dan ekonomi maritim",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Tidak memiliki pengaruh apa pun terhadap luas Zona Ekonomi Eksklusif Indonesia",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Dikecualikan dari cakupan layanan pembangunan pemerintah pusat",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Dapat dialihkan kepemilikannya kepada pihak asing apabila belum berpenduduk",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Hanya berfungsi sebagai lokasi pembuangan limbah industri nasional",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: A. Pengelolaan, pembangunan, dan pengamanan pulau-pulau kecil terluar menentukan titik pangkal garis pantai (UNCLOS) serta mencegah sengketa wilayah."
+    },
+    {
+      "id": "dr_b03_225",
+      "category": "TWK",
+      "subtopic": "twk_bela_negara",
+      "question": "Perdagangan manusia (human trafficking), penyelundupan narkotika lintas batas, dan pencucian uang internasional dikategorikan dalam kajian pertahanan dan bela negara sebagai...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bencana alam hidrometeorologi",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Sengketa administrasi kepegawaian internal",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Ancaman nonmiliter berdimensi keamanan lintas negara (transnational organized crime)",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "Konflik adat lokal berskala desa",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Ancaman militer konvensional berupa invasi darat",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: C. Kejahatan terorganisasi lintas negara seperti narkotika dan perdagangan orang mengancam generasi bangsa, keamanan dalam negeri, dan kedaulatan hukum."
+    },
+    {
+      "id": "dr_b03_226",
+      "category": "TWK",
+      "subtopic": "twk_bela_negara",
+      "question": "Lembaga yang bertugas melaksanakan patroli keamanan dan keselamatan di wilayah perairan Indonesia dan wilayah yurisdiksi Indonesia secara terpadu sesuai UU Kelautan adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Badan Keamanan Laut (Bakamla)",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Badan Nasional Sertifikasi Profesi (BNSP)",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Badan Pengawas Obat dan Makanan (BPOM)",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Badan Kepegawaian Negara (BKN)",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah (LKPP)",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: A. Bakamla berperan menjaga keamanan, keselamatan, dan penegakan hukum di perairan serta wilayah yurisdiksi maritim Indonesia."
+    },
+    {
+      "id": "dr_b03_227",
+      "category": "TWK",
+      "subtopic": "twk_bela_negara",
+      "question": "Seorang guru ASN di sekolah negeri daerah perbatasan membimbing siswa-siswanya menguasai literasi sains, berbahasa Indonesia dengan baik, dan mengenal sejarah serta keragaman Nusantara. Peran tersebut termasuk bentuk bela negara melalui...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pengabdian sesuai profesi yang memperkuat ketahanan sosial budaya dan kecerdasan generasi bangsa",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Operasi militer menjaga patok perbatasan darat",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Mobilisasi komponen cadangan di masa damai",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Penegakan hukum pidana di wilayah perbatasan",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Pelatihan dasar kemiliteran wajib bagi pelajar",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: A. Peningkatan mutu pendidikan di wilayah perbatasan memperkuat daya saing, wawasan kebangsaan, dan ketahanan sosial masyarakat perbatasan."
+    },
+    {
+      "id": "dr_b03_228",
+      "category": "TWK",
+      "subtopic": "twk_bela_negara",
+      "question": "Salah satu tujuan penting dari pembinaan kesadaran bela negara melalui pendidikan kewarganegaraan sejak jenjang pendidikan dasar hingga perguruan tinggi adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menghapus mata pelajaran ilmu pengetahuan alam dan diganti latihan baris-berbaris penuh",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Membentuk warga negara yang memahami hak dan kewajiban konstitusional, cinta tanah air, berjiwa Pancasila, serta siap berkontribusi menjaga keutuhan NKRI",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Melatih seluruh pelajar menggunakan senjata api tempur sejak usia sekolah dasar",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Mendorong sikap merendahkan negara-negara lain dalam pergaulan global",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Mewajibkan seluruh lulusan perguruan tinggi masuk dinas militer tetap",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: B. Pendidikan kewarganegaraan menanamkan kesadaran berbangsa, kesetiaan pada Pancasila, dan kesiapan bela negara sesuai peran masing-masing warga."
+    },
+    {
+      "id": "dr_b03_229",
+      "category": "TWK",
+      "subtopic": "twk_bela_negara",
+      "question": "Dalam menghadapi serangan disinformasi terstruktur menjelang pemilu yang bertujuan memicu kerusuhan antargolongan, bentuk bela negara paling efektif yang dapat dilakukan warga dan ASN adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Melakukan verifikasi fakta melalui kanal resmi penyelenggara pemilu/pemerintah, tidak meneruskan kabar bohong, menjaga netralitas, dan menyebarkan informasi penyejuk yang akurat",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Mengabaikan literasi digital karena keamanan informasi sepenuhnya tugas kepolisian",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Membuat akun media sosial anonim untuk menyerang pendukung calon tertentu",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Menghindari penggunaan hak pilih agar tidak terlibat dalam proses demokrasi",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Ikut menyebarkan rumor provokatif agar masyarakat segera mengetahui isu yang sedang viral",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: A. Menangkal disinformasi pemilu dan menjaga netralitas ASN melindungi kohesi sosial serta stabilitas politik nasional."
+    },
+    {
+      "id": "dr_b03_230",
+      "category": "TWK",
+      "subtopic": "twk_bela_negara",
+      "question": "Kemandirian industri pertahanan dalam negeri (seperti pengembangan kendaraan taktis, kapal patroli, dan sistem komunikasi buatan industri nasional) merupakan strategi bela negara untuk...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mengurangi ketergantungan pengadaan alutsista pada negara asing sekaligus menggerakkan penguasaan teknologi dan ekonomi nasional",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Mengalihkan seluruh anggaran pendidikan dan kesehatan untuk produksi senjata",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Mempersiapkan agresi militer terhadap negara lain di kawasan",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Meninggalkan prinsip politik luar negeri bebas aktif Indonesia",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Memutus seluruh hubungan diplomatik dan dagang dengan negara-negara produsen teknologi",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: A. Kemandirian industri pertahanan mencegah risiko embargo asing dan memperkuat ketahanan ekonomi serta kedaulatan pertahanan nasional."
+    },
+    {
+      "id": "dr_b03_231",
+      "category": "TWK",
+      "subtopic": "twk_pilar_negara",
+      "question": "Berdasarkan Pasal 23 Ayat (1)–(3) UUD 1945, apabila Dewan Perwakilan Rakyat (DPR) tidak menyetujui Rancangan Anggaran Pendapatan dan Belanja Negara (RAPBN) yang diusulkan Presiden, maka ketentuan konstitusional yang berlaku adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mahkamah Konstitusi langsung mengesahkan RAPBN menggantikan kewenangan DPR",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Badan Pemeriksa Keuangan menyusun dan menetapkan APBN baru tanpa persetujuan Presiden",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Seluruh operasional pemerintahan dan pelayanan publik dihentikan hingga RAPBN disetujui",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Presiden berhak membubarkan DPR dan menetapkan RAPBN secara sepihak",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Pemerintah menjalankan Anggaran Pendapatan dan Belanja Negara (APBN) tahun yang lalu",
+          "points": 5
+        }
+      ],
+      "explanation": "Jawaban benar: E. Pasal 23 Ayat (3) UUD 1945 memastikan keberlangsungan negara tidak lumpuh: jika DPR tidak menyetujui RAPBN usulan Presiden, Pemerintah menjalankan APBN tahun yang lalu."
+    },
+    {
+      "id": "dr_b03_232",
+      "category": "TWK",
+      "subtopic": "twk_pilar_negara",
+      "question": "Menurut Pasal 8 Ayat (3) UUD 1945 hasil amandemen, apabila Presiden dan Wakil Presiden mangkat, berhenti, diberhentikan, atau tidak dapat melakukan kewajibannya dalam masa jabatannya secara bersamaan, pelaksana tugas kepresidenan sementara adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menteri Luar Negeri, Menteri Dalam Negeri, dan Menteri Pertahanan secara bersama-sama",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Gubernur DKI Jakarta bersama Menteri Dalam Negeri secara bersama-sama",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Ketua MPR, Ketua DPR, dan Ketua Mahkamah Agung secara bersama-sama",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Ketua Mahkamah Konstitusi hingga masa jabatan lima tahun berakhir",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Menteri Keuangan, Menteri Sekretaris Negara, dan Panglima TNI secara bersama-sama",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: A. Pasal 8 Ayat (3) UUD 1945 menetapkan Triumvirat (Menlu, Mendagri, dan Menhan) sebagai pelaksana tugas kepresidenan sementara paling lambat 30 hari hingga MPR memilih Presiden dan Wapres pengganti."
+    },
+    {
+      "id": "dr_b03_233",
+      "category": "TWK",
+      "subtopic": "twk_pilar_negara",
+      "question": "Berdasarkan Pasal 22E Ayat (1) UUD 1945, enam asas penyelenggaraan Pemilihan Umum di Indonesia setiap lima tahun sekali adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Langsung, umum, bebas, rahasia, jujur, dan adil (Luber Jurdil)",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Langsung, khusus, bebas, rahasia, proporsional, dan tertutup",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Langsung, terbatas, terbuka, cepat, murah, dan serentak",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Perwakilan, umum, bebas, terbuka, jujur, dan efisien",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Umum, sukarela, terbuka, merata, netral, dan terpusat",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: A. Pasal 22E Ayat (1) UUD 1945 menegaskan pemilu dilaksanakan secara langsung, umum, bebas, rahasia, jujur, dan adil setiap lima tahun sekali."
+    },
+    {
+      "id": "dr_b03_234",
+      "category": "TWK",
+      "subtopic": "twk_pilar_negara",
+      "question": "Pasal 28H Ayat (1) UUD 1945 menjamin hak dasar setiap warga negara terkait kualitas kehidupan dan lingkungan, yaitu hak untuk...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hidup sejahtera lahir dan batin, bertempat tinggal, mendapatkan lingkungan hidup yang baik dan sehat, serta memperoleh pelayanan kesehatan",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Memperoleh pembebasan total dari seluruh kewajiban pajak negara",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Mendapatkan pekerjaan di instansi pemerintah pusat tanpa melalui proses seleksi",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Memanfaatkan seluruh kawasan hutan lindung untuk kepentingan usaha pribadi",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Memiliki hak suara ganda dalam pemilihan kepala daerah",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: A. Pasal 28H Ayat (1) menjadi landasan konstitusional hak atas kesejahteraan, perumahan, lingkungan hidup sehat, dan pelayanan kesehatan."
+    },
+    {
+      "id": "dr_b03_235",
+      "category": "TWK",
+      "subtopic": "twk_pilar_negara",
+      "question": "Dalam penyelenggaraan Pemerintahan Daerah, penugasan dari Pemerintah Pusat kepada daerah otonom atau dari pemerintah provinsi kepada kabupaten/kota atau desa untuk melaksanakan sebagian urusan pemerintahan tertentu disertai pembiayaan, sarana, dan prasarana disebut...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tugas Pembantuan",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Desentralisasi",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Sentralisasi Mutlak",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Dekonsentrasi",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Otonomi Khusus",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: A. Tugas Pembantuan (medebewind) adalah penugasan melaksanakan urusan tertentu dari tingkat pemerintahan lebih tinggi kepada daerah/desa disertai dukungan dana, sarana, dan SDM."
+    },
+    {
+      "id": "dr_b03_236",
+      "category": "TWK",
+      "subtopic": "twk_pilar_negara",
+      "question": "Berdasarkan Pasal 20 Ayat (5) UUD 1945, apabila sebuah Rancangan Undang-Undang yang telah disetujui bersama oleh DPR dan Presiden tidak disahkan (ditandatangani) oleh Presiden dalam waktu 30 hari sejak disetujui bersama, maka...",
+      "options": [
+        {
+          "key": "A",
+          "text": "RUU tersebut diturunkan derajatnya menjadi Peraturan Presiden sementara",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "DPR wajib mengulang seluruh pembahasan dari awal pada periode lima tahun berikutnya",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Rancangan Undang-Undang tersebut sah menjadi undang-undang dan wajib diundangkan",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "Rancangan Undang-Undang tersebut otomatis batal dan tidak boleh diajukan lagi",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Mahkamah Agung berhak mengubah isi pasal RUU sebelum diundangkan",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: C. Pasal 20 Ayat (5) UUD 1945 mengatur bahwa RUU yang telah disetujui bersama otomatis sah menjadi UU setelah 30 hari meski tidak ditandatangani Presiden, dan wajib diundangkan."
+    },
+    {
+      "id": "dr_b03_237",
+      "category": "TWK",
+      "subtopic": "twk_pilar_negara",
+      "question": "Berdasarkan Pasal 11 Ayat (1) dan Ayat (2) UUD 1945, dalam menyatakan perang, membuat perdamaian, dan membuat perjanjian internasional tertentu yang menimbulkan akibat luas dan mendasar bagi kehidupan rakyat, Presiden wajib memperoleh persetujuan...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dewan Perwakilan Rakyat (DPR)",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Badan Pemeriksa Keuangan (BPK)",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Komisi Yudisial (KY)",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Dewan Pertimbangan Presiden",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Mahkamah Agung (MA)",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: A. Pasal 11 UUD 1945 menerapkan checks and balances pada kebijakan luar negeri strategis: Presiden harus mendapat persetujuan DPR."
+    },
+    {
+      "id": "dr_b03_238",
+      "category": "TWK",
+      "subtopic": "twk_pilar_negara",
+      "question": "Konsep bahwa setiap sila dalam Pancasila saling menjiwai, mengualifikasi, dan merupakan satu kesatuan utuh yang tidak dapat dipisah-pisahkan (misalnya Sila Ketuhanan menjiwai Sila Kemanusiaan, Persatuan, Kerakyatan, dan Keadilan) dikenal sebagai sifat Pancasila yang...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hierarkis piramidal dan organis (kesatuan bulat utuh)",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Statis dogmatis tanpa kemampuan penjabaran kebijakan",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Konfederatif yang membedakan penerapan sila di tiap provinsi",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Fragmentaris dan dapat dipilih salah satu saja",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Individualistis liberal yang memisahkan agama dari moral publik",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: A. Kelima sila Pancasila tersusun secara hierarkis piramidal dan saling meliputi/menjiwai sebagai satu kesatuan bulat dan utuh."
+    },
+    {
+      "id": "dr_b03_239",
+      "category": "TWK",
+      "subtopic": "twk_pilar_negara",
+      "question": "Menurut Pasal 33 Ayat (4) UUD 1945 hasil amandemen, perekonomian nasional diselenggarakan berdasar atas demokrasi ekonomi dengan prinsip...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kebersamaan, efisiensi berkeadilan, berkelanjutan, berwawasan lingkungan, kemandirian, serta dengan menjaga keseimbangan kemajuan dan kesatuan ekonomi nasional",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Penguasaan penuh seluruh aset produksi swasta kecil oleh pemerintah pusat",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Pemusatan pertumbuhan ekonomi hanya pada wilayah ibu kota negara",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Persaingan bebas tanpa campur tangan negara sama sekali dalam sektor strategis",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Eksploitasi sumber daya alam maksimal tanpa mempertimbangkan dampak lingkungan",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: A. Pasal 33 Ayat (4) merumuskan prinsip demokrasi ekonomi Indonesia yang adil, berkelanjutan, berwawasan lingkungan, mandiri, dan seimbang secara nasional."
+    },
+    {
+      "id": "dr_b03_240",
+      "category": "TWK",
+      "subtopic": "twk_pilar_negara",
+      "question": "Pada tanggal 1 Juni 1945 dalam sidang pertama BPUPKI, Ir. Soekarno menyampaikan pidato gagasan dasar negara yang untuk pertama kalinya memperkenalkan nama 'Pancasila'. Berdasarkan Keputusan Presiden Nomor 24 Tahun 2016, tanggal 1 Juni ditetapkan sebagai...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hari Lahir Pancasila",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Hari Konstitusi Republik Indonesia",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Hari Kesaktian Pancasila",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Hari Kebangkitan Nasional",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Hari Sumpah Pemuda",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: A. 1 Juni diperingati sebagai Hari Lahir Pancasila (pidato Soekarno di BPUPKI 1945), sedangkan 1 Oktober adalah Hari Kesaktian Pancasila, dan 18 Agustus adalah Hari Konstitusi."
+    },
+    {
+      "id": "dr_b03_241",
+      "category": "TWK",
+      "subtopic": "twk_bahasa_negara",
+      "question": "Manakah penulisan tanda koma (,) sebelum kata penghubung pertentangan yang tepat sesuai kaidah EYD V?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Unit layanan tersebut tidak menaikkan tarif melainkan mempercepat proses verifikasi berkas.",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Unit layanan tersebut tidak menaikkan tarif melainkan, mempercepat proses verifikasi berkas.",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Unit layanan tersebut tidak menaikkan tarif, melainkan mempercepat proses verifikasi berkas.",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "Unit layanan tersebut, tidak menaikkan tarif melainkan mempercepat proses verifikasi berkas.",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Unit layanan tersebut tidak, menaikkan tarif, melainkan mempercepat proses verifikasi berkas.",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: C. Sesuai EYD V, tanda koma wajib dipakai sebelum kata penghubung pertentangan seperti 'tetapi', 'melainkan', dan 'sedangkan' dalam kalimat majemuk setara."
+    },
+    {
+      "id": "dr_b03_242",
+      "category": "TWK",
+      "subtopic": "twk_bahasa_negara",
+      "question": "Penulisan singkatan umum yang terdiri atas tiga huruf atau lebih serta singkatan dua huruf yang seluruhnya tepat sesuai EYD V adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "dll, dsb, hlm, a.n., s.d., u.p.",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "dll., dsb., hlm., a/n, s/d, u/p",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "dll., dsb., hlm., a.n., s.d., u.p.",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "d.l.l., d.s.b., h.l.m., an., sd., up.",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "d.l.l., dsb., hlm., a.n, s.d, u.p",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: C. Singkatan umum 3 huruf atau lebih diikuti satu tanda titik di akhir (dll., dsb., hlm.), sedangkan singkatan 2 kata umum masing-masing diikuti titik (a.n., s.d., u.p., d.a.)."
+    },
+    {
+      "id": "dr_b03_243",
+      "category": "TWK",
+      "subtopic": "twk_bahasa_negara",
+      "question": "Penulisan unsur mata uang dan nominal angka yang benar sesuai EYD V terdapat pada...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Biaya resmi yang tercantum dalam kuitansi adalah Rp. 150.000,-.",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Biaya resmi yang tercantum dalam kuitansi adalah Rp 150.000,00.",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Biaya resmi yang tercantum dalam kuitansi adalah Rp150,000.00.",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Biaya resmi yang tercantum dalam kuitansi adalah Rp.150.000,00.",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Biaya resmi yang tercantum dalam kuitansi adalah Rp150.000,00.",
+          "points": 5
+        }
+      ],
+      "explanation": "Jawaban benar: E. Menurut EYD V, lambang mata uang 'Rp' ditulis tanpa titik dan tanpa spasi di depan angka, menggunakan titik sebagai pemisah ribuan dan koma untuk desimal sen (Rp150.000,00)."
+    },
+    {
+      "id": "dr_b03_244",
+      "category": "TWK",
+      "subtopic": "twk_bahasa_negara",
+      "question": "Manakah penulisan kata ulang berimbuhan dan gabungan kata yang seluruhnya baku sesuai EYD V?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tarik-menarik, berulang-ulang, surat-menyurat, se-Indonesia",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Tarik menarik, ber-ulang-ulang, surat menyurat, seIndonesia",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Tarik-menarik, berulang ulang, surat-menyurat, se Indonesia",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Tarik-menarik, berulang-ulang, surat menyurat, se-Indonesia",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Tarik menarik, berulang-ulang, surat-menyurat, se-Indonesia",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: A. Kata ulang utuh maupun berubah bunyi/berimbuhan disambung tanda hubung (tarik-menarik, berulang-ulang, surat-menyurat), dan awalan 'se-' diikuti huruf kapital memakai tanda hubung (se-Indonesia)."
+    },
+    {
+      "id": "dr_b03_245",
+      "category": "TWK",
+      "subtopic": "twk_bahasa_negara",
+      "question": "Manakah pasangan kata baku KBBI yang seluruh penulisannya benar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Antre, cendikia, risiko, atlet, hakikat, nasihat",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Antre, cendekia, risiko, atlet, hakikat, nasihat",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Antri, cendekia, risiko, atlit, hakikat, nasihat",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Antri, cendikia, resiko, atlit, hakekat, nasehat",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Antre, cendekia, risiko, atlet, hakekat, nasehat",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: B. Bentuk baku KBBI: antre (bukan antri), cendekia (bukan cendikia), risiko (bukan resiko), atlet (bukan atlit), hakikat (bukan hakekat), dan nasihat (bukan nasehat)."
+    },
+    {
+      "id": "dr_b03_246",
+      "category": "TWK",
+      "subtopic": "twk_bahasa_negara",
+      "question": "Kalimat berikut yang terbebas dari kesalahan makna kata (diksi) maupun pleonasme adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Agar supaya antrean tidak macet, hanya pemohon yang lengkap saja yang diproses.",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Para hadirin sekalian dimohon agar supaya segera memasuki ruang sidang utama.",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Kepala dinas menjelaskan mengenai tentang rencana perbaikan layanan publik pada tahun depan.",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Kepala dinas menjelaskan rencana perbaikan layanan publik pada tahun depan.",
+          "points": 5
+        },
+        {
+          "key": "E",
+          "text": "Semua karyawan-karyawan wajib menaati jam masuk kantor sejak mulai hari Senin.",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: D. Kalimat efektif menghindari pengulangan makna/pleonasme seperti 'mengenai tentang', 'para hadirin sekalian', 'semua karyawan-karyawan', 'sejak mulai', 'agar supaya', dan 'hanya... saja'."
+    },
+    {
+      "id": "dr_b03_247",
+      "category": "TWK",
+      "subtopic": "twk_bahasa_negara",
+      "question": "Penulisan waktu dan tanggal surat dinas yang tepat sesuai EYD V terdapat pada...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rapat dilaksanakan pada hari Senin 24 November 2026, pukul 09.30 wib.",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Rapat dilaksanakan pada hari senin, 24 Nopember 2026, pukul 09.30 WIB.",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Rapat dilaksanakan pada hari Senin, 24 November 2026, pukul 09:30 WIB.",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Rapat dilaksanakan pada hari Senin, 24 November 2026, pukul 09.30 WIB.",
+          "points": 5
+        },
+        {
+          "key": "E",
+          "text": "Rapat dilaksanakan pada hari Senin, 24 November 2026 pukul 09:30 WIB.",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: D. Menurut EYD V: pemisah jam dan menit adalah tanda titik (09.30), nama bulan baku adalah 'November' (bukan Nopember), singkatan zona waktu kapital (WIB), dan keterangan tanggal di tengah kalimat diapit koma."
+    },
+    {
+      "id": "dr_b03_248",
+      "category": "TWK",
+      "subtopic": "twk_bahasa_negara",
+      "question": "Manakah penggunaan imbuhan 'ke-an' dan bentuk kata baku yang tepat pada kalimat kedinasan berikut?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Keberhasilan transformasi digital bergantung dari kesiapan sumber daya manusia dan kesesuaian prosedur.",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Keberhasilan transformasi digital bergantung kepada dari kesiapan sumber daya manusia dan kesesuaian prosedur.",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Keberhasilan transformasi digital tergantung daripada kesiapan sumber daya manusia dan kesesuaian prosedur.",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Keberhasilan transformasi digital bergantung pada kesiapan sumber daya manusia dan kesesuaian prosedur.",
+          "points": 5
+        },
+        {
+          "key": "E",
+          "text": "Keberhasilan transformasi digital tergantung dari kesiapan sumber daya manusia dan kesesuaian prosedur.",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: D. Pasangan idiomatis baku bahasa Indonesia adalah 'bergantung pada' (atau 'tergantung pada'), bukan 'bergantung dari' atau 'daripada'."
+    },
+    {
+      "id": "dr_b03_249",
+      "category": "TWK",
+      "subtopic": "twk_bahasa_negara",
+      "question": "Manakah penggunaan huruf kapital pada nama peristiwa sejarah dan nama hari raya yang seluruhnya benar sesuai EYD V?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Upacara peringatan Proklamasi kemerdekaan indonesia dan libur Hari Raya Nyepi ditetapkan dalam kalender nasional.",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Upacara peringatan Proklamasi Kemerdekaan Indonesia dan libur hari raya nyepi ditetapkan dalam kalender nasional.",
+          "points": 0
+        },
+        {
+          "key": "C",
+          "text": "Upacara peringatan Proklamasi Kemerdekaan Indonesia dan libur Hari Raya Nyepi ditetapkan dalam kalender nasional.",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "Upacara peringatan proklamasi Kemerdekaan Indonesia dan libur Hari Raya nyepi ditetapkan dalam kalender nasional.",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Upacara peringatan proklamasi kemerdekaan Indonesia dan libur hari raya Nyepi ditetapkan dalam kalender nasional.",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: C. Sesuai EYD V, huruf pertama unsur nama peristiwa sejarah (Proklamasi Kemerdekaan Indonesia) dan nama hari raya keagamaan (Hari Raya Nyepi) ditulis dengan huruf kapital."
+    },
+    {
+      "id": "dr_b03_250",
+      "category": "TWK",
+      "subtopic": "twk_bahasa_negara",
+      "question": "Perhatikan pasangan kata berpasangan tetap (idiomatis) berikut. Kalimat yang seluruh pasangan katanya baku adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Keputusan tersebut sesuai peraturan yang berlaku dan berbeda dengan daripada usulan sebelumnya.",
+          "points": 0
+        },
+        {
+          "key": "B",
+          "text": "Keputusan tersebut sesuai dengan peraturan yang berlaku dan berbeda dari usulan sebelumnya.",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Keputusan tersebut disebabkan karena keterlambatan data dan terdiri dari tiga tahap.",
+          "points": 0
+        },
+        {
+          "key": "D",
+          "text": "Keputusan tersebut antara lain terdiri dari poin A, poin B, dan lain-lain.",
+          "points": 0
+        },
+        {
+          "key": "E",
+          "text": "Keputusan tersebut membicarakan tentang anggaran dan bertujuan untuk meningkatkan mutu.",
+          "points": 0
+        }
+      ],
+      "explanation": "Jawaban benar: B. Bentuk idiomatis baku: 'sesuai dengan', 'berbeda dari/dengan', 'disebabkan oleh' (bukan disebabkan karena), 'terdiri atas/dari', 'membicarakan + objek langsung' (tanpa tentang), serta tidak menggabungkan 'antara lain' dengan 'dan lain-lain'."
+    },
+    {
+      "id": "dr_b03_251",
+      "category": "TKP",
+      "subtopic": "tkp_pelayanan",
+      "question": "Seorang warga datang menanyakan status pengajuan sertifikat/izinnya yang dijanjikan selesai dalam 5 hari kerja, namun hari ini sudah memasuki hari kerja ke-7 dan dokumennya masih tertahan di meja penandatangan karena pimpinan sedang dinas luar. Tindakan Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Meminta maaf dengan tulus atas keterlambatan, menjelaskan status faktual secara sopan, segera berkoordinasi dengan sekretaris pimpinan atau pejabat pelaksana harian (Plh.) agar penandatanganan dipercepat sesuai prosedur, dan menawarkan notifikasi langsung ke pemohon segera setelah selesai",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Meminta warga menunggu di ruang tunggu sampai sore tanpa memastikan apakah dokumen bisa ditandatangani hari itu",
+          "points": 1
+        },
+        {
+          "key": "C",
+          "text": "Menjelaskan bahwa keterlambatan dua hari merupakan hal biasa di instansi pemerintah",
+          "points": 3
+        },
+        {
+          "key": "D",
+          "text": "Menyalahkan bagian sekretariat pimpinan di hadapan warga agar Anda tidak dianggap lalai",
+          "points": 2
+        },
+        {
+          "key": "E",
+          "text": "Menyampaikan bahwa pimpinan sedang di luar kota sehingga warga diminta datang lagi pekan depan untuk mengecek sendiri",
+          "points": 4
+        }
+      ],
+      "explanation": "Poin tertinggi (5): A. Tanggung jawab atas kepastian waktu layanan ditunjukkan dengan permintaan maaf tulus, koordinasi percepatan (Plh./TTE), dan kepastian kabar bagi pemohon."
+    },
+    {
+      "id": "dr_b03_252",
+      "category": "TKP",
+      "subtopic": "tkp_pelayanan",
+      "question": "Anda bertugas di layanan pengaduan telepon (call center) instansi. Seorang penelepon berbicara sangat cepat dengan nada panik karena dokumen penting miliknya hilang menjelang tenggat pendaftaran sekolah anaknya. Sikap Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Membacakan seluruh pasal peraturan kehilangan dokumen dengan cepat tanpa mengecek apakah ia paham",
+          "points": 3
+        },
+        {
+          "key": "B",
+          "text": "Menenangkan penelepon dengan nada suara stabil dan empatik, menyimak pokok masalahnya dengan cermat, lalu memandu langkah pengurusan surat pengganti secara terurut, jelas, dan mudah dicatat",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Menjawab bahwa kehilangan dokumen adalah kelalaian pribadi sehingga tidak ada layanan prioritas",
+          "points": 1
+        },
+        {
+          "key": "D",
+          "text": "Memintanya menutup telepon dulu dan menghubungi kembali nanti setelah emosinya tenang",
+          "points": 4
+        },
+        {
+          "key": "E",
+          "text": "Menyuruhnya langsung datang ke kantor tanpa menjelaskan berkas apa saja yang perlu dibawa terlebih dahulu",
+          "points": 2
+        }
+      ],
+      "explanation": "Poin tertinggi (5): B. Ketenangan petugas dan panduan langkah terstruktur membantu masyarakat yang panik menyelesaikan kebutuhannya secara cepat dan tepat."
+    },
+    {
+      "id": "dr_b03_253",
+      "category": "TKP",
+      "subtopic": "tkp_pelayanan",
+      "question": "Saat jam pelayanan sedang berjalan, seorang warga membawa anak balita yang sangat aktif dan mulai menyentuh kabel komputer serta perangkat antrean di dekat meja informasi. Tindakan Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menegur orang tuanya dengan nada keras agar segera menggendong anaknya keluar ruangan",
+          "points": 4
+        },
+        {
+          "key": "B",
+          "text": "Menunda pelayanan orang tua tersebut hingga anaknya berhenti bergerak",
+          "points": 2
+        },
+        {
+          "key": "C",
+          "text": "Membiarkan saja anak tersebut bermain di dekat kabel karena khawatir menyinggung perasaan orang tuanya",
+          "points": 3
+        },
+        {
+          "key": "D",
+          "text": "Menyapa anak tersebut dengan ramah dan lembut, mengingatkan orang tuanya secara sopan demi keselamatan anak dari aliran listrik, serta mengarahkan ke area tunggu atau sudut ramah anak yang aman sambil tetap melayani keperluan orang tuanya",
+          "points": 5
+        },
+        {
+          "key": "E",
+          "text": "Memanggil petugas keamanan untuk meminta keluarga tersebut menunggu di luar pagar kantor",
+          "points": 1
+        }
+      ],
+      "explanation": "Poin tertinggi (5): D. Mengutamakan keselamatan pengunjung dengan komunikasi ramah dan ramah keluarga mencerminkan standar pelayanan publik yang humanis."
+    },
+    {
+      "id": "dr_b03_254",
+      "category": "TKP",
+      "subtopic": "tkp_pelayanan",
+      "question": "Seorang warga datang dengan membawa berkas fotokopi yang sangat buram sehingga angka NIK pada dokumen tidak dapat terbaca jelas, sementara ia membawa dokumen aslinya di dalam tas. Langkah paling solutif Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tetap memasukkan angka NIK berdasarkan tebakan dari hasil fotokopi yang buram",
+          "points": 3
+        },
+        {
+          "key": "B",
+          "text": "Langsung menolak berkas dan menyuruhnya mencari tempat fotokopi di luar tanpa menanyakan apakah ia membawa dokumen aslinya",
+          "points": 4
+        },
+        {
+          "key": "C",
+          "text": "Meminta warga tersebut menulis ulang angka NIK dengan pulpen di atas fotokopi yang buram tanpa memeriksa aslinya",
+          "points": 2
+        },
+        {
+          "key": "D",
+          "text": "Menyuruhnya kembali esok hari dengan berkas yang lebih jelas",
+          "points": 1
+        },
+        {
+          "key": "E",
+          "text": "Meminta izin melihat dokumen aslinya untuk memverifikasi keabsahan data secara langsung sesuai prosedur (atau memindainya langsung bila SOP layanan menggunakan arsip digital) sehingga warga tidak perlu repot keluar fotokopi ulang jika tidak diwajibkan salinan kertas",
+          "points": 5
+        }
+      ],
+      "explanation": "Poin tertinggi (5): E. Verifikasi langsung dari dokumen asli atau pemindaian digital sesuai SOP mencegah penolakan tak perlu sekaligus menjamin akurasi data."
+    },
+    {
+      "id": "dr_b03_255",
+      "category": "TKP",
+      "subtopic": "tkp_pelayanan",
+      "question": "Unit pelayanan Anda berencana memindahkan lokasi loket sementara selama dua minggu karena gedung utama akan direnovasi. Sebagai anggota tim pelayanan, langkah komunikasi terbaik agar masyarakat tidak kebingungan adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menutup seluruh pelayanan selama dua minggu penuh tanpa menyediakan loket sementara",
+          "points": 2
+        },
+        {
+          "key": "B",
+          "text": "Memasang satu lembar kertas pengumuman kecil di pintu masuk gedung utama pada hari pertama renovasi dimulai",
+          "points": 4
+        },
+        {
+          "key": "C",
+          "text": "Mengandalkan informasi dari mulut ke mulut antarwarga yang kebetulan datang",
+          "points": 3
+        },
+        {
+          "key": "D",
+          "text": "Mengumumkan jadwal dan peta lokasi sementara jauh hari sebelumnya melalui situs web, media sosial resmi, pesan notifikasi pendaftar daring, spanduk jelas di gedung lama, serta menyiagakan petugas penunjuk arah pada hari-hari awal pemindahan",
+          "points": 5
+        },
+        {
+          "key": "E",
+          "text": "Hanya menginformasikan pemindahan lokasi kepada pegawai internal kantor",
+          "points": 1
+        }
+      ],
+      "explanation": "Poin tertinggi (5): D. Sosialisasi multi-kanal jauh hari sebelum perubahan lokasi menjamin kesinambungan akses pelayanan tanpa menyulitkan warga."
+    },
+    {
+      "id": "dr_b03_256",
+      "category": "TKP",
+      "subtopic": "tkp_pelayanan",
+      "question": "Seorang warga dari luar kota menelepon untuk menanyakan apakah suatu layanan dapat diwakilkan oleh anggota keluarganya menggunakan surat kuasa. Anda belum 100% yakin mengenai syarat terbaru surat kuasa untuk layanan khusus tersebut. Tindakan Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Langsung menjawab 'tidak bisa' agar aman meskipun belum memeriksa aturan resminya",
+          "points": 3
+        },
+        {
+          "key": "B",
+          "text": "Menyuruh penelepon datang langsung saja dari luar kota untuk memastikan di loket",
+          "points": 2
+        },
+        {
+          "key": "C",
+          "text": "Langsung menjawab 'bisa' berdasarkan perkiraan Anda agar penelepon senang",
+          "points": 4
+        },
+        {
+          "key": "D",
+          "text": "Meminta izin kepada penelepon untuk menunggu sebentar (atau menawarkan menghubungi balik segera), memeriksa langsung SOP dan peraturan terbaru bersama verifikator terkait, lalu menyampaikan jawaban pasti yang akurat dan lengkap",
+          "points": 5
+        },
+        {
+          "key": "E",
+          "text": "Mengalihkan panggilan ke nomor ekstensi acak lain agar ditangani pegawai lain",
+          "points": 1
+        }
+      ],
+      "explanation": "Poin tertinggi (5): D. Akurasi informasi pelayanan jauh lebih penting daripada menjawab cepat secara spekulatif yang berisiko merugikan masyarakat."
+    },
+    {
+      "id": "dr_b03_257",
+      "category": "TKP",
+      "subtopic": "tkp_pelayanan",
+      "question": "Seorang pemohon layanan tampak kebingungan memahami penjelasan teknis mengenai alur pengurusan izin usaha mikro meskipun Anda sudah menjelaskannya sekali secara lisan. Sikap Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menunjukkan ekspresi lelah sambil menyarankan ia membawa pendamping yang lebih paham",
+          "points": 2
+        },
+        {
+          "key": "B",
+          "text": "Mengulangi penjelasan dengan sabar menggunakan bahasa sehari-hari yang lebih sederhana, menuliskan urutan 3–4 langkah utamanya pada secarik kertas/daftar periksa, dan memastikan ia benar-benar paham sebelum meninggalkan loket",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Menjelaskan ulang dengan nada suara lebih keras dan cepat agar antrean di belakangnya tidak menunggu lama",
+          "points": 4
+        },
+        {
+          "key": "D",
+          "text": "Langsung memanggil nomor antrean berikutnya karena merasa sudah menjalankan kewajiban menjelaskan sekali",
+          "points": 1
+        },
+        {
+          "key": "E",
+          "text": "Menyerahkan buku pedoman setebal 40 halaman untuk dipelajari sendiri di rumah",
+          "points": 3
+        }
+      ],
+      "explanation": "Poin tertinggi (5): B. Kesabaran, penyederhanaan bahasa, dan bantuan catatan langkah memastikan warga benar-benar terbantu hingga tuntas."
+    },
+    {
+      "id": "dr_b03_258",
+      "category": "TKP",
+      "subtopic": "tkp_pelayanan",
+      "question": "Anda melihat seorang warga di ruang tunggu tiba-tiba tampak pusing berat dan hampir pingsan saat menunggu antrean layanan. Sebagai petugas yang sedang berjaga di area depan, tindakan pertama Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hanya mencatat kejadian tersebut di buku laporan harian tanpa menghampirinya",
+          "points": 1
+        },
+        {
+          "key": "B",
+          "text": "Meminta warga lain di sebelahnya untuk membantu sambil Anda melanjutkan mengetik dokumen",
+          "points": 3
+        },
+        {
+          "key": "C",
+          "text": "Tetap duduk di meja loket dan menunggu petugas keamanan menyadari kejadian tersebut",
+          "points": 4
+        },
+        {
+          "key": "D",
+          "text": "Meminta warga tersebut pulang dulu agar tidak menimbulkan kepanikan di ruang tunggu",
+          "points": 2
+        },
+        {
+          "key": "E",
+          "text": "Segera menolong dan memindahkan warga ke kursi/ruang kesehatan (P3K) yang sejuk, memberikan pertolongan pertama sesuai kemampuan, menghubungi tenaga medis/keluarganya bila perlu, serta memastikan urusan antreannya dibantu setelah kondisinya stabil",
+          "points": 5
+        }
+      ],
+      "explanation": "Poin tertinggi (5): E. Keselamatan dan kemanusiaan masyarakat selalu menjadi prioritas tertinggi di atas rutinitas administratif sesaat."
+    },
+    {
+      "id": "dr_b03_259",
+      "category": "TKP",
+      "subtopic": "tkp_pelayanan",
+      "question": "Instansi Anda membuka layanan keliling di pasar tradisional pada hari Sabtu untuk memudahkan pedagang yang sulit meninggalkan lapak pada hari kerja. Saat Anda ditugaskan dalam jadwal layanan keliling tersebut, sikap Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Datang terlambat ke lokasi pasar dan menutup layanan lebih awal dari jadwal yang diumumkan",
+          "points": 3
+        },
+        {
+          "key": "B",
+          "text": "Melaksanakan tugas dengan penuh semangat, menyiapkan perangkat dan formulir secara lengkap sebelum berangkat, serta melayani pedagang dengan cepat dan ramah agar manfaat layanan jemput bola terasa maksimal",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Melaksanakan tugas dengan enggan karena merasa hari Sabtu seharusnya selalu menjadi hari libur pribadi",
+          "points": 4
+        },
+        {
+          "key": "D",
+          "text": "Membawa formulir seadanya saja lalu menyuruh pedagang tetap datang ke kantor pada hari Senin",
+          "points": 2
+        },
+        {
+          "key": "E",
+          "text": "Meminta rekan junior selalu menggantikan setiap kali Anda mendapat giliran layanan keliling",
+          "points": 1
+        }
+      ],
+      "explanation": "Poin tertinggi (5): B. Komitmen optimal pada layanan jemput bola mencerminkan orientasi pelayanan yang proaktif mendekatkan negara kepada masyarakat."
+    },
+    {
+      "id": "dr_b03_260",
+      "category": "TKP",
+      "subtopic": "tkp_jejaring_kerja",
+      "question": "Anda dipindahkan menjadi ketua tim kecil yang beranggotakan pegawai-pegawai lebih senior secara usia dan masa kerja dibandingkan Anda. Langkah awal terbaik untuk membangun kerja sama yang solid adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Meminta pimpinan mengganti anggota tim dengan pegawai yang usianya lebih muda dari Anda",
+          "points": 1
+        },
+        {
+          "key": "B",
+          "text": "Menunjukkan sikap santun dan menghormati pengalaman senioritas mereka, membangun komunikasi dua arah yang terbuka, melibatkan mereka dalam penyusunan rencana kerja, serta tetap menjalankan peran koordinasi secara objektif dan profesional",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Mengerjakan sebagian besar tugas tim sendirian agar tidak perlu mengarahkan pegawai senior",
+          "points": 2
+        },
+        {
+          "key": "D",
+          "text": "Menunjukkan sikap sangat kaku dan memerintah keras sejak hari pertama agar wibawa sebagai ketua langsung terlihat",
+          "points": 4
+        },
+        {
+          "key": "E",
+          "text": "Menyerahkan seluruh pengambilan keputusan kepada pegawai paling senior karena merasa sungkan",
+          "points": 3
+        }
+      ],
+      "explanation": "Poin tertinggi (5): B. Menghormati pengalaman senior disertai kepemimpinan kolaboratif yang objektif membangun kepercayaan lintas generasi dalam tim."
+    },
+    {
+      "id": "dr_b03_261",
+      "category": "TKP",
+      "subtopic": "tkp_jejaring_kerja",
+      "question": "Instansi Anda mengadakan kerja sama penelitian bersama sebuah perguruan tinggi, namun di tengah jalan jadwal pengumpulan data lapangan terhambat musim hujan lebat. Tindakan kolaboratif terbaik Anda sebagai koordinator instansi adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menyuruh tim kampus mengubah data lapangan menjadi data perkiraan saja agar laporan tepat waktu",
+          "points": 1
+        },
+        {
+          "key": "B",
+          "text": "Langsung mengusulkan pemutusan kerja sama tanpa membahas alternatif penyesuaian dengan pihak kampus",
+          "points": 3
+        },
+        {
+          "key": "C",
+          "text": "Menunggu cuaca cerah berbulan-bulan tanpa melaporkan atau mendiskusikan penyesuaian lini masa",
+          "points": 2
+        },
+        {
+          "key": "D",
+          "text": "Memaksa tim kampus tetap turun ke lokasi rawan banjir agar jadwal kontrak tidak berubah sedikit pun",
+          "points": 4
+        },
+        {
+          "key": "E",
+          "text": "Segera mengadakan rapat penyesuaian bersama tim peneliti kampus untuk memetakan ulang jadwal lokasi terdampak, menyiapkan opsi wawancara daring/lokasi aman alternatif, dan menyepakati revisi lini masa secara transparan",
+          "points": 5
+        }
+      ],
+      "explanation": "Poin tertinggi (5): E. Fleksibilitas kolaboratif berbasis keselamatan dan penyesuaian lini masa transparan menjaga mutu kerja sama serta kepercayaan mitra."
+    },
+    {
+      "id": "dr_b03_262",
+      "category": "TKP",
+      "subtopic": "tkp_jejaring_kerja",
+      "question": "Seorang rekan satu tim baru saja menyampaikan ide inovatif dalam rapat, namun ide tersebut masih memiliki beberapa celah teknis pelaksanaan. Cara memberikan umpan balik yang paling membangun dalam tim adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mengambil inti idenya lalu menyampaikannya ulang di akhir rapat seolah-olah ide asli Anda",
+          "points": 1
+        },
+        {
+          "key": "B",
+          "text": "Memuji idenya setinggi langit tanpa menyebutkan celah teknisnya agar ia tidak tersinggung, meski berisiko gagal saat dijalankan",
+          "points": 3
+        },
+        {
+          "key": "C",
+          "text": "Diam saja di dalam rapat lalu membicarakan kelemahan idenya kepada rekan lain di luar ruangan",
+          "points": 2
+        },
+        {
+          "key": "D",
+          "text": "Mengapresiasi kelebihan gagasan intinya terlebih dahulu, lalu menunjukkan celah teknis secara objektif disertai pertanyaan atau usulan penyempurnaan agar ide tersebut dapat dikembangkan bersama",
+          "points": 5
+        },
+        {
+          "key": "E",
+          "text": "Langsung menolak ide tersebut di depan forum dan menyebutnya tidak realistis",
+          "points": 4
+        }
+      ],
+      "explanation": "Poin tertinggi (5): D. Umpan balik konstruktif yang menghargai ide sekaligus memperbaiki celah teknis mendorong budaya inovasi dan rasa aman psikologis dalam tim."
+    },
+    {
+      "id": "dr_b03_263",
+      "category": "TKP",
+      "subtopic": "tkp_jejaring_kerja",
+      "question": "Anda bekerja pada unit perencanaan yang menyusun rancangan program kerja tahun depan. Agar program benar-benar menjawab kebutuhan lapangan dan tidak ditolak unit pelaksana, pendekatan kerja sama terbaik adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mengajak diskusi unit pelaksana setelah dokumen anggaran sudah diketok dan tidak bisa diubah lagi",
+          "points": 1
+        },
+        {
+          "key": "B",
+          "text": "Melibatkan perwakilan unit pelaksana teknis dan unit keuangan sejak tahap penjaringan kebutuhan hingga finalisasi draf sehingga target, sumber daya, dan kapasitas operasional selaras",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Hanya menyalin program tahun lalu tanpa berkonsultasi dengan unit pelaksana mengenai kendala terbaru",
+          "points": 3
+        },
+        {
+          "key": "D",
+          "text": "Menyerahkan penyusunan program sepenuhnya kepada masing-masing unit tanpa penyelarasan visi instansi",
+          "points": 2
+        },
+        {
+          "key": "E",
+          "text": "Menyusun seluruh rancangan program secara tertutup di unit perencanaan lalu langsung mewajibkan unit pelaksana menjalankannya",
+          "points": 4
+        }
+      ],
+      "explanation": "Poin tertinggi (5): B. Perencanaan partisipatif lintas unit sejak tahap awal membangun rasa memiliki dan meminimalkan hambatan eksekusi."
+    },
+    {
+      "id": "dr_b03_264",
+      "category": "TKP",
+      "subtopic": "tkp_jejaring_kerja",
+      "question": "Saat mengerjakan proyek gabungan dengan tiga instansi berbeda, beredar informasi keliru bahwa instansi Anda berniat mengambil alih seluruh publikasi capaian program. Tindakan Anda sebagai narahubung adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Membiarkan isu tersebut berkembang karena merasa tidak perlu menjelaskan apa pun",
+          "points": 4
+        },
+        {
+          "key": "B",
+          "text": "Mencari-cari siapa yang pertama kali menyebarkan isu tersebut untuk dimarahi",
+          "points": 2
+        },
+        {
+          "key": "C",
+          "text": "Menarik diri dari seluruh kegiatan publikasi proyek bersama tersebut",
+          "points": 1
+        },
+        {
+          "key": "D",
+          "text": "Mempercepat publikasi sepihak dari instansi Anda sebelum mitra sempat menyampaikan keberatan",
+          "points": 3
+        },
+        {
+          "key": "E",
+          "text": "Segera meluruskan kesalahpahaman tersebut secara terbuka dan santun dalam forum koordinasi, menegaskan bahwa capaian merupakan hasil kolektif seluruh mitra, dan menyepakati draf publikasi bersama yang mencantumkan seluruh instansi secara proporsional",
+          "points": 5
+        }
+      ],
+      "explanation": "Poin tertinggi (5): E. Klarifikasi cepat, transparansi, dan pengakuan kredit bersama memulihkan kepercayaan dalam jejaring kemitraan antarinstansi."
+    },
+    {
+      "id": "dr_b03_265",
+      "category": "TKP",
+      "subtopic": "tkp_jejaring_kerja",
+      "question": "Seorang rekan kerja di unit Anda baru kembali bekerja setelah cuti melahirkan selama tiga bulan dan tampak perlu waktu menyesuaikan diri dengan beberapa pembaruan sistem kerja terbaru. Sikap Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tidak melibatkannya dalam diskusi proyek baru karena menganggapnya sudah ketinggalan informasi",
+          "points": 1
+        },
+        {
+          "key": "B",
+          "text": "Menyambut hangat kembalinya ia ke tim, merangkumkan poin pembaruan prosedur serta status pekerjaan berjalan secara ringkas, dan bersedia mendampingi selama masa penyesuaian awal",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Mengeluhkan bahwa beban kerja tim meningkat selama ia mengambil cuti resmi",
+          "points": 2
+        },
+        {
+          "key": "D",
+          "text": "Langsung melimpahkan seluruh tumpukan berkas tersulit kepadanya di hari pertama agar ia segera mengejar ketertinggalan",
+          "points": 4
+        },
+        {
+          "key": "E",
+          "text": "Membiarkannya mencari sendiri seluruh surat edaran yang terbit selama tiga bulan terakhir",
+          "points": 3
+        }
+      ],
+      "explanation": "Poin tertinggi (5): B. Dukungan reintegrasi yang hangat dan informatif memperkuat solidaritas serta produktivitas tim."
+    },
+    {
+      "id": "dr_b03_266",
+      "category": "TKP",
+      "subtopic": "tkp_jejaring_kerja",
+      "question": "Dalam tim proyek lintas bidang, Anda bertugas di bagian penyusunan data, sedangkan rekan di bagian desain presentasi mengalami keterlambatan karena komputer kantornya rusak. Tindakan kolaboratif Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Melaporkan kepada ketua tim bahwa bagian desain tidak mampu bekerja tepat waktu",
+          "points": 3
+        },
+        {
+          "key": "B",
+          "text": "Tetap menyerahkan data mentah berantakan sesuai jadwal Anda lalu menganggap keterlambatan akhir sepenuhnya tanggung jawab bagian desain",
+          "points": 4
+        },
+        {
+          "key": "C",
+          "text": "Segera berkoordinasi membantu mencarikan perangkat cadangan kantor/lapor IT, serta menyerahkan data dalam format grafik/tabel yang sudah rapi dan siap tempel agar waktu desainnya terpangkas drastis",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "Menunggu pasif sampai komputer bagian desain selesai diperbaiki berhari-hari kemudian",
+          "points": 2
+        },
+        {
+          "key": "E",
+          "text": "Meminta ketua tim menghapus seluruh visualisasi grafik dari presentasi pimpinan",
+          "points": 1
+        }
+      ],
+      "explanation": "Poin tertinggi (5): C. Meringankan hambatan hulu-hilir rekan setim mencerminkan pola pikir kolaboratif berorientasi keberhasilan bersama."
+    },
+    {
+      "id": "dr_b03_267",
+      "category": "TKP",
+      "subtopic": "tkp_jejaring_kerja",
+      "question": "Instansi Anda rutin mengadakan rapat koordinasi bulanan dengan perwakilan kepala desa se-kecamatan. Agar rapat tidak berlangsung satu arah dan jejaring kemitraan makin kuat, perbaikan format rapat yang Anda usulkan adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Membagikan agenda dan bahan pembahasan dua hari sebelum rapat, mengalokasikan waktu khusus sesi berbagi kendala dan praktik baik antardesa, serta menindaklanjuti setiap masukan dengan laporan progres pada rapat bulan berikutnya",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Mengganti seluruh rapat koordinasi dengan pengiriman surat tertulis saja agar tidak perlu berinteraksi",
+          "points": 3
+        },
+        {
+          "key": "C",
+          "text": "Mempersilakan kepala desa menyampaikan keluhan namun tidak pernah mencatat atau menindaklanjutinya",
+          "points": 1
+        },
+        {
+          "key": "D",
+          "text": "Hanya mengundang desa yang lokasinya paling dekat dengan kantor kecamatan",
+          "points": 2
+        },
+        {
+          "key": "E",
+          "text": "Mengisi seluruh durasi rapat dengan pembacaan surat edaran satu arah dari kantor kecamatan tanpa sesi tanya jawab",
+          "points": 4
+        }
+      ],
+      "explanation": "Poin tertinggi (5): A. Forum dua arah yang terstruktur dan menindaklanjuti aspirasi secara nyata membangun kemitraan pemerintah-desa yang kuat."
+    },
+    {
+      "id": "dr_b03_268",
+      "category": "TKP",
+      "subtopic": "tkp_jejaring_kerja",
+      "question": "Anda memiliki keahlian khusus dalam penyusunan visualisasi data dan mengetahui ada tim dari divisi lain yang sedang kesulitan menyajikan data kinerja untuk evaluasi kementerian. Mereka belum sempat meminta bantuan Anda. Sikap Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menawarkan bantuan namun meminta nama Anda dicantumkan sebagai ketua tim mereka",
+          "points": 2
+        },
+        {
+          "key": "B",
+          "text": "Menawarkan bantuan konsultasi singkat atau berbagi template grafik yang sudah Anda buat setelah memastikan pekerjaan prioritas unit Anda sendiri aman dan atas sepengetahuan atasan langsung",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Membantu mereka dengan meninggalkan pekerjaan mendesak unit Anda sendiri terbengkalai",
+          "points": 3
+        },
+        {
+          "key": "D",
+          "text": "Diam saja selama tidak ada surat penugasan resmi maupun imbalan khusus dari divisi tersebut",
+          "points": 4
+        },
+        {
+          "key": "E",
+          "text": "Menyindir hasil grafik mereka di grup kantor agar mereka datang meminta bantuan Anda",
+          "points": 1
+        }
+      ],
+      "explanation": "Poin tertinggi (5): B. Sinergi proaktif lintas divisi dengan tetap menjaga prioritas tugas pokok dan koordinasi atasan memperkuat kinerja organisasi secara utuh."
+    },
+    {
+      "id": "dr_b03_269",
+      "category": "TKP",
+      "subtopic": "tkp_sosial_budaya",
+      "question": "Instansi Anda membuka posko pengungsian bencana alam yang menampung ratusan warga dari beragam usia, jenis kelamin, dan latar belakang agama. Hal paling penting yang Anda perhatikan dalam penataan ruang posko adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mendahulukan pembagian logistik kepada warga yang paling vokal bersuara di depan posko",
+          "points": 3
+        },
+        {
+          "key": "B",
+          "text": "Membagi tenda pengungsian secara eksklusif berdasarkan asal suku warga",
+          "points": 1
+        },
+        {
+          "key": "C",
+          "text": "Hanya menyediakan menu makanan untuk orang dewasa tanpa mempertimbangkan kebutuhan bayi dan lansia",
+          "points": 2
+        },
+        {
+          "key": "D",
+          "text": "Menyediakan pembagian ruang yang aman dan bermartabat bagi keluarga, perempuan, lansia, serta ruang ramah anak dan laktasi, menyediakan ruang ibadah yang layak, serta memastikan distribusi bantuan adil tanpa membedakan latar belakang",
+          "points": 5
+        },
+        {
+          "key": "E",
+          "text": "Menempatkan seluruh pengungsi dalam satu tenda terbuka tanpa sekat privasi agar pengawasan lebih mudah",
+          "points": 4
+        }
+      ],
+      "explanation": "Poin tertinggi (5): D. Pengelolaan layanan krisis yang inklusif, bermartabat, dan memperhatikan kelompok rentan mencerminkan kepekaan sosial budaya dan kemanusiaan."
+    },
+    {
+      "id": "dr_b03_270",
+      "category": "TKP",
+      "subtopic": "tkp_sosial_budaya",
+      "question": "Seorang rekan kerja yang baru memeluk atau menjalankan praktik ibadah tertentu di kantor sering bertanya tentang jam istirahat agar dapat menunaikan ibadahnya tepat waktu tanpa mengurangi jam kerja efektif. Sikap Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menanyakan alasan pribadi perubahan ketaatan ibadahnya secara berlebihan di depan rekan lain",
+          "points": 2
+        },
+        {
+          "key": "B",
+          "text": "Membiarkannya meninggalkan loket tanpa koordinasi pengganti sehingga pemohon terbengkalai",
+          "points": 1
+        },
+        {
+          "key": "C",
+          "text": "Menghormati hak beribadahnya dengan hangat, menginformasikan lokasi ruang ibadah kantor, dan mendukung pengaturan jadwal kerja/giliran loket yang fleksibel dan adil agar ibadah tetap khusyuk serta pelayanan tidak terganggu",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "Merasa terganggu apabila rekan tersebut meminta izin ibadah lima menit di jam kerja",
+          "points": 3
+        },
+        {
+          "key": "E",
+          "text": "Menyarankannya menunda ibadah hingga tiba di rumah sore hari agar tidak meninggalkan meja kerja",
+          "points": 4
+        }
+      ],
+      "explanation": "Poin tertinggi (5): C. Menyeimbangkan penghormatan hak beribadah dan kelancaran pelayanan melalui pengaturan giliran yang adil menumbuhkan lingkungan kerja harmonis."
+    },
+    {
+      "id": "dr_b03_271",
+      "category": "TKP",
+      "subtopic": "tkp_sosial_budaya",
+      "question": "Saat bertugas di wilayah kepulauan dengan kearifan lokal larangan menangkap ikan pada musim tertentu (seperti tradisi Sasi di Maluku/Papua), beberapa pengusaha luar meminta izin mengeksploitasi perairan tersebut sepanjang tahun. Sikap Anda sebagai analis kebijakan daerah adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menolak mentah-mentah seluruh aktivitas ekonomi perikanan bahkan di luar musim larangan adat",
+          "points": 2
+        },
+        {
+          "key": "B",
+          "text": "Menghargai dan mengintegrasikan kearifan lokal pelestarian alam tersebut ke dalam kajian kebijakan pengelolaan perikanan berkelanjutan melalui dialog bersama masyarakat adat dan pelaku usaha",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Menyarankan penghapusan tradisi lokal tersebut karena dianggap menghambat target pendapatan jangka pendek",
+          "points": 4
+        },
+        {
+          "key": "D",
+          "text": "Menyetujui permintaan pengusaha tanpa berkonsultasi dengan masyarakat adat setempat",
+          "points": 3
+        },
+        {
+          "key": "E",
+          "text": "Menyerahkan konflik antara pengusaha dan warga adat diselesaikan sendiri di lapangan",
+          "points": 1
+        }
+      ],
+      "explanation": "Poin tertinggi (5): B. Menghormati kearifan lokal yang selaras dengan kelestarian ekologi memperkuat keadilan sosial dan harmoni masyarakat adat."
+    },
+    {
+      "id": "dr_b03_272",
+      "category": "TKP",
+      "subtopic": "tkp_sosial_budaya",
+      "question": "Di kantin kantor, Anda melihat seorang pegawai baru yang berasal dari wilayah timur Indonesia duduk sendirian setiap hari karena merasa canggung belum mengenal siapa pun di kantor tersebut. Tindakan Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menunggu sampai ia ditempatkan di satu proyek yang sama baru mulai mengajaknya bicara",
+          "points": 2
+        },
+        {
+          "key": "B",
+          "text": "Membiarkannya duduk sendirian agar ia belajar berinisiatif menyapa pegawai lama terlebih dahulu",
+          "points": 4
+        },
+        {
+          "key": "C",
+          "text": "Hanya tersenyum singkat dari kejauhan tanpa pernah menyapanya",
+          "points": 3
+        },
+        {
+          "key": "D",
+          "text": "Menghampiri dengan ramah, menyapa, mengajaknya bergabung makan siang di meja Anda bersama rekan-rekan lain, dan membangun obrolan hangat agar ia merasa menjadi bagian dari keluarga besar kantor",
+          "points": 5
+        },
+        {
+          "key": "E",
+          "text": "Membicarakan sikap pendiamnya bersama teman-teman di meja Anda",
+          "points": 1
+        }
+      ],
+      "explanation": "Poin tertinggi (5): D. Inisiatif merangkul pegawai baru lintas daerah menciptakan rasa diterima dan memperkokoh persaudaraan kebangsaan di tempat kerja."
+    },
+    {
+      "id": "dr_b03_273",
+      "category": "TKP",
+      "subtopic": "tkp_sosial_budaya",
+      "question": "Instansi Anda berencana menggunakan pakaian adat daerah secara berkala pada peringatan hari besar nasional tertentu. Sebagian pegawai merasa khawatir harus mengeluarkan biaya mahal untuk menyewa pakaian adat lengkap. Usulan bijaksana Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Meminta seluruh pegawai membeli seragam adat baru dari satu vendor mahal tertentu",
+          "points": 1
+        },
+        {
+          "key": "B",
+          "text": "Mewajibkan seluruh pegawai menyewa pakaian adat lengkap berbiaya tinggi dan memberi denda bagi yang tidak mematuhi",
+          "points": 4
+        },
+        {
+          "key": "C",
+          "text": "Mengusulkan ketentuan yang inklusif dan tidak memberatkan, misalnya memperbolehkan penggunaan kain tradisional, batik, tenun, atau sentuhan busana Nusantara sederhana yang sudah dimiliki pegawai tanpa kewajiban menyewa kostum mahal",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "Membatalkan seluruh upaya pelestarian busana Nusantara di lingkungan kantor",
+          "points": 3
+        },
+        {
+          "key": "E",
+          "text": "Hanya mewajibkan pegawai golongan tertentu saja mengenakan busana adat sementara lainnya bebas",
+          "points": 2
+        }
+      ],
+      "explanation": "Poin tertinggi (5): C. Pelestarian budaya Nusantara di lingkungan kerja harus bersifat inklusif, merangkul keragaman, dan memperhatikan kondisi ekonomi seluruh pegawai."
+    },
+    {
+      "id": "dr_b03_274",
+      "category": "TKP",
+      "subtopic": "tkp_sosial_budaya",
+      "question": "Dalam sebuah rapat warga bersama pemerintah kelurahan, seorang warga lanjut usia menyampaikan keluhan cukup panjang dan sesekali keluar dari topik karena antusias menyampaikan aspirasinya. Sebagai perwakilan pemerintah yang hadir, sikap Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mendengarkan dengan penuh rasa hormat dan sabar, mencatat inti aspirasinya, lalu mengarahkan kembali jalannya diskusi dengan bahasa halus dan santun agar warga lain juga mendapat kesempatan berbicara",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Mengabaikan seluruh aspirasinya dan tidak mencatat satu pun keluhan yang ia sampaikan",
+          "points": 2
+        },
+        {
+          "key": "C",
+          "text": "Langsung memotong pembicaraannya dengan ketus karena dianggap membuang waktu rapat",
+          "points": 4
+        },
+        {
+          "key": "D",
+          "text": "Menyalakan ponsel dan bermain pesan singkat sambil berpura-pura mendengarkan",
+          "points": 1
+        },
+        {
+          "key": "E",
+          "text": "Sambil tersenyum sinis berbisik kepada rekan di sebelah bahwa warga lansia tersebut bertele-tele",
+          "points": 3
+        }
+      ],
+      "explanation": "Poin tertinggi (5): A. Menghormati warga lanjut usia sambil menjaga efektivitas forum secara santun mencerminkan etika sosial budaya dan pelayanan publik yang matang."
+    },
+    {
+      "id": "dr_b03_275",
+      "category": "TKP",
+      "subtopic": "tkp_sosial_budaya",
+      "question": "Anda ditempatkan di daerah dengan tingkat kesenjangan digital yang tinggi di mana sebagian besar petani setempat tidak memiliki akses internet stabil, padahal pemerintah pusat meluncurkan program pendaftaran subsidi pupuk berbasis aplikasi. Tindakan Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Memungut biaya jasa pendaftaran pribadi dari petani yang meminta bantuan mengisi aplikasi",
+          "points": 1
+        },
+        {
+          "key": "B",
+          "text": "Meminta petani belajar sendiri dari video tutorial daring tanpa pendampingan lapangan",
+          "points": 3
+        },
+        {
+          "key": "C",
+          "text": "Menyampaikan bahwa petani yang tidak memiliki ponsel pintar otomatis gugur dari daftar penerima subsidi",
+          "points": 4
+        },
+        {
+          "key": "D",
+          "text": "Mengabaikan program aplikasi pusat dan tetap menyimpan daftar manual di laci kantor tanpa diinput ke sistem",
+          "points": 2
+        },
+        {
+          "key": "E",
+          "text": "Menggandeng penyuluh lapangan, kelompok tani, dan perangkat desa untuk membuka layanan pendampingan pendaftaran langsung di balai desa agar petani yang tidak melek gawai tetap memperoleh hak subsidinya",
+          "points": 5
+        }
+      ],
+      "explanation": "Poin tertinggi (5): E. Kepekaan terhadap kondisi sosial ekonomi masyarakat mendorong inovasi pendampingan inklusif agar kebijakan digital tidak meminggirkan warga rentan."
+    },
+    {
+      "id": "dr_b03_276",
+      "category": "TKP",
+      "subtopic": "tkp_sosial_budaya",
+      "question": "Di lingkungan rumah dinas/perumahan tempat Anda tinggal, tetangga yang berbeda keyakinan akan menyelenggarakan perayaan hari besar keagamaannya di rumah mereka yang berpotensi memadati area parkir jalan komplek selama beberapa jam. Sikap Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Memarkir kendaraan Anda melintang di depan gerbang agar tamu tetangga tidak dapat mendekati rumah Anda",
+          "points": 3
+        },
+        {
+          "key": "B",
+          "text": "Menutup diri di rumah dan menolak menyapa tetangga tersebut selama seminggu",
+          "points": 1
+        },
+        {
+          "key": "C",
+          "text": "Mengeluhkan kepadatan parkir tersebut di grup komplek dengan nada menyindir kegiatan keagamaan mereka",
+          "points": 4
+        },
+        {
+          "key": "D",
+          "text": "Melaporkan kegiatan ibadah rumah tangga yang tertib tersebut ke aparat agar dibubarkan",
+          "points": 2
+        },
+        {
+          "key": "E",
+          "text": "Menunjukkan sikap toleran dan mendukung kelancaran acaranya, membantu menginformasikan ruang parkir tambahan jika diperlukan, serta menyampaikan ucapan selamat sesuai kepantasan bertetangga yang rukun",
+          "points": 5
+        }
+      ],
+      "explanation": "Poin tertinggi (5): E. Toleransi aktif dan tenggang rasa dalam kehidupan bertetangga mencerminkan keteladanan ASN sebagai perekat persatuan bangsa."
+    },
+    {
+      "id": "dr_b03_277",
+      "category": "TKP",
+      "subtopic": "tkp_tik",
+      "question": "Saat memeriksa riwayat aktivitas akun aplikasi dinas Anda, Anda melihat adanya percobaan masuk (login) tidak dikenal dari lokasi kota lain di luar jam kerja Anda. Langkah keamanan siber paling tepat yang segera Anda lakukan adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mematikan notifikasi keamanan surel agar tidak terganggu peringatan serupa lagi",
+          "points": 1
+        },
+        {
+          "key": "B",
+          "text": "Mengabaikan notifikasi tersebut selama tidak ada file yang terlihat hilang saat ini",
+          "points": 4
+        },
+        {
+          "key": "C",
+          "text": "Hanya menutup aplikasi lalu membiarkan kata sandi lama tetap dipakai agar tidak repot menghafal",
+          "points": 3
+        },
+        {
+          "key": "D",
+          "text": "Membagikan tangkapan layar peringatan tersebut ke media sosial pribadi untuk menanyakan pendapat warganet",
+          "points": 2
+        },
+        {
+          "key": "E",
+          "text": "Segera mengganti kata sandi dengan kombinasi baru yang kuat, mengeluarkan (logout) seluruh sesi aktif di perangkat lain, memastikan autentikasi dua faktor (2FA) aktif, dan melaporkan insiden tersebut ke tim IT/CSIRT instansi",
+          "points": 5
+        }
+      ],
+      "explanation": "Poin tertinggi (5): E. Respons cepat mengamankan akun (ganti sandi, revoke sesi, 2FA) dan pelaporan ke tim keamanan TI mencegah peretasan meluas ke sistem instansi."
+    },
+    {
+      "id": "dr_b03_278",
+      "category": "TKP",
+      "subtopic": "tkp_tik",
+      "question": "Anda membutuhkan gambar ilustrasi dan musik latar untuk video sosialisasi program instansi yang akan diunggah ke kanal YouTube resmi pemerintah. Praktik etika TIK dan hak cipta yang benar adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menyalin penuh video milik kreator lain lalu mengganti logonya dengan logo instansi",
+          "points": 2
+        },
+        {
+          "key": "B",
+          "text": "Menghapus tanda air (watermark) pada foto berbayar menggunakan aplikasi penyunting gambar",
+          "points": 3
+        },
+        {
+          "key": "C",
+          "text": "Mengunduh sembarang gambar dan lagu populer dari internet tanpa izin pemilik hak cipta selama bukan untuk jualan",
+          "points": 4
+        },
+        {
+          "key": "D",
+          "text": "Menggunakan aset yang dibuat sendiri oleh tim atau aset berlisensi resmi/bebas royalti (seperti Creative Commons yang sesuai ketentuan) serta mencantumkan atribusi sumber secara tertib",
+          "points": 5
+        },
+        {
+          "key": "E",
+          "text": "Menyerahkan kepada staf magang untuk mencari musik apa saja yang sedang viral tanpa mengecek lisensinya",
+          "points": 1
+        }
+      ],
+      "explanation": "Poin tertinggi (5): D. Kepatuhan pada hak kekayaan intelektual (HAKI) menjaga kredibilitas hukum dan etika digital instansi pemerintah."
+    },
+    {
+      "id": "dr_b03_279",
+      "category": "TKP",
+      "subtopic": "tkp_tik",
+      "question": "Tim Anda sedang mengembangkan formulir survei daring bagi ribuan responden masyarakat. Agar data yang masuk bersih dan mudah diolah tanpa banyak salah ketik (typo), fitur TIK paling tepat yang Anda terapkan sejak perancangan formulir adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menggunakan validasi input otomatis (format angka untuk NIK/telepon, pilihan dropdown baku untuk nama kecamatan/kategori, serta menandai kolom wajib isi) dan melakukan uji coba formulir sebelum disebarkan luas",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Langsung menyebarkan tautan formulir tanpa uji coba dan berharap tidak ada kesalahan pengisian",
+          "points": 3
+        },
+        {
+          "key": "C",
+          "text": "Membuat 100 pertanyaan wajib yang berulang-ulang sehingga responden enggan menyelesaikannya",
+          "points": 2
+        },
+        {
+          "key": "D",
+          "text": "Mengumpulkan jawaban melalui balasan komentar media sosial lalu menyalinnya manual ke spreadsheet",
+          "points": 1
+        },
+        {
+          "key": "E",
+          "text": "Menggunakan kolom teks bebas (free text) pada seluruh pertanyaan agar responden bebas mengetik format apa saja",
+          "points": 4
+        }
+      ],
+      "explanation": "Poin tertinggi (5): A. Validasi data sejak titik masuk (input validation) dan uji coba meminimalkan kesalahan data dan mempercepat analisis."
+    },
+    {
+      "id": "dr_b03_280",
+      "category": "TKP",
+      "subtopic": "tkp_tik",
+      "question": "Saat sedang menampilkan layar komputer (share screen) dalam rapat daring antarinstansi, muncul pop-up notifikasi pesan pribadi di pojok layar Anda. Untuk mencegah kebocoran informasi sensitif atau gangguan rapat pada sesi berikutnya, langkah preventif TIK yang tepat adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Memindahkan semua dokumen rahasia ke layar desktop utama agar mudah dibuka saat presentasi",
+          "points": 1
+        },
+        {
+          "key": "B",
+          "text": "Menolak melakukan presentasi layar pada seluruh rapat daring berikutnya",
+          "points": 2
+        },
+        {
+          "key": "C",
+          "text": "Menutup seluruh aplikasi pesan pribadi dan dokumen sensitif sebelum rapat, mengaktifkan mode 'Jangan Ganggu' (Do Not Disturb), serta membagikan hanya satu jendela aplikasi paparan (window share) alih-alih seluruh layar desktop",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "Tetap membiarkan seluruh jendela surel dan obrolan terbuka di latar belakang selama rapat berlangsung",
+          "points": 4
+        },
+        {
+          "key": "E",
+          "text": "Meminta seluruh peserta rapat berjanji tidak membaca pesan pop-up yang muncul di layar Anda",
+          "points": 3
+        }
+      ],
+      "explanation": "Poin tertinggi (5): C. Higiene presentasi daring (mode Do Not Disturb dan window-only sharing) menjaga profesionalisme dan mencegah kebocoran informasi tak disengaja."
+    },
+    {
+      "id": "dr_b03_281",
+      "category": "TKP",
+      "subtopic": "tkp_tik",
+      "question": "Anda menerima tugas merapikan basis data ribuan baris penerima manfaat pada spreadsheet yang di dalamnya diduga terdapat banyak entri ganda (duplikat NIK) dan kesalahan penulisan huruf besar-kecil. Cara kerja berbasis TIK paling efektif adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mencetak ribuan baris tersebut ke kertas lalu menandainya menggunakan stabilo",
+          "points": 1
+        },
+        {
+          "key": "B",
+          "text": "Memeriksa dan menghapus baris satu per satu secara manual dengan mata telanjang selama satu minggu penuh",
+          "points": 4
+        },
+        {
+          "key": "C",
+          "text": "Membuat salinan cadangan data mentah terlebih dahulu, lalu memanfaatkan fitur otomatis spreadsheet (deteksi duplikat, fungsi pembersihan teks, dan validasi silang) serta mencatat log perubahan agar proses cepat, akurat, dan dapat diaudit",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "Membiarkan entri duplikat tetap ada agar jumlah penerima manfaat terlihat lebih besar",
+          "points": 2
+        },
+        {
+          "key": "E",
+          "text": "Langsung menghapus baris pada file asli tanpa cadangan dan tanpa mengecek apakah baris tersebut benar-benar duplikat",
+          "points": 3
+        }
+      ],
+      "explanation": "Poin tertinggi (5): C. Pemanfaatan fitur pengolahan data disertai backup data mentah dan catatan perubahan meningkatkan akurasi serta jejak audit."
+    },
+    {
+      "id": "dr_b03_282",
+      "category": "TKP",
+      "subtopic": "tkp_tik",
+      "question": "Komputer di meja kerja Anda akan diserahkan ke bagian TI untuk perbaikan atau peremajaan perangkat karena sudah berusia tua. Sebelum menyerahkan perangkat tersebut, langkah keamanan data yang wajib Anda lakukan adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Membongkar sendiri hard disk komputer dinas lalu membawanya pulang tanpa izin pengelola BMN",
+          "points": 3
+        },
+        {
+          "key": "B",
+          "text": "Memindahkan dan mencadangkan seluruh dokumen dinas ke penyimpanan resmi instansi, keluar (logout) dari seluruh akun aplikasi/peramban, serta memastikan data sensitif telah diamankan sesuai prosedur pemeliharaan TI",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Menuliskan kata sandi login Anda pada secarik kertas tempel di monitor agar siapa pun di ruangan bisa membukanya",
+          "points": 1
+        },
+        {
+          "key": "D",
+          "text": "Menghapus seluruh dokumen kerja kantor tanpa mencadangkannya terlebih dahulu",
+          "points": 2
+        },
+        {
+          "key": "E",
+          "text": "Langsung menyerahkan komputer dalam keadaan seluruh akun surel dan aplikasi masih tersimpan login otomatis",
+          "points": 4
+        }
+      ],
+      "explanation": "Poin tertinggi (5): B. Pencadangan dokumen dinas dan pembersihan sesi akun sebelum serah terima perangkat mencegah kehilangan arsip maupun akses tidak sah."
+    },
+    {
+      "id": "dr_b03_283",
+      "category": "TKP",
+      "subtopic": "tkp_tik",
+      "question": "Sebuah perangkat lunak pengolah data baru berbasis sumber terbuka (open source) yang aman dan legal diadopsi instansi untuk menghemat anggaran lisensi tahunan, namun memerlukan penyesuaian singkat dari perangkat lunak lama. Sikap Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menunda semua pekerjaan berbulan-bulan dengan alasan belum terbiasa dengan tampilan barunya",
+          "points": 2
+        },
+        {
+          "key": "B",
+          "text": "Mengeluhkan kebijakan penghematan tersebut dan menolak mengerjakan tugas hingga lisensi lama dibeli kembali",
+          "points": 3
+        },
+        {
+          "key": "C",
+          "text": "Mengerjakan seluruh dokumen dinas di komputer pribadi rumah yang memakai perangkat lunak lama lalu mengirim lewat pesan pribadi",
+          "points": 1
+        },
+        {
+          "key": "D",
+          "text": "Diam-diam tetap memasang versi bajakan dari perangkat lunak lama di komputer kantor",
+          "points": 4
+        },
+        {
+          "key": "E",
+          "text": "Mendukung kebijakan efisiensi tersebut dengan antusias, mempelajari padanan fitur dan pintasan kerjanya secara mandiri, serta berbagi catatan tips migrasi agar rekan satu unit cepat terbiasa",
+          "points": 5
+        }
+      ],
+      "explanation": "Poin tertinggi (5): E. Kesiapan beradaptasi terhadap perangkat lunak legal/open source mendukung efisiensi anggaran negara dan kepatuhan HAKI."
+    },
+    {
+      "id": "dr_b03_284",
+      "category": "TKP",
+      "subtopic": "tkp_tik",
+      "question": "Pada saluran situs web layanan instansi, ditemukan tautan formulir unduhan yang rusak (error 404) sehingga warga tidak bisa mengunduh syarat pendaftaran. Meski pengelolaan situs web berada di unit humas/TI, tindakan Anda saat menemukannya adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mengabaikannya karena pemeliharaan situs web bukan merupakan tugas pokok subbagian Anda",
+          "points": 4
+        },
+        {
+          "key": "B",
+          "text": "Menunggu sampai ada banyak warga yang marah di media sosial agar tim TI menyadarinya sendiri",
+          "points": 3
+        },
+        {
+          "key": "C",
+          "text": "Segera melaporkan alamat tautan rusak tersebut beserta tautan berkas terbaru yang benar kepada tim pengelola situs web/TI agar segera diperbaiki, serta menyediakan sementara tautan resmi yang berfungsi bagi warga yang bertanya",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "Menyampaikan kepada warga bahwa situs web kantor memang sering bermasalah",
+          "points": 1
+        },
+        {
+          "key": "E",
+          "text": "Membuat situs web pribadi tidak resmi untuk mengunggah formulir tersebut sendiri",
+          "points": 2
+        }
+      ],
+      "explanation": "Poin tertinggi (5): C. Proaktif melaporkan kerusakan layanan digital lintas unit mencegah terhambatnya akses informasi masyarakat."
+    },
+    {
+      "id": "dr_b03_285",
+      "category": "TKP",
+      "subtopic": "tkp_profesionalisme",
+      "question": "Pada rapat evaluasi proyek, pimpinan memuji hasil analisis data yang sangat rapi dan mengira seluruh pekerjaan tersebut Anda kerjakan sendiri, padahal ada kontribusi besar dari rekan junior Anda dalam pengolahan data mentahnya. Sikap profesional Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mengucapkan terima kasih atas apresiasi pimpinan sekaligus secara terbuka meluruskan dan menyebutkan kontribusi penting rekan junior tersebut di hadapan forum agar kredit kinerja diakui secara adil",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Mengalihkan pembicaraan ke agenda lain tanpa meluruskan fakta kontribusi tim",
+          "points": 1
+        },
+        {
+          "key": "C",
+          "text": "Merendahkan kesulitan bagian pengolahan data mentah agar peran Anda tetap terlihat paling dominan",
+          "points": 2
+        },
+        {
+          "key": "D",
+          "text": "Menerima pujian di forum lalu baru mengucapkan terima kasih secara bisik-bisik kepada rekan junior di luar ruangan",
+          "points": 3
+        },
+        {
+          "key": "E",
+          "text": "Tersenyum menerima seluruh pujian untuk diri sendiri agar peluang promosi Anda semakin besar",
+          "points": 4
+        }
+      ],
+      "explanation": "Poin tertinggi (5): A. Kejujuran profesional dalam memberikan pengakuan atas kontribusi orang lain membangun integritas kepemimpinan dan loyalitas tim."
+    },
+    {
+      "id": "dr_b03_286",
+      "category": "TKP",
+      "subtopic": "tkp_profesionalisme",
+      "question": "Anda diminta menyusun kajian cepat terkait kelayakan sebuah program baru. Data lapangan menunjukkan biaya operasional program jauh lebih besar daripada manfaatnya, sementara Anda tahu atasan secara pribadi sangat menyukai ide program tersebut. Sikap profesional Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menolak menyusun kajian tersebut agar tidak perlu berhadapan dengan perbedaan pendapat atasan",
+          "points": 2
+        },
+        {
+          "key": "B",
+          "text": "Menyampaikan secara kasar di depan umum bahwa ide program atasan tidak masuk akal",
+          "points": 1
+        },
+        {
+          "key": "C",
+          "text": "Menyajikan hasil kajian berbasis data secara jujur, objektif, dan santun lengkap dengan risiko biaya-manfaatnya, serta menyertakan opsi modifikasi desain program agar lebih efisien dan layak dijalankan",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "Menghapus bagian analisis risiko dari laporan kajian sehingga hanya sisi positif yang tampil",
+          "points": 3
+        },
+        {
+          "key": "E",
+          "text": "Mengubah angka perhitungan biaya agar program tampak layak demi menyenangkan hati atasan",
+          "points": 4
+        }
+      ],
+      "explanation": "Poin tertinggi (5): C. Objektivitas berbasis data yang disampaikan secara santun disertai solusi alternatif merupakan kualitas tertinggi aparatur profesional."
+    },
+    {
+      "id": "dr_b03_287",
+      "category": "TKP",
+      "subtopic": "tkp_profesionalisme",
+      "question": "Di sela jam kerja, Anda menerima pesan mengenai urusan keluarga yang tidak bersifat darurat namun cukup menyita pikiran sehingga konsentrasi Anda sempat menurun. Cara profesional Anda mengelola situasi tersebut adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pulang lebih awal tanpa izin atasan karena suasana hati sedang kurang baik",
+          "points": 3
+        },
+        {
+          "key": "B",
+          "text": "Menunda seluruh target pekerjaan hari itu hingga minggu depan",
+          "points": 1
+        },
+        {
+          "key": "C",
+          "text": "Mengelola emosi dengan tenang, menunda penanganan urusan non-darurat tersebut hingga jam istirahat siang atau seusai jam kerja, dan kembali memusatkan perhatian pada kualitas penyelesaian tugas kantor",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "Menghabiskan dua jam jam kerja di meja untuk menelepon dan menyelesaikan urusan pribadi tersebut",
+          "points": 4
+        },
+        {
+          "key": "E",
+          "text": "Melampiaskan kekesalan pikiran pribadi dengan bersikap ketus kepada pemohon layanan di loket",
+          "points": 2
+        }
+      ],
+      "explanation": "Poin tertinggi (5): C. Kemampuan menjaga fokus kerja dan profesionalitas sikap di tengah gangguan emosi non-darurat mencerminkan kematangan diri."
+    },
+    {
+      "id": "dr_b03_288",
+      "category": "TKP",
+      "subtopic": "tkp_profesionalisme",
+      "question": "Anda mendapati salah satu dokumen peraturan yang dijadikan acuan kerja harian di unit Anda telah resmi dicabut dan digantikan oleh peraturan menteri terbaru yang terbit bulan lalu, namun sebagian rekan belum mengetahuinya. Tindakan profesional Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mengabaikan peraturan baru karena merasa aturan lama jauh lebih mudah dijalankan",
+          "points": 1
+        },
+        {
+          "key": "B",
+          "text": "Menunggu sampai ada temuan audit terlebih dahulu baru beralih ke peraturan baru",
+          "points": 2
+        },
+        {
+          "key": "C",
+          "text": "Hanya menerapkan peraturan terbaru pada berkas yang Anda tangani sendiri tanpa memberi tahu rekan lain",
+          "points": 4
+        },
+        {
+          "key": "D",
+          "text": "Mempelajari poin-poin perubahan pada peraturan terbaru secara teliti, memverifikasi keberlakuannya, lalu melaporkan ke atasan dan membagikan ringkasan perubahannya kepada tim agar seluruh layanan segera menyesuaikan aturan sah terbaru",
+          "points": 5
+        },
+        {
+          "key": "E",
+          "text": "Tetap memakai peraturan lama sampai ada surat edaran pengingat resmi dari kantor pusat",
+          "points": 3
+        }
+      ],
+      "explanation": "Poin tertinggi (5): D. Kepekaan terhadap pembaruan regulasi dan inisiatif menyelaraskan unit kerja mencegah cacat hukum pada produk layanan instansi."
+    },
+    {
+      "id": "dr_b03_289",
+      "category": "TKP",
+      "subtopic": "tkp_profesionalisme",
+      "question": "Anda mendapat undangan rapat koordinasi pukul 09.00 WIB di gedung instansi lain yang jaraknya sekitar 30 menit perjalanan pada jam sibuk. Praktik disiplin waktu profesional yang Anda lakukan adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Memperhitungkan potensi kemacetan lalu lintas, berangkat lebih awal agar tiba 10–15 menit sebelum pukul 09.00 WIB dengan seluruh bahan rapat siap, dan segera memberi kabar bila terjadi kendala tak terduga di jalan",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Berangkat tepat pukul 08.30 WIB tanpa memperhitungkan kemacetan pagi hari",
+          "points": 4
+        },
+        {
+          "key": "C",
+          "text": "Hadir tepat waktu namun lupa membawa bahan paparan sehingga harus kembali ke kantor",
+          "points": 2
+        },
+        {
+          "key": "D",
+          "text": "Tidak hadir tanpa konfirmasi hanya karena jalanan terlihat agak padat",
+          "points": 1
+        },
+        {
+          "key": "E",
+          "text": "Datang pukul 09.20 WIB dengan asumsi rapat instansi biasanya selalu mundur",
+          "points": 3
+        }
+      ],
+      "explanation": "Poin tertinggi (5): A. Ketepatan waktu dan kesiapan materi mencerminkan penghormatan terhadap waktu orang lain serta disiplin profesional."
+    },
+    {
+      "id": "dr_b03_290",
+      "category": "TKP",
+      "subtopic": "tkp_profesionalisme",
+      "question": "Dalam sebuah pengadaan kecil perlengkapan kantor, penyedia barang secara tidak sengaja mengirimkan 2 kotak alat tulis lebih banyak daripada jumlah yang tertera di surat pesanan dan faktur pembayaran. Sikap profesional Anda sebagai penerima barang adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Membiarkannya saja dan menganggapnya sebagai bonus tidak tertulis dari penyedia barang",
+          "points": 3
+        },
+        {
+          "key": "B",
+          "text": "Mencatat kelebihan pengiriman tersebut secara transparan dan segera menghubungi penyedia barang untuk mengembalikannya (atau menyesuaikan berita acara sesuai prosedur kontrak) agar pencatatan aset akurat dan bebas penyimpangan",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Menjual kelebihan barang tersebut untuk menambah uang kas makan siang tim",
+          "points": 1
+        },
+        {
+          "key": "D",
+          "text": "Membagikan kelebihan barang tersebut kepada teman-teman dekat di ruangan tanpa pencatatan",
+          "points": 2
+        },
+        {
+          "key": "E",
+          "text": "Menyimpan kelebihan 2 kotak alat tulis tersebut untuk dipakai kebutuhan pribadi di rumah",
+          "points": 4
+        }
+      ],
+      "explanation": "Poin tertinggi (5): B. Kejujuran administratif dalam hal kecil maupun besar menjaga akurasi pencatatan aset negara dan integritas profesi."
+    },
+    {
+      "id": "dr_b03_291",
+      "category": "TKP",
+      "subtopic": "tkp_profesionalisme",
+      "question": "Anda diminta menjadi mentor bagi dua mahasiswa magang yang ditempatkan di subbagian Anda selama dua bulan. Pendekatan profesional Anda sebagai pembimbing adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Memberikan nilai akhir magang secara asal-asalan tanpa pernah mengevaluasi kinerja mereka",
+          "points": 1
+        },
+        {
+          "key": "B",
+          "text": "Menyusun rencana penugasan yang edukatif sesuai kemampuan mereka, menjelaskan etika dan kerahasiaan data kantor sejak awal, memberikan arahan serta umpan balik berkala, dan tetap memeriksa kualitas hasil kerja mereka sebelum digunakan",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Membiarkan mereka duduk menganggur di pojok ruangan karena merasa repot membimbing",
+          "points": 2
+        },
+        {
+          "key": "D",
+          "text": "Menyerahkan seluruh pekerjaan rahasia dan tanggung jawab inti Anda kepada mahasiswa magang tanpa pengawasan",
+          "points": 3
+        },
+        {
+          "key": "E",
+          "text": "Memberikan mereka tugas rutin fotokopi dan membeli makanan saja sepanjang dua bulan magang",
+          "points": 4
+        }
+      ],
+      "explanation": "Poin tertinggi (5): B. Pembimbingan terstruktur yang tetap menjaga batas kerahasiaan data dan pengawasan mutu mencerminkan tanggung jawab profesional."
+    },
+    {
+      "id": "dr_b03_292",
+      "category": "TKP",
+      "subtopic": "tkp_profesionalisme",
+      "question": "Setelah menyelesaikan suatu proyek besar, pimpinan memberikan kelonggaran waktu dua hari sebelum proyek berikutnya dimulai. Cara profesional memanfaatkan jeda tersebut adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tidak masuk kerja tanpa mengajukan izin resmi karena merasa baru saja bekerja keras",
+          "points": 4
+        },
+        {
+          "key": "B",
+          "text": "Menghabiskan seluruh jam kerja dua hari tersebut bermain gim daring di meja kerja secara terbuka",
+          "points": 3
+        },
+        {
+          "key": "C",
+          "text": "Merapikan dokumentasi akhir dan arsip proyek yang baru selesai, menuliskan catatan pelajaran (lessons learned) untuk perbaikan mendatang, serta menyegarkan energi secara wajar agar siap menghadapi tugas berikutnya",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "Membiarkan dokumen proyek sebelumnya berserakan tanpa pengarsipan akhir",
+          "points": 2
+        },
+        {
+          "key": "E",
+          "text": "Meminta rekan lain merapikan seluruh arsip proyek yang menjadi tanggung jawab Anda",
+          "points": 1
+        }
+      ],
+      "explanation": "Poin tertinggi (5): C. Penuntasan dokumentasi pasca-proyek dan refleksi perbaikan menunjukkan disiplin kerja menyeluruh hingga tahap penutupan."
+    },
+    {
+      "id": "dr_b03_293",
+      "category": "TKP",
+      "subtopic": "tkp_anti_radikalisme",
+      "question": "Seorang tokoh yang sebelumnya dikenal ramah di lingkungan sekitar tempat tinggal Anda belakangan terungkap menyebarkan ajaran intoleran yang melarang anak-anak warga menghormati bendera Merah Putih dan menyanyikan lagu Indonesia Raya di sekolah. Sebagai ASN yang tinggal di lingkungan itu, tindakan Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menyebarkan identitas dan foto rumahnya di media sosial disertai ajakan warga memboikot keluarganya",
+          "points": 2
+        },
+        {
+          "key": "B",
+          "text": "Membiarkan saja selama anak Anda sendiri tidak mengikuti ajarannya",
+          "points": 3
+        },
+        {
+          "key": "C",
+          "text": "Mendatangi rumahnya malam hari bersama beberapa warga untuk mengusirnya secara paksa",
+          "points": 4
+        },
+        {
+          "key": "D",
+          "text": "Membenarkan tindakannya dengan alasan setiap orang bebas mendidik anak sesuai keyakinannya meski menolak simbol negara",
+          "points": 1
+        },
+        {
+          "key": "E",
+          "text": "Berkoordinasi dengan pengurus RT/RW, pihak sekolah, tokoh agama moderat, dan aparat/pemerintah kelurahan setempat agar dilakukan pendekatan pembinaan dialogis yang tepat sesuai hukum dan menjaga kondusivitas warga",
+          "points": 5
+        }
+      ],
+      "explanation": "Poin tertinggi (5): E. Koordinasi lintas unsur lingkungan dan aparat secara dialogis dan legal mencegah penyebaran paham anti-NKRI pada anak tanpa main hakim sendiri."
+    },
+    {
+      "id": "dr_b03_294",
+      "category": "TKP",
+      "subtopic": "tkp_anti_radikalisme",
+      "question": "Anda diminta membantu memilih buku bacaan anak dan remaja untuk pojok baca ruang tunggu pelayanan publik instansi. Kriteria kurasi konten anti radikalisme yang paling tepat Anda terapkan adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hanya melihat sampul gambar yang menarik tanpa membaca ringkasan isi bukunya",
+          "points": 3
+        },
+        {
+          "key": "B",
+          "text": "Meniadakan pojok baca sama sekali karena khawatir salah memilih buku",
+          "points": 2
+        },
+        {
+          "key": "C",
+          "text": "Menerima dan langsung memajang seluruh buku sumbangan anonim tanpa memeriksa judul dan isinya",
+          "points": 4
+        },
+        {
+          "key": "D",
+          "text": "Memilih buku-buku terverifikasi dari penerbit kredibel yang menumbuhkan literasi, empati, cinta tanah air, dan menghargai kebinekaan Indonesia, serta memeriksa isinya bebas dari narasi intoleran, kebencian SARA, maupun pembenaran kekerasan",
+          "points": 5
+        },
+        {
+          "key": "E",
+          "text": "Memilih buku hanya dari satu kelompok tertentu yang secara tegas menyalahkan budaya daerah lain",
+          "points": 1
+        }
+      ],
+      "explanation": "Poin tertinggi (5): D. Kurasi literasi ruang publik yang selektif menanamkan nilai kebinekaan sejak dini sekaligus menutup celah propaganda ekstrem."
+    },
+    {
+      "id": "dr_b03_295",
+      "category": "TKP",
+      "subtopic": "tkp_anti_radikalisme",
+      "question": "Di sebuah grup alumni perguruan tinggi yang anggotanya beragam profesi, muncul unggahan berulang dari seorang anggota yang mengagungkan aksi kelompok teroris global dan mengejek aparat keamanan yang gugur menjaga keamanan negara. Sikap Anda sebagai ASN adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menyampaikan penolakan secara tenang dan tegas bahwa segala bentuk terorisme dan kekerasan bertentangan dengan nilai kemanusiaan serta hukum Indonesia, menyimpan bukti bila mengandung ajakan/rekrutmen ekstrem, dan melaporkannya melalui kanal aduan resmi",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Mengunduh materi propaganda teroris tersebut untuk disimpan dan dibagikan ke grup lain",
+          "points": 1
+        },
+        {
+          "key": "C",
+          "text": "Membalas unggahan tersebut dengan ancaman kekerasan balik terhadap anggota tersebut",
+          "points": 2
+        },
+        {
+          "key": "D",
+          "text": "Memberikan tanda suka (like) agar menjaga pertemanan lama masa kuliah",
+          "points": 4
+        },
+        {
+          "key": "E",
+          "text": "Membiarkannya terus mempromosikan aksi terorisme di grup tanpa satu pun respons ataupun pelaporan",
+          "points": 3
+        }
+      ],
+      "explanation": "Poin tertinggi (5): A. Ketegasan menolak glorifikasi terorisme secara konstitusional serta pelaporan indikasi rekrutmen/propaganda melindungi ruang sosial dari radikalisasi."
+    },
+    {
+      "id": "dr_b03_296",
+      "category": "TKP",
+      "subtopic": "tkp_anti_radikalisme",
+      "question": "Seorang rekan kerja baru terlihat sangat rajin dan santun, namun saat makan siang ia diam-diam menanyakan kesediaan Anda menyisihkan gaji bulanan untuk 'jaringan perjuangan rahasia' yang menolak sistem pemerintahan demokrasi Pancasila. Sikap Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menolak dengan tegas dan santun bahwa sebagai ASN Anda setia penuh pada Pancasila dan NKRI serta tidak akan terlibat dalam jaringan anti-konstitusi, lalu melaporkan indikasi perekrutan/pendanaan tersebut secara berjenjang ke atasan atau unit kepatuhan internal",
+          "points": 5
+        },
+        {
+          "key": "B",
+          "text": "Menyumbang nominal kecil sekali saja agar ia tidak lagi menawari Anda",
+          "points": 3
+        },
+        {
+          "key": "C",
+          "text": "Meneruskan tawarannya kepada pegawai lain di ruangan sebelah",
+          "points": 1
+        },
+        {
+          "key": "D",
+          "text": "Ikut datang ke pertemuan rahasia mereka sekali untuk melihat siapa saja pegawai lain yang bergabung",
+          "points": 2
+        },
+        {
+          "key": "E",
+          "text": "Menolak menyumbang namun berjanji merahasiakan aktivitas perekrutannya dari atasan demi menjaga pertemanan",
+          "points": 4
+        }
+      ],
+      "explanation": "Poin tertinggi (5): A. Memutus upaya perekrutan serta pendanaan jaringan anti-NKRI di lingkungan birokrasi wajib diikuti pelaporan berjenjang demi keamanan instansi."
+    },
+    {
+      "id": "dr_b03_297",
+      "category": "TKP",
+      "subtopic": "tkp_anti_radikalisme",
+      "question": "Ketika terjadi sebuah insiden kekerasan yang dilakukan oknum tertentu di suatu daerah, di media sosial langsung beredar narasi provokatif yang menggeneralisasi dan menyalahkan seluruh pemeluk agama atau suku tertentu. Sikap Anda adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Langsung menyimpulkan kebenaran rumor berdasarkan satu potongan komentar warganet",
+          "points": 3
+        },
+        {
+          "key": "B",
+          "text": "Ikut membagikan narasi generalisasi tersebut agar masyarakat mewaspadai seluruh kelompok suku/agama terkait",
+          "points": 4
+        },
+        {
+          "key": "C",
+          "text": "Tidak ikut menyebarkan generalisasi tersebut, menegaskan secara santun bahwa tindakan kriminal/teror adalah tanggung jawab hukum oknum pelaku bukan agama atau suku mana pun, serta merujuk pada informasi resmi aparat penegak hukum",
+          "points": 5
+        },
+        {
+          "key": "D",
+          "text": "Membuat unggahan pribadi yang menyudutkan kelompok warga tertentu di sekitar tempat tinggal Anda",
+          "points": 1
+        },
+        {
+          "key": "E",
+          "text": "Memancing perdebatan panas antar-identitas di kolom komentar berita daring",
+          "points": 2
+        }
+      ],
+      "explanation": "Poin tertinggi (5): C. Memisahkan perbuatan hukum oknum dari identitas agama/suku mencegah polarisasi, konflik horizontal, dan siklus radikalisasi balasan."
+    },
+    {
+      "id": "dr_b03_298",
+      "category": "TKP",
+      "subtopic": "tkp_anti_radikalisme",
+      "question": "Instansi Anda akan menyalurkan dana hibah pembinaan masyarakat kepada organisasi kemasyarakatan (ormas) lokal. Langkah verifikasi awal yang paling penting dilakukan tim Anda terkait pencegahan radikalisme adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menyalurkan hibah hanya kepada ormas yang pengurusnya memiliki hubungan keluarga dengan pegawai kantor",
+          "points": 3
+        },
+        {
+          "key": "B",
+          "text": "Mengabaikan pemeriksaan asas organisasi selama mereka bersedia membuat kuitansi pertanggungjawaban",
+          "points": 2
+        },
+        {
+          "key": "C",
+          "text": "Langsung mencairkan dana hibah berdasarkan proposal tertebal tanpa mengecek legalitas dan rekam jejak ormas",
+          "points": 4
+        },
+        {
+          "key": "D",
+          "text": "Memastikan legalitas badan hukum dan status terdaftar resmi ormas tersebut, memeriksa kesesuaian AD/ART-nya dengan asas Pancasila dan UUD 1945, serta memverifikasi rekam jejak kegiatannya bersama Kesbangpol/instansi berwenang",
+          "points": 5
+        },
+        {
+          "key": "E",
+          "text": "Menolak seluruh usulan hibah dari semua ormas tanpa proses seleksi objektif",
+          "points": 1
+        }
+      ],
+      "explanation": "Poin tertinggi (5): D. Verifikasi legalitas, asas Pancasila, dan rekam jejak bersama Kesbangpol memastikan anggaran negara tidak mengalir ke kelompok ekstrem/intoleran."
+    },
+    {
+      "id": "dr_b03_299",
+      "category": "TKP",
+      "subtopic": "tkp_anti_radikalisme",
+      "question": "Dalam sebuah sesi pelatihan wawasan kebangsaan, seorang peserta mempertanyakan apakah masih relevan mempertahankan Bhinneka Tunggal Ika di era globalisasi saat ini. Jawaban paling konstruktif yang Anda sampaikan adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Meminta peserta tersebut keluar dari ruangan pelatihan tanpa memberikan penjelasan",
+          "points": 1
+        },
+        {
+          "key": "B",
+          "text": "Langsung menuduh peserta tersebut anti-NKRI hanya karena mengajukan pertanyaan kritis dalam diskusi",
+          "points": 4
+        },
+        {
+          "key": "C",
+          "text": "Menyetujui bahwa Bhinneka Tunggal Ika sudah usang dan tidak lagi diperlukan generasi muda",
+          "points": 3
+        },
+        {
+          "key": "D",
+          "text": "Menjelaskan secara argumentatif dan sejuk bahwa di tengah derasnya arus polarisasi global justru Bhinneka Tunggal Ika menjadi modal sosial utama menjaga persatuan, stabilitas pembangunan, dan kohesi bangsa Indonesia yang majemuk",
+          "points": 5
+        },
+        {
+          "key": "E",
+          "text": "Menghindari pertanyaan tersebut dan segera menutup sesi pelatihan",
+          "points": 2
+        }
+      ],
+      "explanation": "Poin tertinggi (5): D. Dialog terbuka yang argumentatif memperkuat pemahaman kebangsaan dan menjawab keraguan secara rasional tanpa bersikap represif."
+    },
+    {
+      "id": "dr_b03_300",
+      "category": "TKP",
+      "subtopic": "tkp_anti_radikalisme",
+      "question": "Anda mengetahui terdapat sebuah akun media sosial yang menggunakan nama dan logo mirip instansi Anda secara palsu untuk menyebarkan narasi kebencian SARA dan ajakan boikot terhadap pemerintah sah. Tindakan paling tepat yang Anda lakukan adalah...",
+      "options": [
+        {
+          "key": "A",
+          "text": "Membuat akun anonim lain untuk membalas menyebarkan rumor mengenai pengelola akun palsu tersebut",
+          "points": 3
+        },
+        {
+          "key": "B",
+          "text": "Segera mengumpulkan bukti tangkapan layar serta alamat URL akun palsu tersebut, melaporkannya ke tim humas/TI instansi dan atasan agar diterbitkan klarifikasi resmi serta dilaporkan ke platform dan aparat berwenang (Komdigi/Kepolisian)",
+          "points": 5
+        },
+        {
+          "key": "C",
+          "text": "Membagikan tautan akun palsu tersebut ke seluruh grup warga tanpa memberi label bahwa akun itu palsu",
+          "points": 2
+        },
+        {
+          "key": "D",
+          "text": "Menghapus akun media sosial resmi instansi Anda sendiri agar tidak ditiru lagi",
+          "points": 1
+        },
+        {
+          "key": "E",
+          "text": "Membiarkannya karena masyarakat dianggap sudah cukup pintar membedakan akun asli dan palsu",
+          "points": 4
+        }
+      ],
+      "explanation": "Poin tertinggi (5): B. Dokumentasi bukti, pelaporan resmi untuk penindakan hukum/takedown, dan klarifikasi publik melindungi reputasi lembaga sekaligus memutus propaganda ekstrem."
+    }
+  ]
+}

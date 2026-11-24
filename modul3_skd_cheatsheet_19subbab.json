@@ -1,0 +1,1856 @@
+{
+  "sheetVersion": "2026.1",
+  "module": "modul_3_cheatsheet_skd",
+  "totalSheets": 19,
+  "totalBlocks": 63,
+  "updatedAt": "2026-11-24",
+  "distribution": {
+    "TWK": 5,
+    "TIU": 8,
+    "TKP": 6
+  },
+  "blockTypeCounts": {
+    "list": 17,
+    "trap": 19,
+    "table": 24,
+    "formula": 3
+  },
+  "sheets": [
+    {
+      "subtopicId": "twk_nasionalisme",
+      "category": "TWK",
+      "title": "Nasionalisme",
+      "blocks": [
+        {
+          "blockId": "twk_nas_01",
+          "type": "table",
+          "heading": "Tonggak Pergerakan & Sejarah Kebangsaan",
+          "headers": [
+            "Peristiwa / Organisasi",
+            "Tanggal / Tahun",
+            "Makna Strategis Nasionalisme"
+          ],
+          "rows": [
+            [
+              "Budi Utomo",
+              "20 Mei 1908",
+              "Pelopor organisasi modern terstruktur (pendidikan & budaya); tonggak Hari Kebangkitan Nasional."
+            ],
+            [
+              "Sarekat Islam (SI)",
+              "1911 / 1912",
+              "Bermula dari SDI (H. Samanhudi), berkembang di bawah H.O.S. Tjokroaminoto menjadi organisasi massa nasional pertama lintas kelas."
+            ],
+            [
+              "Indische Partij",
+              "25 Des 1912",
+              "Tiga Serangkai (Douwes Dekker, Cipto Mangunkusumo, Suwardi Suryaningrat); partai politik pertama yang menuntut kemerdekaan inklusif lintas ras."
+            ],
+            [
+              "Manifesto Politik PI",
+              "1925",
+              "Perhimpunan Indonesia di Belanda: persatuan nasional, solidaritas, nonkooperasi, dan swadaya."
+            ],
+            [
+              "Sumpah Pemuda",
+              "28 Okt 1928",
+              "Kongres Pemuda II (digagas PPPI): satu tanah air, satu bangsa, dan menjunjung bahasa persatuan bahasa Indonesia."
+            ],
+            [
+              "Peristiwa Rengasdengklok",
+              "16 Agt 1945",
+              "Tekad golongan muda agar proklamasi murni atas kekuatan bangsa sendiri, bukan hadiah Jepang."
+            ],
+            [
+              "Pertempuran Surabaya",
+              "10 Nov 1945",
+              "Penolakan ultimatum Sekutu; simbol keberanian mempertahankan kedaulatan (Hari Pahlawan)."
+            ],
+            [
+              "Bandung Lautan Api",
+              "24 Mar 1946",
+              "Pengorbanan rakyat membumihanguskan kota agar tidak menjadi markas strategis Sekutu/NICA."
+            ],
+            [
+              "Serangan Umum 1 Maret",
+              "1 Mar 1949",
+              "Membuktikan kepada dunia/PBB bahwa RI dan TNI tetap eksis pasca-Agresi Militer II."
+            ],
+            [
+              "Pengakuan Kedaulatan (KMB)",
+              "27 Des 1949",
+              "Pengakuan kedaulatan RI oleh Belanda; kembali ke NKRI pada 17 Agustus 1950 (Mosi Integral M. Natsir)."
+            ],
+            [
+              "Deklarasi Djuanda",
+              "13 Des 1957",
+              "Menyatukan perairan antarpulau sebagai kedaulatan utuh Negara Kepulauan (diakui UNCLOS 1982)."
+            ]
+          ]
+        },
+        {
+          "blockId": "twk_nas_02",
+          "type": "table",
+          "heading": "Pembeda Konsep Kebangsaan & Penyimpangannya",
+          "headers": [
+            "Konsep",
+            "Definisi Inti",
+            "Posisi terhadap Nasionalisme Indonesia"
+          ],
+          "rows": [
+            [
+              "Nasionalisme Kewarganegaraan",
+              "Kesetiaan pada negara berdasarkan kesetaraan hak, kewajiban, dan konstitusi tanpa memandang suku/keturunan.",
+              "Selaras (dianut Indonesia)."
+            ],
+            [
+              "Patriotisme",
+              "Cinta tanah air dan rela berkorban untuk bangsa sambil tetap menghormati bangsa lain.",
+              "Selaras."
+            ],
+            [
+              "Chauvinisme",
+              "Paham kebangsaan sempit yang menganggap bangsa sendiri paling unggul dan merendahkan bangsa lain.",
+              "Bertentangan (melanggar Sila ke-2)."
+            ],
+            [
+              "Primordialisme Sempit",
+              "Loyalitas berlebihan pada ikatan asal (suku, daerah, golongan) di atas kepentingan objektif bangsa.",
+              "Bertentangan."
+            ],
+            [
+              "Etnosentrisme",
+              "Menilai dan menghakimi budaya lain menggunakan standar budaya sendiri.",
+              "Bertentangan."
+            ],
+            [
+              "Akulturasi vs Asimilasi",
+              "Akulturasi: paduan budaya tanpa menghapus jati diri asli (A+B=AB). Asimilasi: melebur menghilangkan ciri asli (A+B=C).",
+              "Akulturasi selaras dengan Bhinneka Tunggal Ika."
+            ]
+          ]
+        },
+        {
+          "blockId": "twk_nas_03",
+          "type": "list",
+          "heading": "Simbol Negara (UUD 1945 & UU No. 24/2009) dan Wawasan Nusantara",
+          "items": [
+            "Pasal 35: Bendera Negara Sang Merah Putih | Pasal 36: Bahasa Negara Bahasa Indonesia.",
+            "Pasal 36A: Lambang Negara Garuda Pancasila dengan semboyan Bhinneka Tunggal Ika | Pasal 36B: Lagu Kebangsaan Indonesia Raya.",
+            "Wawasan Nusantara: memandang Indonesia sebagai satu kesatuan Politik, Ekonomi, Sosial Budaya, dan Pertahanan Keamanan (Ipoleksosbudhankam).",
+            "Integrasi Nasional: Normatif (kesepakatan nilai/Pancasila), Fungsional (saling ketergantungan ekonomi-sosial), Koersif (paksaan kekuasaan).",
+            "Nasionalisme Ekonomi ASN: mengutamakan Produk Dalam Negeri (P3DN) bersertifikat TKDN yang memenuhi spesifikasi teknis."
+          ]
+        },
+        {
+          "blockId": "twk_nas_04",
+          "type": "trap",
+          "heading": "Jebakan Umum Soal Nasionalisme",
+          "items": [
+            "Butir ke-3 Sumpah Pemuda berbunyi 'menjunjung bahasa persatuan, bahasa Indonesia' — BUKAN menghapus bahasa daerah.",
+            "Jangan tertukar kronologi diplomasi: Linggarjati (1947) -> Renville (1948) -> Roem-Royen (1949) -> KMB (27 Des 1949).",
+            "Memilih produk dalam negeri yang tidak memenuhi standar keamanan/spesifikasi bukan wujud nasionalisme ekonomi yang benar."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "UU No. 24 Tahun 2009 tentang Bendera, Bahasa, dan Lambang Negara serta Lagu Kebangsaan",
+          "url": "https://peraturan.bpk.go.id"
+        },
+        {
+          "label": "Kisi-Kisi SKD KemenPAN-RB",
+          "url": "https://www.menpan.go.id"
+        }
+      ]
+    },
+    {
+      "subtopicId": "twk_integritas",
+      "category": "TWK",
+      "title": "Integritas",
+      "blocks": [
+        {
+          "blockId": "twk_int_01",
+          "type": "table",
+          "heading": "9 Nilai Antikorupsi KPK (Ju-Pe-Man-Di-Tang-Ker-Se-Be-A)",
+          "headers": [
+            "Kelompok",
+            "Nilai Antikorupsi",
+            "Indikator Perilaku Kunci ASN"
+          ],
+          "rows": [
+            [
+              "Nilai Inti",
+              "Jujur, Disiplin, Tanggung Jawab",
+              "Konsisten ucapan-tindakan walau tanpa pengawasan, patuh jam kerja & aturan, siap menanggung konsekuensi tugas."
+            ],
+            [
+              "Nilai Etos Kerja",
+              "Mandiri, Kerja Keras, Sederhana",
+              "Tidak bergantung pihak berkepentingan, gigih mencapai target, hidup wajar dan tidak konsumtif/pamer."
+            ],
+            [
+              "Nilai Sikap",
+              "Berani, Peduli, Adil",
+              "Melaporkan penyimpangan lewat WBS, peka terhadap warga/lingkungan, objektif dan tidak diskriminatif."
+            ]
+          ]
+        },
+        {
+          "blockId": "twk_int_02",
+          "type": "table",
+          "heading": "Pembeda Tindak Pidana Korupsi Utama (UU Tipikor)",
+          "headers": [
+            "Jenis Tipikor",
+            "Unsur Pembeda Utama",
+            "Ketentuan Kunci"
+          ],
+          "rows": [
+            [
+              "Suap-Menyuap",
+              "Ada kesepakatan transaksional timbal balik (meeting of minds) sejak awal.",
+              "Kedua pihak (pemberi & penerima) dipidana."
+            ],
+            [
+              "Gratifikasi (Ps. 12B & 12C)",
+              "Pemberian terkait jabatan tanpa kesepakatan langsung (tanam budi).",
+              "Wajib ditolak atau lapor KPK ≤ 30 hari kerja (atau via UPG instansi ≤ 7 hari kerja)."
+            ],
+            [
+              "Pemerasan (Ps. 12 huruf e)",
+              "Pejabat menyalahgunakan kekuasaan memaksa orang lain memberi/membayar.",
+              "Inisiatif paksaan berasal dari pejabat."
+            ],
+            [
+              "Penggelapan dalam Jabatan (Ps. 8)",
+              "Menggelapkan uang/surat berharga yang disimpan karena jabatannya.",
+              "Meminjam kas kantor meski berniat mengembalikan tetap pidana."
+            ],
+            [
+              "Benturan Kepentingan",
+              "Kepentingan pribadi/keluarga/saham berpotensi memengaruhi objektivitas jabatan.",
+              "Wajib diungkap terbuka dan mundur dari keputusan terkait."
+            ]
+          ]
+        },
+        {
+          "blockId": "twk_int_03",
+          "type": "list",
+          "heading": "Ketentuan Kunci, Teladan Tokoh & Core Values ASN",
+          "items": [
+            "Pembuktian Terbalik Gratifikasi (Ps. 12B): nilai ≥ Rp10 juta dibuktikan oleh PENERIMA; < Rp10 juta dibuktikan oleh penuntut umum.",
+            "Pasal 4 UU Tipikor: Pengembalian kerugian keuangan negara TIDAK menghapuskan dipidananya pelaku.",
+            "Trisula Pemberantasan Korupsi KPK: Pendidikan (tidak mau), Pencegahan (tidak bisa), Penindakan (takut).",
+            "Zona Integritas: WBK (Wilayah Bebas dari Korupsi) harus diraih terlebih dahulu sebelum predikat lanjutan WBBM (Wilayah Birokrasi Bersih dan Melayani).",
+            "Teladan Tokoh: Mohammad Hatta (kembalikan sisa dana dinas), Hoegeng (tolak suap & tutup usaha istri demi bebas konflik kepentingan), Baharuddin Lopa (larang keluarga pakai mobil dinas).",
+            "Core Values ASN BerAKHLAK: Berorientasi Pelayanan, Akuntabel, Kompeten, Harmonis, Loyal, Adaptif, Kolaboratif."
+          ]
+        },
+        {
+          "blockId": "twk_int_04",
+          "type": "trap",
+          "heading": "Jebakan Umum Soal Integritas",
+          "items": [
+            "Batas pelaporan gratifikasi adalah HARI KERJA (30 hari kerja ke KPK; 7 hari kerja ke UPG), bukan hari kalender.",
+            "Mark-up kuitansi perjalanan dinas tetap melanggar hukum meski selisihnya diklaim untuk 'kas bersama unit' atau kegiatan kantor.",
+            "Mengklaim 'tetap menilai objektif tanpa memberi tahu panitia' saat ada kerabat ikut seleksi BUKAN sikap berintegritas."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Pusat Edukasi Antikorupsi KPK (ACLC)",
+          "url": "https://aclc.kpk.go.id"
+        },
+        {
+          "label": "UU No. 20 Tahun 2023 tentang Aparatur Sipil Negara",
+          "url": "https://peraturan.bpk.go.id"
+        }
+      ]
+    },
+    {
+      "subtopicId": "twk_bela_negara",
+      "category": "TWK",
+      "title": "Bela Negara",
+      "blocks": [
+        {
+          "blockId": "twk_bn_01",
+          "type": "table",
+          "heading": "Pasal Konstitusi yang Sering Tertukar (UUD 1945)",
+          "headers": [
+            "Pasal UUD 1945",
+            "Rumusan / Isi Pokok",
+            "Kata Kunci Pembeda"
+          ],
+          "rows": [
+            [
+              "Pasal 27 Ayat (3)",
+              "Setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan negara.",
+              "Pembelaan Negara."
+            ],
+            [
+              "Pasal 30 Ayat (1)",
+              "Tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara.",
+              "Pertahanan & Keamanan."
+            ],
+            [
+              "Pasal 30 Ayat (2)",
+              "Sishankamrata: TNI dan Polri sebagai kekuatan utama, dan rakyat sebagai kekuatan pendukung.",
+              "Kekuatan Utama vs Pendukung."
+            ],
+            [
+              "Pasal 30 Ayat (3)",
+              "TNI mempertahankan, melindungi, dan memelihara keutuhan dan kedaulatan negara.",
+              "TNI = Pertahanan & Kedaulatan."
+            ],
+            [
+              "Pasal 30 Ayat (4)",
+              "Polri menjaga kamtibmas, melindungi, mengayomi, melayani masyarakat, serta menegakkan hukum.",
+              "Polri = Kamtibmas & Hukum."
+            ],
+            [
+              "Pasal 28J Ayat (2)",
+              "Pembatasan kebebasan oleh UU demi menghormati hak orang lain, moral, nilai agama, keamanan, dan ketertiban umum.",
+              "Batas Kebebasan."
+            ]
+          ]
+        },
+        {
+          "blockId": "twk_bn_02",
+          "type": "table",
+          "heading": "5 Nilai Dasar Bela Negara & Contoh Aktualisasi ASN",
+          "headers": [
+            "Nilai Dasar",
+            "Indikator & Contoh Aktualisasi"
+          ],
+          "rows": [
+            [
+              "1. Cinta Tanah Air",
+              "Menjaga kelestarian lingkungan, bangga memakai produk/budaya Indonesia, mengenal wilayah NKRI."
+            ],
+            [
+              "2. Sadar Berbangsa & Bernegara",
+              "Taat hukum, bayar pajak tepat waktu, menggunakan hak pilih, mematuhi rambu lalu lintas."
+            ],
+            [
+              "3. Setia pada Pancasila",
+              "Mengamalkan kelima sila dan menolak ideologi yang bertentangan dengan Pancasila."
+            ],
+            [
+              "4. Rela Berkorban",
+              "Mendahulukan kepentingan bangsa, membantu posko bencana/sosial di luar kewajiban rutin."
+            ],
+            [
+              "5. Kemampuan Awal Bela Negara",
+              "Kesiapan psikis (kompetensi teknis, kecerdasan emosional, integritas) dan fisik (kesehatan/kebugaran)."
+            ]
+          ]
+        },
+        {
+          "blockId": "twk_bn_03",
+          "type": "list",
+          "heading": "UU No. 23/2019 (UU PSDN), Zona Laut & Ketahanan Nasional",
+          "items": [
+            "4 Bentuk Penyelenggaraan Bela Negara: (1) Pendidikan kewarganegaraan, (2) Pelatihan dasar kemiliteran wajib, (3) Pengabdian sebagai prajurit TNI, (4) Pengabdian sesuai profesi (fokus utama ASN).",
+            "Sumber Daya Pertahanan: Komponen Utama (TNI), Komponen Cadangan/Komcad (SUKARELA, dimobilisasi Presiden dengan persetujuan DPR saat darurat/perang), Komponen Pendukung (warga negara, SDA, SDB, sarpras nasional).",
+            "Hari Bela Negara: 19 Desember (mengenang pembentukan PDRI 19 Desember 1948 di Bukittinggi oleh Sjafruddin Prawiranegara saat Agresi Militer II).",
+            "Jenis Ancaman: Militer (bersenjata), Nonmiliter (hoaks/ideologi, pangan, energi, siber, pandemi), Hibrida (kombinasi terpadu militer + nonmiliter).",
+            "Astagatra Ketahanan Nasional: Trigatra (Geografi, Kekayaan Alam, Penduduk) + Pancagatra (Ideologi, Politik, Ekonomi, Sosial Budaya, Hankam).",
+            "Zona Laut (UNCLOS 1982): Laut Teritorial 12 mil (kedaulatan penuh), Zona Tambahan 24 mil, ZEE 200 mil (hak berdaulat SDA), Landas Kontinen 200–350 mil."
+          ]
+        },
+        {
+          "blockId": "twk_bn_04",
+          "type": "trap",
+          "heading": "Jebakan Umum Soal Bela Negara",
+          "items": [
+            "Jangan tertukar: Pasal 27(3) = PEMBELAAN negara; Pasal 30(1) = PERTAHANAN & KEAMANAN negara.",
+            "Komcad bersifat SUKARELA (bukan wajib militer permanen) dan Presiden wajib mendapat persetujuan DPR untuk mobilisasi.",
+            "Pengamanan perbatasan, penanggulangan bencana alam, dan misi perdamaian PBB (Kontingen Garuda) termasuk OMSP (Operasi Militer Selain Perang)."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "UU No. 23 Tahun 2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara",
+          "url": "https://peraturan.bpk.go.id"
+        },
+        {
+          "label": "Naskah UUD NRI Tahun 1945 (MPR RI)",
+          "url": "https://www.mpr.go.id"
+        }
+      ]
+    },
+    {
+      "subtopicId": "twk_pilar_negara",
+      "category": "TWK",
+      "title": "Pilar Negara (Pancasila, UUD 1945, NKRI, Bhinneka Tunggal Ika)",
+      "blocks": [
+        {
+          "blockId": "twk_pn_01",
+          "type": "table",
+          "heading": "Kewenangan Lembaga Negara Pasca-Amandemen UUD 1945",
+          "headers": [
+            "Lembaga",
+            "Pasal Kunci",
+            "Wewenang / Tugas Pokok"
+          ],
+          "rows": [
+            [
+              "MPR",
+              "Ps. 3 & 37",
+              "Mengubah/menetapkan UUD, melantik Presiden/Wapres, memberhentikan Presiden/Wapres menurut UUD (bukan lagi lembaga tertinggi)."
+            ],
+            [
+              "DPR",
+              "Ps. 20 & 20A",
+              "Membentuk UU (bahas & setuju bersama Presiden). 3 Fungsi: Legislasi, Anggaran, Pengawasan. 3 Hak: Interpelasi, Angket, Menyatakan Pendapat."
+            ],
+            [
+              "DPD",
+              "Ps. 22D",
+              "Mengajukan & ikut membahas RUU otonomi/pusat-daerah/SDA/perimbangan keuangan; beri pertimbangan RUU APBN, pajak, pendidikan, agama."
+            ],
+            [
+              "Presiden",
+              "Ps. 7, 14, 22",
+              "Masa jabatan 5 tahun, maks 2 periode. Grasi & Rehabilitasi (pertimbangan MA); Amnesti & Abolisi (pertimbangan DPR); Perppu (wajib disetujui DPR sidang berikut)."
+            ],
+            [
+              "MA",
+              "Ps. 24A",
+              "Mengadili tingkat kasasi dan menguji peraturan DI BAWAH UU terhadap UU."
+            ],
+            [
+              "MK",
+              "Ps. 24C",
+              "Menguji UU terhadap UUD, sengketa lembaga negara, pembubaran parpol, sengketa hasil pemilu, serta wajib memutus pendapat DPR soal pemakzulan Presiden."
+            ],
+            [
+              "KY",
+              "Ps. 24B",
+              "Mengusulkan pengangkatan hakim agung; menjaga kehormatan, keluhuran martabat, dan perilaku hakim."
+            ],
+            [
+              "BPK",
+              "Ps. 23E",
+              "Memeriksa pengelolaan dan tanggung jawab keuangan negara (hasil diserahkan ke DPR, DPD, DPRD)."
+            ]
+          ]
+        },
+        {
+          "blockId": "twk_pn_02",
+          "type": "table",
+          "heading": "Pemetaan Pengamalan 5 Sila Pancasila",
+          "headers": [
+            "Sila",
+            "Fokus Utama & Contoh Penerapan"
+          ],
+          "rows": [
+            [
+              "Sila 1 (Ketuhanan)",
+              "Kebebasan beribadah, toleransi antarumat beragama, tidak memaksakan agama, hormat hari raya agama lain."
+            ],
+            [
+              "Sila 2 (Kemanusiaan)",
+              "Persamaan derajat/harkat manusia, anti perundungan, perlindungan HAM, empati/bantuan korban bencana."
+            ],
+            [
+              "Sila 3 (Persatuan)",
+              "Cinta tanah air, menempatkan kepentingan bangsa di atas golongan, bangga budaya & produk Indonesia, rela berkorban."
+            ],
+            [
+              "Sila 4 (Kerakyatan)",
+              "Musyawarah mufakat, menghargai perbedaan pendapat, melaksanakan keputusan bersama, pemilu demokratis."
+            ],
+            [
+              "Sila 5 (Keadilan Sosial)",
+              "Pemerataan kesejahteraan, beasiswa warga tak mampu, menjaga fasilitas publik, hemat sumber daya, antre tertib."
+            ]
+          ]
+        },
+        {
+          "blockId": "twk_pn_03",
+          "type": "list",
+          "heading": "Hierarki Hukum, Pemerintahan Daerah & Pasal Strategis",
+          "items": [
+            "Pancasila = Sumber dari segala sumber hukum (Ps. 2 UU 12/2011). 3 Dimensi Ideologi Terbuka: Nilai Dasar (tetap), Instrumental (UU/kebijakan), Praksis (perilaku harian).",
+            "Hierarki Peraturan (Ps. 7 UU 12/2011): UUD 1945 -> Tap MPR -> UU/Perppu -> PP -> Perpres -> Perda Provinsi -> Perda Kab/Kota.",
+            "6 Urusan Absolut Pusat: Politik luar negeri, Pertahanan, Keamanan, Yustisi, Moneter & Fiskal Nasional, Agama.",
+            "Asas Pemda: Desentralisasi (penyerahan penuh ke daerah otonom), Dekonsentrasi (pelimpahan ke Gubernur/instansi vertikal), Tugas Pembantuan (penugasan disertai dana/sarana).",
+            "Pasal Strategis: Ps. 1(3) Negara Hukum | Ps. 28I(1) 7 HAM non-derogable | Ps. 31(4) Anggaran pendidikan ≥ 20% APBN/APBD | Ps. 33(3) SDA untuk kemakmuran rakyat | Ps. 34(1) Fakir miskin dipelihara negara.",
+            "Amandemen UUD (Ps. 37): Usul ≥ 1/3 MPR, hadir ≥ 2/3 MPR, putusan ≥ 50%+1 dari SELURUH anggota MPR. Ps. 37(5): Bentuk NKRI tidak dapat diubah.",
+            "Bhinneka Tunggal Ika: Kitab Sutasoma karya Mpu Tantular (Majapahit); bersifat inklusif dan akomodatif."
+          ]
+        },
+        {
+          "blockId": "twk_pn_04",
+          "type": "trap",
+          "heading": "Jebakan Umum Soal Pilar Negara",
+          "items": [
+            "Singkatan Pasal 14 UUD 1945: GR-MA (Grasi & Rehabilitasi -> MA) dan AA-DPR (Amnesti & Abolisi -> DPR).",
+            "Pendidikan dan kesehatan adalah urusan KONKUREN (dibagi pusat & daerah), BUKAN urusan absolut pusat.",
+            "Jangan tertukar urutan hierarki: Tap MPR di atas UU/Perppu, dan PP selalu di atas Perpres."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan",
+          "url": "https://peraturan.bpk.go.id"
+        },
+        {
+          "label": "UUD NRI Tahun 1945 (Mahkamah Konstitusi RI)",
+          "url": "https://www.mkri.id"
+        }
+      ]
+    },
+    {
+      "subtopicId": "twk_bahasa_negara",
+      "category": "TWK",
+      "title": "Bahasa Negara (EYD V, KBBI, Kalimat Efektif & Paragraf)",
+      "blocks": [
+        {
+          "blockId": "twk_bh_01",
+          "type": "table",
+          "heading": "Daftar Kata Baku KBBI yang Paling Sering Diujikan",
+          "headers": [
+            "Tidak Baku (Salah)",
+            "Baku (Benar)",
+            "Tidak Baku (Salah)",
+            "Baku (Benar)"
+          ],
+          "rows": [
+            [
+              "Apotik / Praktek",
+              "Apotek / Praktik",
+              "Aktifitas / Efektifitas",
+              "Aktivitas / Efektivitas"
+            ],
+            [
+              "Analisa / Resiko",
+              "Analisis / Risiko",
+              "Kwalitas / Kwitansi",
+              "Kualitas / Kuitansi"
+            ],
+            [
+              "Ijasah / Nasehat",
+              "Ijazah / Nasihat",
+              "Karir / Jadual / Sistim",
+              "Karier / jadwal / Sistem"
+            ],
+            [
+              "Konkrit / Obyek",
+              "Konkret / Objek",
+              "Hirarki / Frekwensi",
+              "Hierarki / Frekuensi"
+            ],
+            [
+              "Otentik / Nafas",
+              "Autentik / Napas",
+              "Standart / Ekstrim",
+              "Standar / Ekstrem"
+            ],
+            [
+              "Terlantar / Himbau",
+              "Telantar / Imbau",
+              "Handal / Standarisasi",
+              "Andal / Standardisasi"
+            ],
+            [
+              "Managemen / Ijin",
+              "Manajemen / Izin",
+              "Tehnik / Metoda",
+              "Teknik / Metode"
+            ]
+          ]
+        },
+        {
+          "blockId": "twk_bh_02",
+          "type": "table",
+          "heading": "Kaidah EYD V Paling Rawan Salah",
+          "headers": [
+            "Aspek EYD V",
+            "Aturan Benar",
+            "Contoh Benar vs Salah"
+          ],
+          "rows": [
+            [
+              "Imbuhan 'di-' vs Kata Depan 'di'",
+              "Pasif (bisa diubah ke 'me-') = serangkai. Tempat/waktu = terpisah.",
+              "BENAR: diserahkan di loket | SALAH: di serahkan diloket."
+            ],
+            [
+              "Peluluhan meN- (K,T,S,P)",
+              "Luluh jika diikuti VOKAL; tidak luluh jika gugus KONSONAN.",
+              "BENAR: memengaruhi, menerjemahkan, menyukseskan, mengonsumsi, mengkritik, memproses."
+            ],
+            [
+              "Partikel 'pun'",
+              "Terpisah, KECUALI 12+ konjungsi padu (meskipun, walaupun, adapun, dll.).",
+              "BENAR: apa pun kendalanya, meskipun sulit."
+            ],
+            [
+              "Gabungan Kata & Bentuk Terikat",
+              "Tanpa konfiks = terpisah. Bentuk terikat = serangkai (+ hubung jika kapital).",
+              "BENAR: tanggung jawab, kerja sama, bertanggung jawab, pertanggungjawaban, pascasarjana, non-ASN."
+            ],
+            [
+              "Kapital Nama Jenis vs Wilayah",
+              "Nama geografi jadi nama jenis = kecil. Wilayah diikuti nama = kapital.",
+              "BENAR: jeruk bali, pisang ambon, Kabupaten Malang."
+            ],
+            [
+              "Gelar Akademik",
+              "Depan: titik tanpa koma. Belakang: koma setelah nama & antargelar.",
+              "BENAR: Dr. Hendra Wijaya, S.E., M.M."
+            ],
+            [
+              "Bilangan Tingkat",
+              "Romawi tanpa 'ke-'; Arab pakai 'ke-'; huruf serangkai unsur 1.",
+              "BENAR: abad XXI, abad ke-21, abad kedua puluh satu."
+            ],
+            [
+              "Huruf Miring",
+              "Judul buku/koran/majalah dikutip, istilah asing/daerah belum diserap.",
+              "BENAR: buku Pedoman Pelayanan Publik, single sign-on (bukan nama instansi)."
+            ]
+          ]
+        },
+        {
+          "blockId": "twk_bh_03",
+          "type": "list",
+          "heading": "Syarat Kalimat Efektif & Analisis Paragraf",
+          "items": [
+            "Ciri Kalimat Tidak Efektif: (1) Pleonasme ('semua para', 'wajib harus', 'agar supaya'); (2) Subjek hilang karena preposisi di depan ('Dalam rapat itu membahas...'); (3) Tidak paralel ('perencanaan, melaksanakan, dievaluasi').",
+            "Koma Anak Kalimat: Anak kalimat di AWAL wajib koma ('Karena hujan, rapat ditunda.'); di AKHIR tanpa koma ('Rapat ditunda karena hujan.'), kecuali sebelum 'sedangkan/melainkan/tetapi'.",
+            "Konjungsi Antarkalimat ('Oleh karena itu,', 'Namun,', 'Selain itu,') di awal kalimat baru dan WAJIB diikuti koma. 'Sehingga' dan 'karena' adalah konjungsi intrakalimat.",
+            "Letak Gagasan Utama: Deduktif (awal), Induktif (akhir), Campuran (awal & akhir), Ineratif (tengah). Kalimat sumbang = keluar dari topik kalimat utama."
+          ]
+        },
+        {
+          "blockId": "twk_bh_04",
+          "type": "trap",
+          "heading": "Jebakan Umum Bahasa Indonesia",
+          "items": [
+            "Makna KBBI sering salah kaprah: 'acuh' = PEDULI (cuek = tidak acuh); 'ubah' = ganti (rubah = hewan); 'bergeming' = diam saja.",
+            "Titik dua (:) TIDAK boleh dipakai setelah kata 'meliputi', 'yaitu', atau 'adalah' jika rincian menjadi pelengkap langsung predikat.",
+            "Pengecualian peluluhan: 'mengkaji' (bukan mengaji) dan 'mempunyai' (bukan memunyai)."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "EYD Edisi V (Badan Pengembangan dan Pembinaan Bahasa)",
+          "url": "https://ejaan.kemdikbud.go.id"
+        },
+        {
+          "label": "KBBI Daring Kemdikbudristek",
+          "url": "https://kbbi.kemdikbud.go.id"
+        }
+      ]
+    },
+    {
+      "subtopicId": "tiu_verbal_analogi",
+      "category": "TIU",
+      "title": "Verbal: Analogi Kata & Kalimat",
+      "blocks": [
+        {
+          "blockId": "tiu_ana_01",
+          "type": "table",
+          "heading": "Pola Hubungan Analogi Paling Sering Muncul",
+          "headers": [
+            "Jenis Hubungan",
+            "Pola Kalimat Uji",
+            "Contoh Pasangan"
+          ],
+          "rows": [
+            [
+              "Alat -> Objek Ukur/Fungsi",
+              "X adalah alat untuk mengukur/menentukan Y",
+              "Kompas : Arah = Termometer : Suhu | Seismograf : Gempa"
+            ],
+            [
+              "Profesi -> Objek/Karya",
+              "X bertugas merancang/memeriksa Y",
+              "Arsitek : Bangunan = Koreografer : Tarian | Auditor : Laporan"
+            ],
+            [
+              "Sebab -> Akibat",
+              "X menyebabkan terjadinya Y",
+              "Kemarau : Kekeringan = Hujan Deras : Banjir"
+            ],
+            [
+              "Pencegahan -> Dampak",
+              "X dilakukan untuk mencegah Y",
+              "Vaksinasi : Penyakit = Reboisasi : Tanah Longsor"
+            ],
+            [
+              "Bagian -> Keseluruhan",
+              "Kumpulan X membentuk Y",
+              "Bait : Puisi = Bab : Buku"
+            ],
+            [
+              "Bahan Baku -> Produk",
+              "X diolah menjadi Y",
+              "Benang : Kain = Bata : Dinding"
+            ],
+            [
+              "Gradasi / Intensitas",
+              "Y adalah tingkatan lebih ekstrem dari X",
+              "Hangat : Panas = Sejuk : Dingin"
+            ],
+            [
+              "Kumpulan -> Anggota",
+              "X adalah kumpulan dari beberapa Y",
+              "Armada : Kapal = Konstelasi : Bintang"
+            ]
+          ]
+        },
+        {
+          "blockId": "tiu_ana_02",
+          "type": "list",
+          "heading": "3 Langkah Eksekusi Cepat (Target < 25 Detik)",
+          "items": [
+            "1. Bentuk kalimat penghubung spesifik dari pasangan kiri (A -> B). Semakin spesifik kalimatnya, semakin cepat mengeliminasi pengecoh.",
+            "2. Kunci ARAH hubungan (A->B wajib sejajar C->D) dan KELAS KATA (nomina/verba/adjektiva).",
+            "3. Khusus Analogi Kalimat (tren SKD terbaru): pecah peran menjadi [Pelaku] + [Aksi] + [Objek] + [Alat/Dasar], lalu cari struktur peran identik meski topiknya jauh berbeda."
+          ]
+        },
+        {
+          "blockId": "tiu_ana_03",
+          "type": "trap",
+          "heading": "Jebakan Umum Soal Analogi",
+          "items": [
+            "Arah terbalik: 'SEBAB : AKIBAT' dijebak dengan opsi 'AKIBAT : SEBAB'.",
+            "Kemiripan topik: pada analogi kalimat, opsi yang temanya sama (misal sama-sama rumah sakit) sering kali strukturnya salah.",
+            "Hubungan kebetulan (Mobil : Merah) bukan hubungan mutlak (Es : Dingin)."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Portal Simulasi CAT BKN",
+          "url": "https://cat.bkn.go.id"
+        }
+      ]
+    },
+    {
+      "subtopicId": "tiu_verbal_silogisme",
+      "category": "TIU",
+      "title": "Verbal: Silogisme & Penarikan Kesimpulan",
+      "blocks": [
+        {
+          "blockId": "tiu_sil_01",
+          "type": "table",
+          "heading": "Hukum Penarikan Kesimpulan Sah",
+          "headers": [
+            "Aturan Logika",
+            "Premis 1 & Premis 2",
+            "Kesimpulan Sah"
+          ],
+          "rows": [
+            [
+              "Modus Ponens",
+              "P -> Q  dan  P",
+              "Q"
+            ],
+            [
+              "Modus Tollens",
+              "P -> Q  dan  ~Q",
+              "~P"
+            ],
+            [
+              "Silogisme Hipotetis",
+              "P -> Q  dan  Q -> R",
+              "P -> R"
+            ],
+            [
+              "Silogisme Disjungtif",
+              "P ∨ Q  dan  ~P",
+              "Q (berlaku pula ~Q => P)"
+            ],
+            [
+              "Transitif Universal",
+              "Semua A adalah B; Semua B adalah C",
+              "Semua A adalah C"
+            ],
+            [
+              "Universal + Partikular (Valid)",
+              "Semua A adalah B; Sebagian C adalah A",
+              "Sebagian C adalah B"
+            ],
+            [
+              "Negatif + Partikular (Valid)",
+              "Tidak ada A yang B; Sebagian C adalah B",
+              "Sebagian C bukan A"
+            ],
+            [
+              "Ekuivalensi Implikasi",
+              "P -> Q",
+              "~Q -> ~P (Kontraposisi)  atau  ~P ∨ Q"
+            ]
+          ]
+        },
+        {
+          "blockId": "tiu_sil_02",
+          "type": "table",
+          "heading": "Rumus Negasi (Ingkaran) & Translasi Kalimat Kunci",
+          "headers": [
+            "Bentuk Pernyataan",
+            "Negasi / Translasi Logis"
+          ],
+          "rows": [
+            [
+              "Negasi 'Semua A adalah B'",
+              "Ada / Sebagian A bukan B"
+            ],
+            [
+              "Negasi (P ∧ Q) [De Morgan]",
+              "~P ∨ ~Q (salah satu tidak terpenuhi, pakai ATAU)"
+            ],
+            [
+              "Negasi (P ∨ Q) [De Morgan]",
+              "~P ∧ ~Q (keduanya tidak terpenuhi, pakai DAN)"
+            ],
+            [
+              "Negasi Implikasi ~(P -> Q)",
+              "P ∧ ~Q (P terjadi DAN Q tidak terjadi)"
+            ],
+            [
+              "'P jika Q' vs 'P hanya jika Q'",
+              "'P jika Q' = Q -> P  |  'P hanya jika Q' = P -> Q"
+            ],
+            [
+              "'Semua A adalah B' vs 'Hanya A yang B'",
+              "'Semua A adalah B' = A -> B  |  'Hanya A yang B' = B -> A"
+            ]
+          ]
+        },
+        {
+          "blockId": "tiu_sil_03",
+          "type": "trap",
+          "heading": "Jebakan & Kesesatan Logika (WAJIB HINDARI)",
+          "items": [
+            "Pola 'Semua A adalah B; Sebagian B adalah C' => TIDAK DAPAT DISIMPULKAN hubungan A dan C.",
+            "Afirmasi Konsekuen (SALAH): dari (P -> Q) dan Q, TIDAK sah menyimpulkan P.",
+            "Penyangkalan Anteseden (SALAH): dari (P -> Q) dan ~P, TIDAK sah menyimpulkan ~Q.",
+            "Jika ada premis 'Sebagian', langsung coret opsi kesimpulan berawalan 'Semua'. Jika ada premis negatif, kesimpulan wajib negatif."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Portal Simulasi CAT BKN",
+          "url": "https://cat.bkn.go.id"
+        }
+      ]
+    },
+    {
+      "subtopicId": "tiu_verbal_analitis",
+      "category": "TIU",
+      "title": "Verbal: Penalaran Analitis",
+      "blocks": [
+        {
+          "blockId": "tiu_anl_01",
+          "type": "table",
+          "heading": "Tipe Soal Analitis & Diagram Pemetaan Tercepat",
+          "headers": [
+            "Tipe Kasus",
+            "Alat Visual di Kertas Buram",
+            "Urutan Langkah Eksekusi"
+          ],
+          "rows": [
+            [
+              "Pengurutan (Skor/Waktu/Tinggi)",
+              "Tanda ketidaksamaan (>) atau slot [1][2][3][4][5]",
+              "Tulis syarat paling ekstrem ('tertinggi/paling akhir'), lalu sambungkan rantai."
+            ],
+            [
+              "Deret Kursi / Jadwal Hari",
+              "Slot berlabel [Sen][Sel][Rab][Kam][Jum]",
+              "Isi posisi pasti dulu, lalu blok bersebelahan ('tepat sebelum/sesudah'), baru larangan."
+            ],
+            [
+              "Meja Bundar (N Kursi Genap)",
+              "Lingkaran bernomor 1..N",
+              "Hadap pusat: Kanan = berlawanan jarum jam. Berhadapan = selisih tepat N/2."
+            ],
+            [
+              "Kombinasi / Pemilihan Tim",
+              "Notasi +A (wajib), B≠C (larang), D->E (syarat)",
+              "Terapkan syarat wajib & fakta soal, lalu eliminasi opsi yang melanggar aturan."
+            ],
+            [
+              "Pencocokan Atribut (Matriks)",
+              "Tabel Baris (Orang) × Kolom (Atribut)",
+              "Beri (✓) untuk pasti dan (✗) untuk sisa baris & kolom yang sama."
+            ],
+            [
+              "Rute / Jalur Antarlokasi",
+              "Graf simpul dengan panah (→) dan (↔)",
+              "Jangan dibayangkan di kepala; gambar graf 5 detik lalu telusuri rute."
+            ]
+          ]
+        },
+        {
+          "blockId": "tiu_anl_02",
+          "type": "list",
+          "heading": "Teknik Menghemat Waktu Saat Kondisi Tidak Lengkap",
+          "items": [
+            "Teknik Percabangan (Branching): jika tidak ada posisi tetap, pilih syarat dengan opsi paling sedikit (maks 2 cabang skenario), jalankan paralel hingga satu cabang gugur.",
+            "Multi-Dimensi (misal kecepatan & ketelitian): wajib buat DUA baris urutan terpisah agar tidak tertukar.",
+            "Jika soal berupa pilihan ganda kombinasi, uji opsi jawaban terhadap syarat sering lebih cepat daripada mencari semua permutasi."
+          ]
+        },
+        {
+          "blockId": "tiu_anl_03",
+          "type": "trap",
+          "heading": "Jebakan Kata Kunci Analitis",
+          "items": [
+            "'Sebelum / di kanan' (boleh berjarak) BERBEDA dengan 'TEPAT sebelum / TEPAT di kanan' (wajib menempel langsung).",
+            "'Tepat di antara B dan C' memiliki DUA kemungkinan urutan: B-A-C atau C-A-B.",
+            "'Di antara A dan B terdapat 2 kursi' berarti selisih nomor kursi adalah 3 (bukan 2)."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Portal Simulasi CAT BKN",
+          "url": "https://cat.bkn.go.id"
+        }
+      ]
+    },
+    {
+      "subtopicId": "tiu_numerik_berhitung",
+      "category": "TIU",
+      "title": "Numerik: Berhitung Cepat",
+      "blocks": [
+        {
+          "blockId": "tiu_hit_01",
+          "type": "table",
+          "heading": "Tabel Konversi Pecahan Istimewa (WAJIB HAFAL)",
+          "headers": [
+            "Pecahan",
+            "Persen",
+            "Desimal",
+            "Pecahan",
+            "Persen",
+            "Desimal"
+          ],
+          "rows": [
+            [
+              "1/8",
+              "12,5%",
+              "0,125",
+              "1/3",
+              "33,33%",
+              "0,333..."
+            ],
+            [
+              "3/8",
+              "37,5%",
+              "0,375",
+              "2/3",
+              "66,67%",
+              "0,667..."
+            ],
+            [
+              "5/8",
+              "62,5%",
+              "0,625",
+              "1/6",
+              "16,67%",
+              "0,167..."
+            ],
+            [
+              "7/8",
+              "87,5%",
+              "0,875",
+              "5/6",
+              "83,33%",
+              "0,833..."
+            ],
+            [
+              "1/5",
+              "20%",
+              "0,2",
+              "1/9",
+              "11,11%",
+              "0,111..."
+            ],
+            [
+              "2/5",
+              "40%",
+              "0,4",
+              "1/11",
+              "9,09%",
+              "0,0909..."
+            ],
+            [
+              "3/5",
+              "60%",
+              "0,6",
+              "1/7",
+              "14,28%",
+              "0,1428..."
+            ],
+            [
+              "4/5",
+              "80%",
+              "0,8",
+              "1/4 / 3/4",
+              "25% / 75%",
+              "0,25 / 0,75"
+            ]
+          ]
+        },
+        {
+          "blockId": "tiu_hit_02",
+          "type": "formula",
+          "heading": "Identitas Aljabar & Trik Hitung Cepat",
+          "items": [
+            {
+              "name": "Selisih Kuadrat",
+              "formula": "a² - b² = (a + b)(a - b)  |  (a² - b²)/(a - b) = a + b",
+              "example": "27² - 23² = (50)(4) = 200"
+            },
+            {
+              "name": "Distributif",
+              "formula": "a×b ± a×c = a × (b ± c)",
+              "example": "48×37 + 48×63 = 48 × 100 = 4.800"
+            },
+            {
+              "name": "Selisih Kuadrat Jumlah",
+              "formula": "(a + b)² - (a - b)² = 4ab",
+              "example": "(25+12)² - (25-12)² = 4×25×12 = 1.200"
+            },
+            {
+              "name": "Kali 5 / 25 / 125",
+              "formula": "×5 = (÷2)×10 | ×25 = (÷4)×100 | ×125 = (÷8)×1.000",
+              "example": "48 × 125 = 6 × 1.000 = 6.000"
+            },
+            {
+              "name": "Jumlah 1..n & Ganjil",
+              "formula": "1+2+...+n = n(n+1)/2  |  Jumlah n ganjil pertama = n²",
+              "example": "1+2+...+20 = 210 | 1+3+5+7+9 = 5² = 25"
+            },
+            {
+              "name": "Desimal Berulang",
+              "formula": "0,aaa... = a/9  |  0,abab... = ab/99",
+              "example": "0,3636... = 36/99 = 4/11"
+            }
+          ]
+        },
+        {
+          "blockId": "tiu_hit_03",
+          "type": "list",
+          "heading": "Kuadrat Penting, Satuan & Uji Keterbagian",
+          "items": [
+            "Kuadrat 11–20: 121, 144, 169, 196, 225, 256, 289, 324, 361, 400.",
+            "Konversi Satuan: 1 ha = 10.000 m² = 100 are | 1 liter = 1 dm³ = 1.000 cm³ | 1 lusin = 12, 1 kodi = 20, 1 gros = 144, 1 rim = 500.",
+            "Ciri Habis Dibagi: ÷3 (jumlah digit ÷3), ÷9 (jumlah digit ÷9), ÷4 (2 digit akhir ÷4), ÷8 (3 digit akhir ÷8), ÷6 (genap & ÷3).",
+            "Trik Opsi: cek DIGIT SATUAN terlebih dahulu jika seluruh opsi memiliki angka terakhir berbeda."
+          ]
+        },
+        {
+          "blockId": "tiu_hit_04",
+          "type": "trap",
+          "heading": "Jebakan Umum Berhitung",
+          "items": [
+            "Prioritas operasi (KABATAKU): perkalian & pembagian setara, kerjakan dari KIRI ke KANAN (24 ÷ 6 × 2 = 8, bukan 2).",
+            "Pembagian desimal: samakan pergeseran koma pembilang & penyebut (3,6 ÷ 0,09 = 360 ÷ 9 = 40, bukan 4).",
+            "Akar penjumlahan: √(a + b) TIDAK SAMA dengan √a + √b (√(9+16) = 5, bukan 7)."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Portal Simulasi CAT BKN",
+          "url": "https://cat.bkn.go.id"
+        }
+      ]
+    },
+    {
+      "subtopicId": "tiu_numerik_deret",
+      "category": "TIU",
+      "title": "Numerik: Deret Angka & Huruf",
+      "blocks": [
+        {
+          "blockId": "tiu_der_01",
+          "type": "table",
+          "heading": "Klasifikasi 8 Pola Deret Paling Sering Keluar",
+          "headers": [
+            "Jenis Pola",
+            "Ciri Visual",
+            "Contoh & Penyelesaian"
+          ],
+          "rows": [
+            [
+              "Bertingkat (Tingkat 2)",
+              "Selisih tingkat 1 berubah teratur",
+              "4, 7, 12, 19, 28, [39] -> selisih +3, +5, +7, +9, +11"
+            ],
+            [
+              "Geometri / Rasio Bertingkat",
+              "Lonjakan cepat atau 2 suku awal sama",
+              "2, 2, 4, 12, 48, [240] -> ×1, ×2, ×3, ×4, ×5"
+            ],
+            [
+              "2 Larik (Lompat 1)",
+              "Naik-turun acak / minta 2 angka akhir",
+              "3, 20, 6, 17, 12, 14, [24], [11] -> ganjil ×2, genap -3"
+            ],
+            [
+              "3 Larik (Lompat 2)",
+              "Suku panjang (≥ 9 angka)",
+              "Kelompokkan urutan (1,4,7), (2,5,8), (3,6,9)"
+            ],
+            [
+              "Operasi Bergantian",
+              "Pola 2–3 operasi berulang periodik",
+              "64, 32, 36, 18, 22, [11], 15 -> ÷2, +4, ÷2, +4"
+            ],
+            [
+              "Fibonacci",
+              "Suku = jumlah 2 suku sebelumnya",
+              "1, 2, 3, 5, 8, 13, 21, [34]"
+            ],
+            [
+              "Kuadrat / Kubik ± k",
+              "Dekat dengan n² atau n³",
+              "2, 5, 10, 17, 26, [37] -> n² + 1"
+            ],
+            [
+              "Pecahan & Alfanumerik",
+              "Terdiri atas pembilang/penyebut atau huruf+angka",
+              "Pisahkan pola pembilang & penyebut (atau huruf & angka) secara terpisah"
+            ]
+          ]
+        },
+        {
+          "blockId": "tiu_der_02",
+          "type": "list",
+          "heading": "Patokan Wajib Hafal (Huruf & Bilangan Istimewa)",
+          "items": [
+            "Patokan Urutan Huruf (EJOTY): E=5, J=10, O=15, T=20, Y=25 (mempercepat konversi A=1..Z=26 tanpa menulis seluruh abjad).",
+            "Bilangan Prima: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37.",
+            "Bilangan Kubik (n³): 1, 8, 27, 64, 125, 216, 343, 512, 729, 1.000.",
+            "Mencari 1 Angka Salah (Anomali): hitung semua selisih; satu angka salah akan merusak 2 selisih berdekatan sementara jumlah keduanya tetap normal."
+          ]
+        },
+        {
+          "blockId": "tiu_der_03",
+          "type": "trap",
+          "heading": "Jebakan Umum Soal Deret",
+          "items": [
+            "Pada deret pecahan, satu pecahan yang sudah disederhanakan (misal 4/8 ditulis 1/2) sering menyamarkan pola penyebut — kembalikan ke bentuk belum disederhanakan.",
+            "Jika 20 detik pola berurutan tidak ketemu, segera ganti cek pola lompat 1 (2 larik) atau lompat 2 (3 larik)."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Portal Simulasi CAT BKN",
+          "url": "https://cat.bkn.go.id"
+        }
+      ]
+    },
+    {
+      "subtopicId": "tiu_numerik_perbandingan",
+      "category": "TIU",
+      "title": "Numerik: Perbandingan Kuantitatif (X vs Y)",
+      "blocks": [
+        {
+          "blockId": "tiu_pk_01",
+          "type": "formula",
+          "heading": "6 Trik Komparasi Cepat Tanpa Menghitung Penuh",
+          "items": [
+            {
+              "name": "Bandingkan 2 Pecahan",
+              "formula": "a/b vs c/d  ==>  bandingkan (a×d) kiri vs (c×b) kanan",
+              "example": "4/7 vs 5/9 -> 36 > 35 -> 4/7 > 5/9"
+            },
+            {
+              "name": "Simetri Persentase",
+              "formula": "a% × b  =  b% × a",
+              "example": "24% × 75 = 75% × 24 (langsung X = Y)"
+            },
+            {
+              "name": "Pangkat Besar Beda Basis",
+              "formula": "Bagi kedua eksponen dengan FPB-nya",
+              "example": "2^30 vs 3^20 -> (2³)^10 vs (3²)^10 -> 8^10 < 9^10"
+            },
+            {
+              "name": "Jumlah Dua Akar Positif",
+              "formula": "Kuadratkan kedua ruas: (√a + √b)² = a + b + 2√(ab)",
+              "example": "√10+√2 vs √7+√5 -> 12+2√20 < 12+2√35"
+            },
+            {
+              "name": "SPLDV Cepat",
+              "formula": "Jumlahkan/kurangkan langsung kedua persamaan untuk dapat (x+y) atau (x-y)",
+              "example": "2x+3y=14 & 3x+2y=16 -> 5(x+y)=30 -> x+y=6"
+            },
+            {
+              "name": "Rata-Rata Kecepatan PP",
+              "formula": "v_rata = (2 × v1 × v2) / (v1 + v2)  [selalu < (v1+v2)/2]",
+              "example": "Pergi 40, pulang 60 -> 4800/100 = 48 km/jam (< 50)"
+            }
+          ]
+        },
+        {
+          "blockId": "tiu_pk_02",
+          "type": "table",
+          "heading": "Sifat Tanda Bilangan & Rentang Variabel",
+          "headers": [
+            "Kondisi Variabel",
+            "Hubungan yang Selalu Berlaku",
+            "Contoh Uji"
+          ],
+          "rows": [
+            [
+              "a > 0 dan b < 0",
+              "(a - b) > 0 dan (b - a) < 0  ==>  (a - b) > (b - a)",
+              "a=2, b=-1 -> 3 > -3"
+            ],
+            [
+              "m < 0 dan n < 0",
+              "(m × n) positif > (m + n) negatif",
+              "m=-2, n=-3 -> 6 > -5"
+            ],
+            [
+              "0 < x < 1 (pecahan murni)",
+              "x² < x < √x  (makin tinggi pangkat, makin kecil)",
+              "x=1/4 -> 1/16 < 1/4 < 1/2"
+            ],
+            [
+              "Negatif berpangkat",
+              "(-a)^(genap) = positif  >  (-a)^(ganjil) = negatif",
+              "(-3)⁴ = 81 > (-3)³ = -27"
+            ],
+            [
+              "x² = k (k > 0)",
+              "x = +√k  ATAU  x = -√k (dua nilai!)",
+              "x²=25, y=5 -> hubungan tak dapat ditentukan"
+            ]
+          ]
+        },
+        {
+          "blockId": "tiu_pk_03",
+          "type": "trap",
+          "heading": "Jebakan Umum Perbandingan Kuantitatif",
+          "items": [
+            "Jangan lupa akar negatif pada persamaan kuadrat (x² = 25 -> x = ±5); jika muncul dua hubungan (x=y dan x<y), jawabannya 'Tidak dapat ditentukan'.",
+            "Mengali/membagi pertidaksamaan dengan bilangan NEGATIF WAJIB membalik tanda (-2x > 10 -> x < -5).",
+            "Bedakan (-3)² = +9 dengan -3² = -9; selalu cek satuan (cm vs m, liter vs cm³) pada soal bangun datar/ruang."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Portal Simulasi CAT BKN",
+          "url": "https://cat.bkn.go.id"
+        }
+      ]
+    },
+    {
+      "subtopicId": "tiu_numerik_cerita",
+      "category": "TIU",
+      "title": "Numerik: Soal Cerita Aritmatika & Logika",
+      "blocks": [
+        {
+          "blockId": "tiu_cer_01",
+          "type": "formula",
+          "heading": "Kumpulan Rumus Cepat Soal Cerita SKD",
+          "items": [
+            {
+              "name": "Perbandingan Senilai vs Berbalik Nilai",
+              "formula": "Senilai: A1/B1 = A2/B2  |  Berbalik (pekerja×waktu): A1×B1 = A2×B2",
+              "example": "24 hari × 15 pekerja = 18 hari × N -> N=20 (tambahan 5)"
+            },
+            {
+              "name": "Proyek Terhenti",
+              "formula": "Tambahan Pekerja = (Pekerja Awal × Hari Henti) / Sisa Hari Efektif",
+              "example": "20 pekerja, target 30 hr, jalan 10 hr, henti 4 hr -> (20×4)/16 = 5"
+            },
+            {
+              "name": "Pekerjaan Bersama (2 Orang)",
+              "formula": "t_gab = (t1 × t2) / (t1 + t2)  [Umum: 1/t = 1/t1 + 1/t2]",
+              "example": "A=6 hr, B=3 hr -> (6×3)/9 = 2 hari"
+            },
+            {
+              "name": "Berpapasan vs Menyusul",
+              "formula": "Papasan: t = Jarak/(v1+v2)  |  Susul: t = (v_lambat × Δt)/(v_cepat - v_lambat)",
+              "example": "Jarak 180, v1=50, v2=40 -> t = 180/90 = 2 jam"
+            },
+            {
+              "name": "Diskon Bertingkat & Naik-Turun p%",
+              "formula": "Diskon d1+d2 = d1+d2 - (d1×d2/100)  |  Naik p% lalu Turun p% = Turun (p²/100)%",
+              "example": "Diskon 20%+10% = 28% | Naik 10% turun 10% = turun 1%"
+            },
+            {
+              "name": "Bunga Tunggal & Bruto-Neto",
+              "formula": "Bunga = Modal × (p/100) × (bulan/12)  |  Bruto = Neto + Tara",
+              "example": "4 jt × 6% × 8/12 = Rp160.000"
+            },
+            {
+              "name": "Rata-Rata Gabungan / Campuran",
+              "formula": "Aligasi (Selisih Silang): n1 : n2 = |x̄_gab - x̄2| : |x̄_gab - x̄1|",
+              "example": "Beras 10rb & 14rb jadi 11,5rb -> 2.500 : 1.500 = 5 : 3"
+            },
+            {
+              "name": "Diagram Venn & Skala",
+              "formula": "Total = n(A)+n(B)-n(A∩B)+Tdk Keduanya  |  JS = JP × Skala (1 km = 100.000 cm)",
+              "example": "6 cm skala 1:250.000 = 1.500.000 cm = 15 km"
+            },
+            {
+              "name": "Permutasi, Kombinasi & Peluang",
+              "formula": "nPr = n!/(n-r)! (urutan penting) | nCr = n!/[r!(n-r)!] (tanpa urutan) | P(A)=n(A)/n(S)",
+              "example": "Jabat tangan n orang = n(n-1)/2"
+            }
+          ]
+        },
+        {
+          "blockId": "tiu_cer_02",
+          "type": "list",
+          "heading": "Kata Kunci Pemilih Metode",
+          "items": [
+            "KPK = kejadian berulang bersama lagi ('setiap X hari', 'bersamaan lagi'). FPB = pembagian merata terbanyak ('sama banyak', 'paket terbanyak').",
+            "Perbandingan Umur: SELISIH umur dua orang selalu TETAP kapan pun (lalu, sekarang, akan datang).",
+            "Skala Bangun: jika sisi/jari-jari diperbesar k kali -> Keliling ×k, Luas ×k², Volume ×k³."
+          ]
+        },
+        {
+          "blockId": "tiu_cer_03",
+          "type": "trap",
+          "heading": "Jebakan Umum Soal Cerita",
+          "items": [
+            "Cek pertanyaan akhir proyek: meminta TOTAL PEKERJA atau TAMBAHAN PEKERJA (N - Awal).",
+            "Pada soal menyusul, tambahkan waktu susul (t) ke jam berangkat kendaraan KEDUA (yang lebih cepat), bukan kendaraan pertama.",
+            "Diskon 20% + 10% BUKAN 30% (melainkan 28%); mencari Harga Beli dari Harga Jual setelah untung/diskon harus DIBAGI (100% ± %), bukan dikali."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Portal Simulasi CAT BKN",
+          "url": "https://cat.bkn.go.id"
+        }
+      ]
+    },
+    {
+      "subtopicId": "tiu_figural",
+      "category": "TIU",
+      "title": "Figural: Analogi, Ketidaksamaan & Serial",
+      "blocks": [
+        {
+          "blockId": "tiu_fig_01",
+          "type": "table",
+          "heading": "Checklist 6 Transformasi Figural (Scan Berurutan)",
+          "headers": [
+            "Jenis Transformasi",
+            "Hal yang Diperiksa",
+            "Trik Eliminasi Cepat"
+          ],
+          "rows": [
+            [
+              "1. Rotasi",
+              "Putaran 45°, 90°, 180° searah (CW) atau berlawanan (CCW) jarum jam.",
+              "Lacak 1 ujung panah atau titik sudut spesifik saja."
+            ],
+            [
+              "2. Refleksi (Pencerminan)",
+              "Cermin vertikal (kiri↔kanan) vs horizontal (atas↔bawah).",
+              "Bagian terdekat cermin tetap paling dekat pada bayangan."
+            ],
+            [
+              "3. Pergeseran & Jumlah",
+              "Pindah posisi sudut/petak, perubahan jumlah sisi/garis (+1, +2).",
+              "Hitung jumlah sisi bangun atau titik hitam terlebih dahulu."
+            ],
+            [
+              "4. Warna / Inversi / Swap",
+              "Hitam↔putih (inversi) atau pertukaran bangun dalam↔luar.",
+              "Cek rasio simbol terisi vs kosong."
+            ],
+            [
+              "5. Superposisi Matriks 3×3",
+              "Kolom 1 + Kolom 2 = Kolom 3: gabung (OR), irisan (AND), atau beda (XOR).",
+              "Uji 1 ruas garis di pojok sama pada gambar 1, 2, dan 3."
+            ],
+            [
+              "6. Kubus & Lipatan Kertas",
+              "Jaring kubus (lompat 1 petak = berhadapan); lipatan dibuka mundur.",
+              "Coret opsi kubus 3D yang menampilkan 2 sisi berhadapan sekaligus."
+            ]
+          ]
+        },
+        {
+          "blockId": "tiu_fig_02",
+          "type": "list",
+          "heading": "Strategi Khusus Ketidaksamaan & Kubus 3D",
+          "items": [
+            "Figural Ketidaksamaan (1 beda dari 5): 4 gambar yang identik saat DIPUTAR (rotasi datar) dianggap SAMA; 1 gambar hasil PENCERMINAN (dibalik) adalah yang BERBEDA.",
+            "Matriks 3×3: jika pola mendatar (baris) tidak langsung jelas, segera periksa vertikal (kolom) atau pola distribusi Sudoku (tiap baris memuat 3 bentuk lengkap).",
+            "Menghitung Kubus Bertumpuk 3D: tulis angka TINGGI KOLOM pada setiap petak lantai dasar lalu jumlahkan (asumsi baku: tidak ada kubus melayang tanpa penopang)."
+          ]
+        },
+        {
+          "blockId": "tiu_fig_03",
+          "type": "trap",
+          "heading": "Jebakan Umum Figural",
+          "items": [
+            "Jangan membandingkan seluruh detail gambar sekaligus; eliminasi opsi satu elemen demi satu elemen (posisi dulu -> rotasi -> warna).",
+            "Pada lipatan kertas, lubang tepat di garis lipatan hanya membesar menjadi 1 lubang simetris, bukan terpisah menjadi 2 lubang."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Portal Simulasi CAT BKN",
+          "url": "https://cat.bkn.go.id"
+        }
+      ]
+    },
+    {
+      "subtopicId": "tkp_pelayanan",
+      "category": "TKP",
+      "title": "TKP: Pelayanan Publik",
+      "blocks": [
+        {
+          "blockId": "tkp_pel_01",
+          "type": "table",
+          "heading": "Matriks Keputusan Poin 5 vs Opsi Poin Rendah (1–3)",
+          "headers": [
+            "Pemicu Kasus",
+            "Ciri Opsi Poin 5 (Terbaik)",
+            "Ciri Opsi Poin Rendah (Hindari)"
+          ],
+          "rows": [
+            [
+              "Kelompok rentan (lansia, ibu hamil, disabilitas)",
+              "Proaktif arahkan ke fasilitas/jalur prioritas sesuai SOP + bantu akses komunikasi (tulisan/bacakan utuh).",
+              "Menyuruh pulang, mengabaikan, atau menyalahi antrean tanpa jalur prioritas resmi."
+            ],
+            [
+              "Pemohon marah / komplain ulasan buruk",
+              "Tenang, dengarkan dengan empati, jelaskan aturan & langkah perbaikan jelas, telusuri objektif.",
+              "Membalas emosi, menyalahkan warga, menghapus ulasan, atau langsung usir."
+            ],
+            [
+              "Sistem error / antrean membludak",
+              "Informasikan jujur + estimasi waktu, koordinasi IT/keamanan, pra-verifikasi berkas fisik agar cepat.",
+              "Menutup loket diam-diam, pasif menyalahkan pusat."
+            ],
+            [
+              "Kesalahan petugas / brosur usang",
+              "Minta maaf tulus, perbaiki segera secara prioritas tanpa antre ulang; tarik segera informasi usang.",
+              "Menyuruh antre ulang dari awal, memakai tip-ex, atau menunggu stok brosur habis."
+            ],
+            [
+              "Warga beri tip / minta dahulukan karena kenal pejabat",
+              "Tolak santun, jelaskan layanan bebas pungli & setara sesuai SOP/antrean.",
+              "Menerima diam-diam, menolak dengan nada kasar, atau memberi keistimewaan."
+            ]
+          ]
+        },
+        {
+          "blockId": "tkp_pel_02",
+          "type": "list",
+          "heading": "Kata Kunci Penentu Poin 5 Pelayanan Publik",
+          "items": [
+            "Berorientasi pada kebutuhan masyarakat, ramah, empatik, solutif, inklusif, transparan, dan cepat TANPA melanggar SOP.",
+            "Pemohon yang sudah memiliki nomor antrean resmi sebelum batas tutup loket WAJIB dilayani tuntas dengan mutu yang sama.",
+            "Jika urusan warga di luar kewenangan instansi, tetap arahkan dengan jelas ke instansi yang tepat beserta informasi syarat umum yang diketahui."
+          ]
+        },
+        {
+          "blockId": "tkp_pel_03",
+          "type": "trap",
+          "heading": "Jebakan Poin 4 vs Poin 5",
+          "items": [
+            "Opsi 'hanya meminta maaf' atau 'hanya mengarahkan seadanya' biasanya bernilai 3–4; poin 5 selalu memuat TINDAKAN SOLUTIF konkret sekaligus patuh SOP.",
+            "Melanggar SOP/kelengkapan berkas atas nama 'kasihan/empati' bernilai rendah (1–2), bukan 5."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "UU No. 25 Tahun 2009 tentang Pelayanan Publik",
+          "url": "https://peraturan.bpk.go.id"
+        }
+      ]
+    },
+    {
+      "subtopicId": "tkp_jejaring_kerja",
+      "category": "TKP",
+      "title": "TKP: Jejaring Kerja",
+      "blocks": [
+        {
+          "blockId": "tkp_jk_01",
+          "type": "table",
+          "heading": "Matriks Keputusan Poin 5 vs Opsi Poin Rendah (1–3)",
+          "headers": [
+            "Pemicu Kasus",
+            "Ciri Opsi Poin 5 (Terbaik)",
+            "Ciri Opsi Poin Rendah (Hindari)"
+          ],
+          "rows": [
+            [
+              "Tim baru / kerja jarak jauh / tumpang tindih peran",
+              "Inisiasi kejelasan peran, target bersama, papan pelacakan progres, dan notula PIC + tenggat.",
+              "Bekerja sendiri-sendiri, menunggu perintah, atau ambil alih sepihak."
+            ],
+            [
+              "Rekan terlambat kirim data / mendadak sakit",
+              "Komunikasi sopan tanyakan kendala, tawarkan bantuan/koordinasi pembagian ulang beban tim.",
+              "Langsung mengadu ke atasan sebelum bicara, atau membiarkan target tim gagal."
+            ],
+            [
+              "Ide Anda ditolak forum / beda gaya kerja",
+              "Terima keputusan kolektif dengan lapang dada, dukung penuh, sinergikan kelebihan masing-masing.",
+              "Bekerja setengah hati, menyindir risiko, atau minta pindah tim."
+            ],
+            [
+              "Dapat ilmu pelatihan baru / pegawai baru bergabung",
+              "Inisiasi sesi berbagi pengetahuan (knowledge sharing) dan kenalkan kontak kunci antarunit.",
+              "Simpan materi untuk diri sendiri, atau hanya kirim file tanpa penjelasan."
+            ],
+            [
+              "Kritik dari unit lain / mitra swasta beda ritme",
+              "Apresiasi masukan, evaluasi internal, samakan terminologi & format standar secara setara.",
+              "Defensif, menyalahkan balik, atau memaksakan format sepihak."
+            ]
+          ]
+        },
+        {
+          "blockId": "tkp_jk_02",
+          "type": "list",
+          "heading": "Kata Kunci Penentu Poin 5 Jejaring Kerja",
+          "items": [
+            "Kolaboratif, komunikatif dua arah, terbuka, apresiatif terhadap seluruh kontribusi tim, netral saat memediasi konflik, dan membangun relasi jangka panjang.",
+            "Dalam rapat, berikan ruang seimbang bagi anggota pendiam dan arahkan anggota dominan secara santun.",
+            "Sebelum menerbitkan kebijakan berdampak luas, lakukan konsultasi bersama pemangku kepentingan terkait."
+          ]
+        },
+        {
+          "blockId": "tkp_jk_03",
+          "type": "trap",
+          "heading": "Jebakan Poin 4 vs Poin 5",
+          "items": [
+            "Opsi pasif ('hanya mengirim file di grup' atau 'menunggu rekan bertanya') biasanya poin 3–4; poin 5 bersifat PROAKTIF memfasilitasi kolaborasi.",
+            "Opsi 'mengambil alih seluruh tugas rekan secara sepihak' tampak heroik tetapi kurang kolaboratif dibanding koordinasi tim."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Panduan Perilaku ASN BerAKHLAK (Kolaboratif)",
+          "url": "https://www.menpan.go.id"
+        }
+      ]
+    },
+    {
+      "subtopicId": "tkp_sosial_budaya",
+      "category": "TKP",
+      "title": "TKP: Sosial Budaya",
+      "blocks": [
+        {
+          "blockId": "tkp_sb_01",
+          "type": "table",
+          "heading": "Matriks Keputusan Poin 5 vs Opsi Poin Rendah (1–3)",
+          "headers": [
+            "Pemicu Kasus",
+            "Ciri Opsi Poin 5 (Terbaik)",
+            "Ciri Opsi Poin Rendah (Hindari)"
+          ],
+          "rows": [
+            [
+              "Penugasan di daerah adat/bahasa berbeda",
+              "Hormati adat, pelajari sopan santun & ungkapan dasar lokal, berbaur wajar dengan masyarakat.",
+              "Membandingkan dengan daerah asal, eksklusif, atau menolak adat."
+            ],
+            [
+              "Benturan jadwal rapat/piket dengan ibadah/hari raya",
+              "Sesuaikan jadwal agar semua dapat beribadah; atur piket adil saling menggantikan antaragama.",
+              "Voting mayoritas mengabaikan minoritas atau mengundi tanpa pertimbangan hari raya."
+            ],
+            [
+              "Candaan stereotip fisik/suku atau pesan SARA di grup",
+              "Redam dan ingatkan secara santun namun tegas demi martabat dan kerukunan bersama.",
+              "Ikut tertawa, diam acuh, keluar grup, atau menegur dengan kemarahan."
+            ],
+            [
+              "Konflik antarwarga desa / perbedaan gaya komunikasi generasi",
+              "Bersikap netral, fasilitasi musyawarah berbasis data + tokoh lokal; jadi jembatan antargenerasi.",
+              "Memihak mayoritas, mengambil keputusan sepihak, atau membentuk geng eksklusif."
+            ],
+            [
+              "Kebutuhan khusus (disabilitas, menu halal/pantangan, warga desa)",
+              "Aksesibilitas proaktif, perencanaan konsumsi inklusif, bahasa sederhana + contoh konkret.",
+              "Menyuruh bawa sendiri, memakai istilah birokrasi kaku, atau membiarkan kesulitan."
+            ]
+          ]
+        },
+        {
+          "blockId": "tkp_sb_02",
+          "type": "list",
+          "heading": "Kata Kunci Penentu Poin 5 Sosial Budaya",
+          "items": [
+            "Toleransi aktif, inklusif, empati lintas budaya/agama/generasi, perekat persatuan bangsa, dan adaptif terhadap kearifan lokal.",
+            "Pada kegiatan sosial/kerja bakti saat hari kerja, berpartisipasi dengan sistem giliran agar pelayanan publik utama tetap lancar.",
+            "Menghadiri upacara adat setempat dengan hormat sambil menjaga batas kesesuaian keyakinan pribadi secara bijak dan santun."
+          ]
+        },
+        {
+          "blockId": "tkp_sb_03",
+          "type": "trap",
+          "heading": "Jebakan Poin 4 vs Poin 5",
+          "items": [
+            "Sikap 'diam saja / membiarkan' saat terjadi isu SARA atau candaan diskriminatif bukan netralitas yang benar — ASN harus menjadi penyejuk aktif.",
+            "Meminta rekan mengubah logat daerahnya atau melarang makanan daerah tertentu secara sepihak termasuk sikap kurang menghargai keragaman."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Panduan Perilaku ASN BerAKHLAK (Harmonis)",
+          "url": "https://www.menpan.go.id"
+        }
+      ]
+    },
+    {
+      "subtopicId": "tkp_tik",
+      "category": "TKP",
+      "title": "TKP: Teknologi Informasi & Komunikasi (TIK)",
+      "blocks": [
+        {
+          "blockId": "tkp_tik_01",
+          "type": "table",
+          "heading": "Matriks Keputusan Poin 5 vs Opsi Poin Rendah (1–3)",
+          "headers": [
+            "Pemicu Kasus",
+            "Ciri Opsi Poin 5 (Terbaik)",
+            "Ciri Opsi Poin Rendah (Hindari)"
+          ],
+          "rows": [
+            [
+              "Aplikasi kerja baru diluncurkan / rekan senior kesulitan",
+              "Pelajari panduan secara mandiri, terapkan, dan dampingi rekan langkah demi langkah agar mandiri.",
+              "Bertahan cara manual, mengeluh, atau terus-menerus mengisikan akun milik rekan."
+            ],
+            [
+              "Surel phishing / tautan hoaks bukan .go.id",
+              "Jangan klik/teruskan, cek alamat pengirim, verifikasi ke IT/kanal resmi, laporkan & ingatkan rekan.",
+              "Meneruskan dengan kalimat 'cek kebenarannya', atau mengeklik tautan."
+            ],
+            [
+              "Keamanan akses (komputer bersama, Wi-Fi publik, TTE, 2FA)",
+              "Logout & lock screen, pakai tethering+VPN resmi, jaga kerahasiaan passphrase TTE, aktifkan 2FA.",
+              "Membagikan passphrase TTE, pakai Wi-Fi terbuka tanpa VPN, atau sandi sama dengan akun pribadi."
+            ],
+            [
+              "Kerja manual lambat / file tercecer / arsip berantakan",
+              "Rancang spreadsheet otomatis/dashboard di cloud resmi, validasi akurasi, terapkan konvensi penamaan file.",
+              "Simpan data kantor di akun gratis tak aman, atau pakai flashdisk bergantian."
+            ],
+            [
+              "Permintaan data NIK warga / pemakaian AI publik",
+              "Tolak beri data pribadi (arahkan ke PPID teranonimisasi); jangan input rahasia negara ke AI publik & verifikasi manual.",
+              "Kirim data pribadi demi riset, atau menyalin keluaran AI tanpa verifikasi fakta."
+            ],
+            [
+              "Error aplikasi / scanner mati / koneksi rapat melambat",
+              "Mitigasi cepat (perangkat/koneksi cadangan), lapor IT lengkap dengan tangkapan layar & kronologi, mute saat bising.",
+              "Menghentikan layanan total, membongkar perangkat sendiri, atau membiarkan mikrofon bising."
+            ]
+          ]
+        },
+        {
+          "blockId": "tkp_tik_02",
+          "type": "list",
+          "heading": "Kata Kunci Penentu Poin 5 TIK",
+          "items": [
+            "Adaptif terhadap transformasi digital, inovatif meningkatkan efisiensi tim, taat keamanan siber & UU Pelindungan Data Pribadi (PDP), serta verifikatif terhadap informasi digital.",
+            "Selalu prioritaskan infrastruktur/penyimpanan resmi instansi dan format data standar (interoperabel) saat berkolaborasi."
+          ]
+        },
+        {
+          "blockId": "tkp_tik_03",
+          "type": "trap",
+          "heading": "Jebakan Poin 4 vs Poin 5",
+          "items": [
+            "Menggunakan teknologi untuk mempercepat kerja PRIBADI saja biasanya poin 4; membagikannya tervalidasi untuk efisiensi TIM bernilai 5.",
+            "Menghapus email phishing diam-diam tanpa melapor ke tim IT bernilai lebih rendah (4) daripada melaporkannya agar pegawai lain terlindungi (5)."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "UU No. 27 Tahun 2022 tentang Pelindungan Data Pribadi",
+          "url": "https://peraturan.bpk.go.id"
+        },
+        {
+          "label": "Panduan Perilaku ASN BerAKHLAK (Adaptif)",
+          "url": "https://www.menpan.go.id"
+        }
+      ]
+    },
+    {
+      "subtopicId": "tkp_profesionalisme",
+      "category": "TKP",
+      "title": "TKP: Profesionalisme",
+      "blocks": [
+        {
+          "blockId": "tkp_pro_01",
+          "type": "table",
+          "heading": "Matriks Keputusan Poin 5 vs Opsi Poin Rendah (1–3)",
+          "headers": [
+            "Pemicu Kasus",
+            "Ciri Opsi Poin 5 (Terbaik)",
+            "Ciri Opsi Poin Rendah (Hindari)"
+          ],
+          "rows": [
+            [
+              "Dua tenggat bersamaan / beban kerja memuncak",
+              "Petakan prioritas, komunikasikan estimasi transparan, atur blok fokus sehat, tuntaskan seluruh tugas.",
+              "Menolak tugas, melempar ke rekan, atau lembur tanpa kontrol hingga tak teliti."
+            ],
+            [
+              "Salah data pada laporan / butuh tambahan waktu akurat",
+              "Segera akui jujur atau infokan SEBELUM tenggat, kirim revisi akurat, evaluasi agar tak terulang.",
+              "Diam menunggu ketahuan, ubah diam-diam tanpa lapor, atau menyalahkan pihak lain."
+            ],
+            [
+              "Tekanan melanggar aturan / bocor rahasia / politik praktis",
+              "Tolak tegas namun santun berbasis regulasi, jaga rahasia jabatan & netralitas mutlak (termasuk medsos).",
+              "Patuh perintah menyimpang, beri bocoran tipis, atau ikut like/share kampanye."
+            ],
+            [
+              "SOP dinilai lambat / BAST barang kurang dari kontrak",
+              "Patuhi SOP berjalan sambil ajukan kajian perbaikan resmi; tolak BAST penuh & catat kekurangan fisik.",
+              "Pangkas SOP sepihak, atau tanda tangan BAST hanya bermodal janji lisan vendor."
+            ],
+            [
+              "Konflik pribadi dengan rekan / kritik tajam atasan / gagal target",
+              "Pisahkan urusan pribadi dari dinas, terima kritik terbuka, evaluasi akar masalah berbasis data.",
+              "Balas dendam kerja, defensif panjang lebar, atau mencari kambing hitam."
+            ],
+            [
+              "Kantor lengang / akan mutasi / anggaran diklat terbatas",
+              "Tetap disiplin sampai jam/hari akhir, susun serah terima rapi, belajar mandiri (MOOC/LMS).",
+              "Pulang lebih awal, turunkan mutu kerja jelang mutasi, atau menunggu diklat kantor."
+            ]
+          ]
+        },
+        {
+          "blockId": "tkp_pro_02",
+          "type": "list",
+          "heading": "Kata Kunci Penentu Poin 5 Profesionalisme",
+          "items": [
+            "Akuntabel, objektif, disiplin mandiri tanpa pengawasan, taat hukum di atas tekanan personal, komunikatif sebelum tenggat, dan pembelajar sepanjang hayat.",
+            "Saat terjadi krisis acara (narasumber batal mendadak), tetap tenang dan siapkan opsi narasumber pengganti/mitigasi sebelum melapor ke pimpinan.",
+            "Pelaporan perjalanan dinas at cost wajib sesuai kuitansi riil dan mengembalikan sisa dana tepat waktu ke kas negara."
+          ]
+        },
+        {
+          "blockId": "tkp_pro_03",
+          "type": "trap",
+          "heading": "Jebakan Poin 4 vs Poin 5",
+          "items": [
+            "Langsung memotong langkah SOP tanpa persetujuan resmi agar layanan cepat BUKAN profesionalisme poin 5 — perbaikan sistem harus melalui jalur resmi.",
+            "Pada situasi darurat, sekadar melapor ke atasan lalu menunggu instruksi penuh bernilai 4; melapor disertai USULAN SOLUSI MITIGASI bernilai 5."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "UU No. 20 Tahun 2023 tentang ASN & Netralitas ASN",
+          "url": "https://peraturan.bpk.go.id"
+        },
+        {
+          "label": "Panduan Perilaku ASN BerAKHLAK (Akuntabel & Kompeten)",
+          "url": "https://www.menpan.go.id"
+        }
+      ]
+    },
+    {
+      "subtopicId": "tkp_anti_radikalisme",
+      "category": "TKP",
+      "title": "TKP: Anti Radikalisme",
+      "blocks": [
+        {
+          "blockId": "tkp_ar_01",
+          "type": "table",
+          "heading": "Matriks Keputusan Poin 5 vs Opsi Poin Rendah (1–3)",
+          "headers": [
+            "Pemicu Kasus",
+            "Ciri Opsi Poin 5 (Terbaik)",
+            "Ciri Opsi Poin Rendah (Hindari)"
+          ],
+          "rows": [
+            [
+              "Rekan sebar konten anti-Pancasila / ajakan anarkis medsos",
+              "Dokumentasikan bukti objektif, ingatkan tenang bila relevan, lapor atasan / unit kepatuhan / inspektorat.",
+              "Diam acuh, menyerang balik dengan ancaman, atau memviralkan untuk perundungan."
+            ],
+            [
+              "Selebaran / buku / stiker terlarang di fasilitas kantor",
+              "Amankan/tarik dari ruang publik sebagai bukti, lapor berjenjang ke atasan & keamanan internal.",
+              "Membuang tanpa lapor, membakar sendiri, atau membiarkannya di rak publik."
+            ],
+            [
+              "Ajakan kajian eksklusif / donasi kelompok ekstrem / petisi anti-NKRI",
+              "Tolak tegas & santun, putus keterlibatan segera, laporkan ke kanal aduan resmi.",
+              "Ikut sekali karena sungkan, menyumbang sedikit, atau meneruskan lokasi/tautan."
+            ],
+            [
+              "Forum ekstrem di lingkungan warga / kerabat mulai terpapar",
+              "Warga: koordinasi RT/RW, tokoh masyarakat, aparat secara legal. Kerabat: dialog empatik + rujukan moderat.",
+              "Membubarkan paksa sendirian (main hakim sendiri), menyebar rumor, atau langsung memutus komunikasi kerabat."
+            ],
+            [
+              "Pembenaran kekerasan di forum / ujaran kebencian viral",
+              "Tolak kekerasan tegas & argumentatif berdasar Pancasila & hukum; cek fakta + narasi penyejuk.",
+              "Menyetujui kekerasan sebagai pilihan terakhir, atau ikut meneruskan provokasi."
+            ],
+            [
+              "Rekrutmen / pembinaan rohani / kelola medsos instansi",
+              "Verifikasi rekam jejak komitmen NKRI, kurasi narasumber moderat, edukasi kebangsaan & moderasi komentar ekstrem.",
+              "Mengabaikan rekam jejak demi skor teknis, meniadakan pembinaan rohani, atau membungkam kritik layanan sah."
+            ]
+          ]
+        },
+        {
+          "blockId": "tkp_ar_02",
+          "type": "list",
+          "heading": "4 Indikator Dini Paparan Radikalisme & Batas Kritik Sah",
+          "items": [
+            "4 Indikator Radikalisme: (1) Intoleran terhadap perbedaan/keyakinan lain, (2) Fanatik eksklusif & memusuhi kelompok di luar golongannya, (3) Menolak dasar negara Pancasila, UUD 1945, dan simbol NKRI, (4) Membenarkan cara kekerasan/anarki.",
+            "Beda Kritik Sah vs Radikalisme: Kritik sah bersifat damai, berbasis fakta, dan bertujuan memperbaiki kebijakan dalam kerangka hukum NKRI; radikalisme menolak dasar negara, menebar kebencian SARA, dan menghalalkan kekerasan.",
+            "Jika bawahan menolak upacara kebangsaan: lakukan pembinaan dialogis berdasarkan sumpah ASN dan aturan disiplin, lalu tindak lanjuti sesuai prosedur kepegawaian jika tetap menolak."
+          ]
+        },
+        {
+          "blockId": "tkp_ar_03",
+          "type": "trap",
+          "heading": "Jebakan Umum Anti Radikalisme",
+          "items": [
+            "Hindari tindakan MAIN HAKIM SENDIRI (membubarkan paksa sendirian, membakar barang bukti sendiri, atau main keroyok di medsos) — poin 5 selalu menempuh koordinasi & jalur hukum/internal resmi.",
+            "Menilai seseorang radikal hanya dari penampilan wajar atau perbedaan ibadah pribadi yang damai adalah KELIRU; penilaian wajib objektif pada 4 indikator radikalisme."
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Badan Nasional Penanggulangan Terorisme (BNPT)",
+          "url": "https://www.bnpt.go.id"
+        },
+        {
+          "label": "Moderasi Beragama Kementerian Agama RI",
+          "url": "https://kemenag.go.id"
+        }
+      ]
+    }
+  ]
+}

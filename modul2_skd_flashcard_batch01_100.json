@@ -1,0 +1,835 @@
+{
+  "deckVersion": "2026.1-batch-01",
+  "module": "modul_2_flashcard_skd",
+  "batch": 1,
+  "totalCards": 100,
+  "updatedAt": "2026-11-24",
+  "distribution": {
+    "TWK": 35,
+    "TIU": 35,
+    "TKP": 30
+  },
+  "subtopicCounts": {
+    "twk_nasionalisme": 7,
+    "twk_integritas": 7,
+    "twk_bela_negara": 7,
+    "twk_pilar_negara": 7,
+    "twk_bahasa_negara": 7,
+    "tiu_verbal_analogi": 4,
+    "tiu_verbal_silogisme": 5,
+    "tiu_verbal_analitis": 4,
+    "tiu_numerik_berhitung": 6,
+    "tiu_numerik_deret": 4,
+    "tiu_numerik_perbandingan": 4,
+    "tiu_numerik_cerita": 5,
+    "tiu_figural": 3,
+    "tkp_pelayanan": 5,
+    "tkp_jejaring_kerja": 5,
+    "tkp_sosial_budaya": 5,
+    "tkp_tik": 5,
+    "tkp_profesionalisme": 5,
+    "tkp_anti_radikalisme": 5
+  },
+  "cards": [
+    {
+      "id": "fc_b01_001",
+      "category": "TWK",
+      "subtopic": "twk_nasionalisme",
+      "front": "Kapan dan di mana organisasi Budi Utomo didirikan, serta siapa pendiri utamanya?",
+      "back": "20 Mei 1908 di Batavia (STOVIA), digagas oleh dr. Wahidin Sudirohusodo dan didirikan oleh dr. Sutomo beserta para mahasiswa STOVIA.",
+      "note": "Pembeda: 20 Mei diperingati sebagai Hari Kebangkitan Nasional; Budi Utomo awalnya berfokus pada pendidikan dan kebudayaan Jawa-Madura sebelum meluas."
+    },
+    {
+      "id": "fc_b01_002",
+      "category": "TWK",
+      "subtopic": "twk_nasionalisme",
+      "front": "Apa isi tiga butir ikrar Sumpah Pemuda 28 Oktober 1928?",
+      "back": "1) Bertumpah darah yang satu, tanah air Indonesia; 2) Berbangsa yang satu, bangsa Indonesia; 3) Menjunjung bahasa persatuan, bahasa Indonesia.",
+      "note": "Pembeda: Butir ketiga berbunyi 'menjunjung bahasa persatuan' (bukan 'berbahasa satu'), karena tetap menghormati keberadaan bahasa daerah."
+    },
+    {
+      "id": "fc_b01_003",
+      "category": "TWK",
+      "subtopic": "twk_nasionalisme",
+      "front": "Apa perbedaan mendasar antara nasionalisme kewarganegaraan (civic nationalism) dan nasionalisme etnis?",
+      "back": "Nasionalisme kewarganegaraan berlandaskan kesetaraan hak, kewajiban, dan konstitusi seluruh warga negara; nasionalisme etnis berlandaskan kesamaan keturunan, ras, atau suku semata.",
+      "note": "Pembeda: Indonesia menganut nasionalisme kewarganegaraan yang inklusif berdasarkan Pancasila dan UUD 1945."
+    },
+    {
+      "id": "fc_b01_004",
+      "category": "TWK",
+      "subtopic": "twk_nasionalisme",
+      "front": "Apa perbedaan antara patriotisme dan chauvinisme?",
+      "back": "Patriotisme adalah sikap cinta tanah air dan rela berkorban untuk bangsa dengan tetap menghormati bangsa lain; chauvinisme adalah paham kebangsaan sempit yang menganggap bangsa sendiri paling unggul dan merendahkan bangsa lain.",
+      "note": "Pembeda: Chauvinisme bertentangan dengan Sila Kedua Pancasila (Kemanusiaan yang Adil dan Beradab)."
+    },
+    {
+      "id": "fc_b01_005",
+      "category": "TWK",
+      "subtopic": "twk_nasionalisme",
+      "front": "Apa perbedaan antara primordialisme dan etnosentrisme?",
+      "back": "Primordialisme adalah ikatan kuat terhadap hal bawaan sejak lahir (suku, daerah, agama, ras); etnosentrisme adalah kecenderungan menilai dan menghakimi budaya lain menggunakan standar budaya sendiri.",
+      "note": "Pembeda: Primordialisme berfokus pada loyalitas kelompok asal, sedangkan etnosentrisme berfokus pada penilaian/standar superioritas budaya."
+    },
+    {
+      "id": "fc_b01_006",
+      "category": "TWK",
+      "subtopic": "twk_nasionalisme",
+      "front": "Apa arti strategis Deklarasi Djuanda 13 Desember 1957 bagi kedaulatan wilayah Indonesia?",
+      "back": "Menyatakan bahwa seluruh perairan di sekitar, di antara, dan yang menghubungkan pulau-pulau Indonesia merupakan bagian tak terpisahkan dari kedaulatan NKRI (konsep Negara Kepulauan).",
+      "note": "Pembeda: Sebelum Deklarasi Djuanda, Indonesia masih terikat Ordonansi Hindia Belanda 1939 yang menetapkan batas laut hanya 3 mil dari pantai tiap pulau. Konsep ini diakui secara internasional melalui UNCLOS 1982."
+    },
+    {
+      "id": "fc_b01_007",
+      "category": "TWK",
+      "subtopic": "twk_nasionalisme",
+      "front": "Sebutkan tiga tokoh pendiri Indische Partij (Tiga Serangkai) tahun 1912 dan karakter perjuangannya.",
+      "back": "Ernest Douwes Dekker (Danudirdja Setiabudi), dr. Tjipto Mangoenkoesoemo, dan Suwardi Suryaningrat (Ki Hajar Dewantara). Mereka memelopori partai politik pertama yang secara tegas menuntut kemerdekaan Hindia (Indonesia) bagi semua golongan.",
+      "note": "Pembeda: Indische Partij bersifat politik dan inklusif lintas ras/keturunan, berbeda dengan Budi Utomo yang awal berdirinya bersifat sosial-budaya kedaerahan."
+    },
+    {
+      "id": "fc_b01_008",
+      "category": "TWK",
+      "subtopic": "twk_integritas",
+      "front": "Sebutkan sembilan (9) nilai antikorupsi yang dirumuskan oleh KPK.",
+      "back": "Jujur, Peduli, Mandiri, Disiplin, Tanggung Jawab, Kerja Keras, Sederhana, Berani, dan Adil (sering disingkat: Ju-Pe-Man-Di-Tang-Ker-Se-Be-A).",
+      "note": "Pembeda: Kesembilan nilai ini terbagi menjadi 3 kelompok: Nilai Inti (Jujur, Disiplin, Tanggung Jawab), Nilai Etos Kerja (Mandiri, Kerja Keras, Sederhana), dan Nilai Sikap (Berani, Peduli, Adil)."
+    },
+    {
+      "id": "fc_b01_009",
+      "category": "TWK",
+      "subtopic": "twk_integritas",
+      "front": "Berapa batas waktu pelaporan gratifikasi yang tidak dapat ditolak langsung ke KPK dan melalui Unit Pengendalian Gratifikasi (UPG) instansi?",
+      "back": "Langsung ke KPK: paling lambat 30 hari kerja sejak tanggal penerimaan. Melalui UPG instansi: paling lambat 7 hari kerja sejak tanggal penerimaan.",
+      "note": "Pembeda: Perhatikan satuan 'hari kerja' (bukan hari kalender). Dasar hukum pelaporan 30 hari kerja terdapat pada Pasal 12C Ayat (2) UU Tipikor."
+    },
+    {
+      "id": "fc_b01_010",
+      "category": "TWK",
+      "subtopic": "twk_integritas",
+      "front": "Apa perbedaan hukum antara suap, gratifikasi, dan pemerasan dalam jabatan menurut UU Tipikor?",
+      "back": "Suap: ada kesepakatan transaksional timbal balik sejak awal. Gratifikasi: pemberian dalam arti luas terkait jabatan tanpa kesepakatan langsung (dianggap suap jika tidak dilaporkan). Pemerasan: pejabat secara aktif memaksa pihak lain memberi sesuatu dengan menyalahgunakan kekuasaan.",
+      "note": "Pembeda: Pada suap kedua pihak aktif bersepakat; pada pemerasan inisiatif paksaan dari pejabat; pada gratifikasi inisiatif pemberian umumnya dari pemberi untuk menanam budi."
+    },
+    {
+      "id": "fc_b01_011",
+      "category": "TWK",
+      "subtopic": "twk_integritas",
+      "front": "Apa itu benturan kepentingan (conflict of interest) bagi seorang ASN dan bagaimana penanganan berintegritasnya?",
+      "back": "Situasi ketika pejabat/pegawai memiliki kepentingan pribadi (keluarga, finansial, afiliasi) yang dapat memengaruhi objektivitas keputusan jabatannya. Penanganannya: mengungkapkan secara terbuka kepada atasan/ketua tim dan mengundurkan diri dari proses pengambilan keputusan tersebut.",
+      "note": "Pembeda: Mengklaim 'tetap bersikap objektif tanpa melapor' bukan merupakan solusi yang sah dalam tata kelola integritas."
+    },
+    {
+      "id": "fc_b01_012",
+      "category": "TWK",
+      "subtopic": "twk_integritas",
+      "front": "Apakah pengembalian uang negara yang telah digelapkan atau dikorupsi oleh pejabat dapat menghapus pidana korupsinya?",
+      "back": "Tidak. Berdasarkan Pasal 4 UU Nomor 31 Tahun 1999 (UU Tipikor), pengembalian kerugian keuangan negara tidak menghapuskan dipidananya pelaku tindak pidana korupsi.",
+      "note": "Pembeda: Pengembalian kerugian negara hanya dapat menjadi faktor yang meringankan hukuman hakim, bukan penghapus tindak pidana."
+    },
+    {
+      "id": "fc_b01_013",
+      "category": "TWK",
+      "subtopic": "twk_integritas",
+      "front": "Apa perbedaan predikat WBK dan WBBM dalam pembangunan Zona Integritas instansi pemerintah?",
+      "back": "WBK (Wilayah Bebas dari Korupsi) diberikan kepada unit kerja yang memenuhi sebagian besar kriteria pencegahan korupsi dan peningkatan kualitas pelayanan publik; WBBM (Wilayah Birokrasi Bersih dan Melayani) adalah predikat lanjutan yang lebih tinggi bagi unit yang sebelumnya telah meraih WBK dan memenuhi standar pelayanan prima lebih ketat.",
+      "note": "Pembeda: Unit kerja harus meraih predikat WBK terlebih dahulu sebelum dapat diusulkan meraih WBBM."
+    },
+    {
+      "id": "fc_b01_014",
+      "category": "TWK",
+      "subtopic": "twk_integritas",
+      "front": "Apa tujuan utama pelaporan LHKPN (Laporan Harta Kekayaan Penyelenggara Negara) secara berkala?",
+      "back": "Mewujudkan transparansi, akuntabilitas, serta deteksi dini pencegahan korupsi melalui pemeriksaan kewajaran harta kekayaan penyelenggara negara sebelum, selama, dan setelah menjabat.",
+      "note": "Pembeda: LHKPN dikelola oleh KPK (untuk penyelenggara negara/pejabat tertentu), sedangkan pelaporan harta ASN non-wajib LHKPN sebelumnya melalui LHKASN atau integrasi SPT Tahunan."
+    },
+    {
+      "id": "fc_b01_015",
+      "category": "TWK",
+      "subtopic": "twk_bela_negara",
+      "front": "Apa perbedaan isi Pasal 27 Ayat (3) dan Pasal 30 Ayat (1) UUD 1945?",
+      "back": "Pasal 27 Ayat (3): Setiap warga negara berhak dan wajib ikut serta dalam upaya PEMBELAAN NEGARA. Pasal 30 Ayat (1): Tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha PERTAHANAN DAN KEAMANAN NEGARA.",
+      "note": "Pembeda: Kata kunci Pasal 27(3) = 'pembelaan negara'; kata kunci Pasal 30(1) = 'pertahanan dan keamanan negara'."
+    },
+    {
+      "id": "fc_b01_016",
+      "category": "TWK",
+      "subtopic": "twk_bela_negara",
+      "front": "Bagaimana kedudukan TNI, Polri, dan Rakyat dalam Sishankamrata menurut Pasal 30 Ayat (2) UUD 1945?",
+      "back": "TNI dan Kepolisian Negara Republik Indonesia sebagai KEKUATAN UTAMA, sedangkan Rakyat sebagai KEKUATAN PENDUKUNG.",
+      "note": "Pembeda: Jangan tertukar dengan istilah UU PSDN 2019 (Komponen Utama = TNI; Komponen Cadangan = Komcad; Komponen Pendukung = warga negara, SDA, SDB, sarpras nasional)."
+    },
+    {
+      "id": "fc_b01_017",
+      "category": "TWK",
+      "subtopic": "twk_bela_negara",
+      "front": "Apa perbedaan tugas pokok TNI (Pasal 30 Ayat 3) dan Polri (Pasal 30 Ayat 4) dalam UUD 1945?",
+      "back": "TNI sebagai alat negara bertugas mempertahankan, melindungi, dan memelihara keutuhan serta kedaulatan negara. Polri sebagai alat negara bertugas menjaga keamanan dan ketertiban masyarakat, melindungi, mengayomi, melayani masyarakat, serta menegakkan hukum.",
+      "note": "Pembeda: TNI = pertahanan & kedaulatan negara; Polri = kamtibmas & penegakan hukum."
+    },
+    {
+      "id": "fc_b01_018",
+      "category": "TWK",
+      "subtopic": "twk_bela_negara",
+      "front": "Sebutkan lima (5) nilai dasar Bela Negara.",
+      "back": "1) Cinta tanah air; 2) Sadar berbangsa dan bernegara; 3) Setia pada Pancasila sebagai ideologi negara; 4) Rela berkorban untuk bangsa dan negara; 5) Kemampuan awal bela negara.",
+      "note": "Pembeda: Kemampuan awal bela negara mencakup kesiapan psikis (kompetensi, disiplin, integritas) dan kesiapan fisik (kesehatan/kebugaran)."
+    },
+    {
+      "id": "fc_b01_019",
+      "category": "TWK",
+      "subtopic": "twk_bela_negara",
+      "front": "Sebutkan empat (4) bentuk penyelenggaraan keikutsertaan warga negara dalam Bela Negara menurut UU Nomor 23 Tahun 2019 (UU PSDN).",
+      "back": "1) Pendidikan kewarganegaraan; 2) Pelatihan dasar kemiliteran secara wajib; 3) Pengabdian sebagai prajurit TNI secara sukarela atau secara wajib; 4) Pengabdian sesuai dengan profesi.",
+      "note": "Pembeda: Bagi ASN, wujud utama bela negara dalam tugas sehari-hari masuk dalam kategori 'pengabdian sesuai dengan profesi'."
+    },
+    {
+      "id": "fc_b01_020",
+      "category": "TWK",
+      "subtopic": "twk_bela_negara",
+      "front": "Kapan Hari Bela Negara diperingati dan peristiwa sejarah apa yang melatarbelakanginya?",
+      "back": "Setiap tanggal 19 Desember, untuk mengenang pembentukan Pemerintahan Darurat Republik Indonesia (PDRI) pada 19 Desember 1948 di Bukittinggi yang dipimpin oleh Sjafruddin Prawiranegara.",
+      "note": "Pembeda: PDRI dibentuk saat ibu kota Yogyakarta diduduki Belanda pada Agresi Militer II sehingga eksistensi dan kedaulatan RI tetap terjaga."
+    },
+    {
+      "id": "fc_b01_021",
+      "category": "TWK",
+      "subtopic": "twk_bela_negara",
+      "front": "Apa sifat keikutsertaan warga negara dalam Komponen Cadangan (Komcad) menurut UU Nomor 23 Tahun 2019?",
+      "back": "Bersifat SUKARELA melalui pendaftaran, seleksi, dan pelatihan dasar kemiliteran; serta hanya dimobilisasi oleh Presiden dengan persetujuan DPR apabila negara dalam keadaan darurat militer atau perang.",
+      "note": "Pembeda: Komcad bukan wajib militer permanen; pada masa damai anggota Komcad kembali menjalankan profesi sipilnya seperti biasa."
+    },
+    {
+      "id": "fc_b01_022",
+      "category": "TWK",
+      "subtopic": "twk_pilar_negara",
+      "front": "Apa perbedaan kewenangan pengujian peraturan (judicial review) antara Mahkamah Konstitusi (MK) dan Mahkamah Agung (MA)?",
+      "back": "MK (Pasal 24C Ayat 1): menguji UNDANG-UNDANG terhadap UUD 1945. MA (Pasal 24A Ayat 1): menguji peraturan perundang-undangan DI BAWAH UNDANG-UNDANG (PP, Perpres, Perda) terhadap undang-undang.",
+      "note": "Pembeda: MK = UU vs UUD (tingkat pertama dan terakhir/final); MA = Peraturan di bawah UU vs UU."
+    },
+    {
+      "id": "fc_b01_023",
+      "category": "TWK",
+      "subtopic": "twk_pilar_negara",
+      "front": "Sebutkan empat (4) wewenang dan satu (1) kewajiban Mahkamah Konstitusi menurut Pasal 24C UUD 1945.",
+      "back": "Wewenang: 1) Menguji UU terhadap UUD; 2) Memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan UUD; 3) Memutus pembubaran partai politik; 4) Memutus perselisihan hasil pemilu. Kewajiban: Memberikan putusan atas pendapat DPR mengenai dugaan pelanggaran oleh Presiden dan/atau Wakil Presiden.",
+      "note": "Pembeda: Pemakzulan Presiden tidak diputus sepihak oleh MK; MK hanya memutus pendapat DPR, lalu keputusan akhir pemberhentian ada di tangan MPR."
+    },
+    {
+      "id": "fc_b01_024",
+      "category": "TWK",
+      "subtopic": "twk_pilar_negara",
+      "front": "Sebutkan urutan 7 jenis hierarki peraturan perundang-undangan menurut Pasal 7 Ayat (1) UU Nomor 12 Tahun 2011.",
+      "back": "1) UUD NRI Tahun 1945; 2) Ketetapan MPR; 3) UU / Perppu; 4) Peraturan Pemerintah (PP); 5) Peraturan Presiden (Perpres); 6) Perda Provinsi; 7) Perda Kabupaten/Kota.",
+      "note": "Pembeda: Ketetapan MPR berada di atas UU/Perppu, dan PP berada di atas Perpres (sering tertukar di soal pengecoh)."
+    },
+    {
+      "id": "fc_b01_025",
+      "category": "TWK",
+      "subtopic": "twk_pilar_negara",
+      "front": "Sebutkan enam (6) urusan pemerintahan absolut yang sepenuhnya menjadi kewenangan Pemerintah Pusat menurut UU Pemda.",
+      "back": "1) Politik luar negeri; 2) Pertahanan; 3) Keamanan; 4) Yustisi; 5) Moneter dan fiskal nasional; 6) Agama.",
+      "note": "Pembeda: Pendidikan dan kesehatan termasuk urusan pemerintahan KONKUREN (dibagi antara Pusat, Provinsi, dan Kabupaten/Kota), bukan urusan absolut."
+    },
+    {
+      "id": "fc_b01_026",
+      "category": "TWK",
+      "subtopic": "twk_pilar_negara",
+      "front": "Bagian mana dari UUD NRI Tahun 1945 yang secara tegas tidak dapat diubah menurut Pasal 37 Ayat (5)?",
+      "back": "Khusus mengenai BENTUK NEGARA KESATUAN REPUBLIK INDONESIA (NKRI) tidak dapat dilakukan perubahan.",
+      "note": "Pembeda: Pembukaan UUD 1945 juga secara konsensus ketatanegaraan tidak diubah karena memuat dasar negara Pancasila dan proklamasi pembentukan negara."
+    },
+    {
+      "id": "fc_b01_027",
+      "category": "TWK",
+      "subtopic": "twk_pilar_negara",
+      "front": "Bagaimana mekanisme pemberlakuan Peraturan Pemerintah Pengganti Undang-Undang (Perppu) menurut Pasal 22 UUD 1945?",
+      "back": "Presiden berhak menetapkan Perppu dalam hal ihwal kegentingan yang memaksa, lalu Perppu wajib diajukan ke DPR dalam persidangan berikut. Jika disetujui DPR menjadi UU; jika ditolak DPR wajib dicabut.",
+      "note": "Pembeda: Perppu memiliki kedudukan setara UU dalam hierarki peraturan, tetapi masa berlakunya bergantung pada persetujuan DPR pada masa sidang berikutnya."
+    },
+    {
+      "id": "fc_b01_028",
+      "category": "TWK",
+      "subtopic": "twk_pilar_negara",
+      "front": "Apa perbedaan fokus pengamalan Sila Kedua (Kemanusiaan) dan Sila Kelima (Keadilan Sosial) Pancasila?",
+      "back": "Sila Kedua berfokus pada harkat, martabat, persamaan derajat individu, empati, dan hak asasi manusia. Sila Kelima berfokus pada pemerataan kesejahteraan, keseimbangan hak dan kewajiban sosial, kepedulian terhadap fasilitas publik, serta perlindungan ekonomi kelompok rentan.",
+      "note": "Pembeda: Contoh Sila Kedua = menolak perundungan/diskriminasi dan membantu korban bencana; Contoh Sila Kelima = beasiswa keluarga kurang mampu, antre tertib, dan hemat sumber daya publik."
+    },
+    {
+      "id": "fc_b01_029",
+      "category": "TWK",
+      "subtopic": "twk_bahasa_negara",
+      "front": "Bagaimana aturan penulisan awalan 'di-' dan kata depan 'di' sesuai EYD V?",
+      "back": "Awalan 'di-' pada kata kerja pasif ditulis SERANGKAI (misal: diserahkan, diperiksa). Kata depan 'di' yang menunjukkan tempat atau waktu ditulis TERPISAH (misal: di kantor, di antara, di sana).",
+      "note": "Pembeda: Cara uji cepat: jika bisa diubah menjadi bentuk aktif berawalan 'me-' (diserahkan -> menyerahkan), tulis serangkai; jika tidak, tulis terpisah."
+    },
+    {
+      "id": "fc_b01_030",
+      "category": "TWK",
+      "subtopic": "twk_bahasa_negara",
+      "front": "Bagaimana kaidah peluluhan bunyi huruf awal K, T, S, P ketika mendapat awalan 'meN-'?",
+      "back": "Huruf awal K, T, S, P LULUH jika diikuti huruf VOKAL (contoh: pengaruh -> memengaruhi, terjemah -> menerjemahkan, sukses -> menyukseskan, konsumsi -> mengonsumsi). TIDAK LULUH jika diikuti gugus konsonan (contoh: kritik -> mengkritik, proses -> memproses, stabil -> menstabilkan).",
+      "note": "Pembeda: Pengecualian tetap: 'mengkaji' (membedakan dengan mengaji) dan 'mempunyai' (bukan memunyai)."
+    },
+    {
+      "id": "fc_b01_031",
+      "category": "TWK",
+      "subtopic": "twk_bahasa_negara",
+      "front": "Sebutkan 8 pasangan kata baku KBBI yang paling sering diujikan di TWK (tidak baku -> baku).",
+      "back": "Apotik -> Apotek | Analisa -> Analisis | Resiko -> Risiko | Praktek -> Praktik | Ijasah -> Ijazah | Nasehat -> Nasihat | Aktifitas -> Aktivitas | Kwitansi -> Kuitansi.",
+      "note": "Pembeda: Perhatikan pula: jadwal (bukan jadual), sistem (bukan sistim), karier (bukan karir), kualitas (bukan kwalitas), dan metode (bukan metoda)."
+    },
+    {
+      "id": "fc_b01_032",
+      "category": "TWK",
+      "subtopic": "twk_bahasa_negara",
+      "front": "Bagaimana aturan penulisan partikel 'pun' sesuai EYD V?",
+      "back": "Ditulis TERPISAH dari kata yang mendahuluinya (misal: apa pun, siapa pun, satu kali pun). Kecuali pada unsur kata penghubung yang sudah dianggap padu, ditulis SERANGKAI (adapun, andaipun, ataupun, bagaimanapun, biarpun, jikapun, kalaupun, kendatipun, maupun, meskipun, sekalipun, sungguhpun, walaupun).",
+      "note": "Pembeda: 'Sekalipun' (bermakna meskipun) ditulis serangkai, tetapi 'sekali pun' (bermakna satu kali saja, misal: belum sekali pun datang) ditulis terpisah."
+    },
+    {
+      "id": "fc_b01_033",
+      "category": "TWK",
+      "subtopic": "twk_bahasa_negara",
+      "front": "Bagaimana aturan penulisan huruf kapital pada nama geografi yang digunakan sebagai nama jenis (EYD V)?",
+      "back": "TIDAK menggunakan huruf kapital (ditulis huruf kecil semua). Contoh: jeruk bali, pisang ambon, kacang bogor, gula jawa, kunci inggris.",
+      "note": "Pembeda: Jika menunjukkan asal produk khas daerah/indikasi geografis atau nama wilayah resmi, ditulis kapital (contoh: Batik Pekalongan, Kopi Gayo, Kabupaten Malang)."
+    },
+    {
+      "id": "fc_b01_034",
+      "category": "TWK",
+      "subtopic": "twk_bahasa_negara",
+      "front": "Bagaimana aturan penulisan gabungan kata dasar dan bentuk terikat (EYD V)?",
+      "back": "Gabungan kata tanpa awalan+akhiran sekaligus ditulis TERPISAH (tanggung jawab, kerja sama, tanda tangan; bertanggung jawab -> tetap terpisah; pertanggungjawaban -> serangkai karena ada awalan DAN akhiran). Bentuk terikat ditulis SERANGKAI (pascasarjana, antarkota, nonformal, prasejarah, subbab).",
+      "note": "Pembeda: Bentuk terikat yang diikuti kata berhuruf kapital atau singkatan diberi tanda hubung: non-ASN, pro-Indonesia, pasca-Proklamasi."
+    },
+    {
+      "id": "fc_b01_035",
+      "category": "TWK",
+      "subtopic": "twk_bahasa_negara",
+      "front": "Apa saja penyebab umum kalimat menjadi TIDAK EFEKTIF dalam soal TWK Bahasa Indonesia?",
+      "back": "1) Pleonasme/boros kata ('semua para peserta', 'wajib harus', 'agar supaya'); 2) Kehilangan subjek karena preposisi di awal ('Dalam rapat itu membahas...'); 3) Ketidaksejajaran bentuk rincian ('perencanaan, melaksanakan, dan dievaluasi'); 4) Penggunaan konjungsi intrakalimat ('sehingga', 'karena', 'sedangkan') di awal kalimat.",
+      "note": "Pembeda: Konjungsi antarkalimat ('Oleh karena itu,', 'Namun,', 'Selain itu,') diletakkan di awal kalimat baru dan wajib diikuti tanda koma."
+    },
+    {
+      "id": "fc_b01_036",
+      "category": "TIU",
+      "subtopic": "tiu_verbal_analogi",
+      "front": "Apa 3 langkah cepat menyelesaikan soal Analogi Verbal (A : B = C : D) agar tidak tertukar arah?",
+      "back": "1) Buat kalimat penghubung spesifik antara A dan B; 2) Pertahankan ARAH hubungan (A->B harus sama dengan C->D, jangan dibalik); 3) Pastikan kesetaraan KELAS KATA (kata benda, kata kerja, atau kata sifat).",
+      "note": "Pembeda: Jebakan paling sering adalah opsi pengecoh yang hubungannya benar tetapi arahnya terbalik (sebab-akibat tertukar dengan akibat-sebab)."
+    },
+    {
+      "id": "fc_b01_037",
+      "category": "TIU",
+      "subtopic": "tiu_verbal_analogi",
+      "front": "Bagaimana cara cepat menganalisis soal Analogi Kalimat (kesetaraan pola hubungan antarkata dalam dua kalimat)?",
+      "back": "Identifikasi struktur peran objeknya: [Subjek/Pelaku] + [Predikat/Hubungan] + [Objek] + [Alat/Tujuan/Dasar]. Cari kalimat opsi yang memiliki relasi fungsional sama persis meski topiknya berbeda total.",
+      "note": "Pembeda: Jangan terjebak pada opsi yang memiliki kemiripan topik/tema kata dengan soal; fokus sepenuhnya pada struktur hubungannya."
+    },
+    {
+      "id": "fc_b01_038",
+      "category": "TIU",
+      "subtopic": "tiu_verbal_analogi",
+      "front": "Sebutkan 5 jenis pola hubungan analogi yang paling sering muncul di TIU CPNS.",
+      "back": "1) Alat dan fungsi/objek ukur (Termometer : Suhu); 2) Sebab dan akibat (Kemarau : Kekeringan); 3) Bagian dan keseluruhan (Bait : Puisi); 4) Profesi dan karya/objek kerja (Auditor : Laporan); 5) Tindakan pencegahan dan dampak (Vaksinasi : Penyakit).",
+      "note": "Pembeda: Jika dua opsi sama-sama tampak cocok pada pola umum, persempit kalimat hubungannya agar lebih spesifik."
+    },
+    {
+      "id": "fc_b01_039",
+      "category": "TIU",
+      "subtopic": "tiu_verbal_analogi",
+      "front": "Periksa arah hubungan: 'MENGANTUK : TIDUR = LAPAR : ...' vs 'OBAT : PENYAKIT = ...'. Apa perbedaan hubungan keduanya?",
+      "back": "MENGANTUK : TIDUR adalah hubungan [Kondisi/kebutuhan] -> [Tindakan pemenuhan] (Lapar : Makan). OBAT : PENYAKIT adalah hubungan [Sarana penyembuh/pengatas] -> [Masalah] (misal: Payung : Hujan / Pelumas : Gesekan).",
+      "note": "Pembeda: Cek selalu apakah kata pertama adalah MASALAH atau SOLUSI sebelum memilih jawaban."
+    },
+    {
+      "id": "fc_b01_040",
+      "category": "TIU",
+      "subtopic": "tiu_verbal_silogisme",
+      "front": "Apa hukum Modus Ponens, Modus Tollens, dan Silogisme Hipotetis pada pernyataan implikasi?",
+      "back": "1) Modus Ponens: (p -> q) dan p => kesimpulan q. 2) Modus Tollens: (p -> q) dan ~q => kesimpulan ~p. 3) Silogisme Hipotetis: (p -> q) dan (q -> r) => kesimpulan (p -> r).",
+      "note": "Pembeda: Jebakan umum adalah membalik implikasi: (p -> q) dan ~p TIDAK menghasilkan ~q; serta (p -> q) dan q TIDAK menghasilkan p."
+    },
+    {
+      "id": "fc_b01_041",
+      "category": "TIU",
+      "subtopic": "tiu_verbal_silogisme",
+      "front": "Pernyataan implikasi (p -> q) selalu ekuivalen (setara logis) dengan bentuk apa?",
+      "back": "Kontraposisinya (~q -> ~p) serta bentuk disjungsi (~p ∨ q). Contoh: 'Jika pelayanan cepat, masyarakat puas' setara dengan 'Jika masyarakat tidak puas, pelayanan tidak cepat'.",
+      "note": "Pembeda: Jangan tertukar dengan Invers (~p -> ~q) atau Konvers (q -> p), karena keduanya TIDAK ekuivalen dengan (p -> q)."
+    },
+    {
+      "id": "fc_b01_042",
+      "category": "TIU",
+      "subtopic": "tiu_verbal_silogisme",
+      "front": "Bagaimana rumus negasi (ingkaran) untuk kuantor universal, konjungsi, disjungsi, dan implikasi?",
+      "back": "1) Negasi 'Semua A adalah B' = 'Ada/Sebagian A bukan B'. 2) Negasi (p ∧ q) = (~p ∨ ~q) [De Morgan]. 3) Negasi (p ∨ q) = (~p ∧ ~q). 4) Negasi (p -> q) = (p ∧ ~q).",
+      "note": "Pembeda: Negasi dari 'Jika p maka q' BUKAN kalimat 'Jika...' lagi, melainkan kalimat 'dan' (p terjadi TETAPI q tidak terjadi)."
+    },
+    {
+      "id": "fc_b01_043",
+      "category": "TIU",
+      "subtopic": "tiu_verbal_silogisme",
+      "front": "Jika Premis 1: 'Semua A adalah B' dan Premis 2: 'Sebagian B adalah C', apa kesimpulan yang sah mengenai hubungan A dan C?",
+      "back": "TIDAK DAPAT DITARIK KESIMPULAN PASTI mengenai hubungan A dan C.",
+      "note": "Pembeda: Karena himpunan A berada di dalam B, irisan C dengan B bisa saja berada sepenuhnya di luar A. Jangan mengasumsikan 'Sebagian A adalah C'."
+    },
+    {
+      "id": "fc_b01_044",
+      "category": "TIU",
+      "subtopic": "tiu_verbal_silogisme",
+      "front": "Jika salah satu premis memuat kata 'Sebagian/Ada/Beberapa', aturan emas apa yang berlaku pada kesimpulannya?",
+      "back": "Kesimpulan yang sah WAJIB memuat kuantor partikular ('Sebagian/Ada/Beberapa') dan TIDAK BOLEH menggeneralisasi menjadi 'Semua'. Demikian pula jika salah satu premis negatif ('tidak/bukan'), kesimpulan wajib negatif.",
+      "note": "Pembeda: Langsung coret opsi berawalan 'Semua' jika ada premis 'Sebagian'."
+    },
+    {
+      "id": "fc_b01_045",
+      "category": "TIU",
+      "subtopic": "tiu_verbal_analitis",
+      "front": "Bagaimana teknik cepat mengerjakan soal Penalaran Analitis tipe Pengurutan (tinggi, skor, kecepatan, jadwal)?",
+      "back": "Gunakan simbol ketidaksamaan (>) atau slot bernomor (1, 2, 3, 4, 5). Mulai dari syarat yang PASTI (misal: 'paling akhir', 'di posisi 1'), lalu gabungkan rantai syarat yang berdekatan ('tepat sebelum/sesudah').",
+      "note": "Pembeda: Hati-hati membedakan 'di sebelah kanan/sebelum' (bisa berjarak) dengan 'TEPAT di sebelah kanan/TEPAT sebelum' (wajib bersebelahan langsung)."
+    },
+    {
+      "id": "fc_b01_046",
+      "category": "TIU",
+      "subtopic": "tiu_verbal_analitis",
+      "front": "Pada soal meja bundar (duduk melingkar) dengan N kursi genap menghadap pusat meja, bagaimana menentukan posisi berhadapan, kiri, dan kanan?",
+      "back": "Berikan nomor kursi 1 sampai N searah atau berlawanan jarum jam. Posisi berhadapan selalu berselisih tepat N/2 (misal pada 6 kursi: 1↔4, 2↔5, 3↔6). Untuk orang yang menghadap pusat meja, arah KANAN-nya adalah berlawanan arah jarum jam.",
+      "note": "Pembeda: Bayangkan diri Anda duduk di kursi tersebut menghadap tengah meja agar arah kiri dan kanan tidak terbalik."
+    },
+    {
+      "id": "fc_b01_047",
+      "category": "TIU",
+      "subtopic": "tiu_verbal_analitis",
+      "front": "Bagaimana cara cepat mengerjakan soal Analitis tipe Kombinasi/Pemilihan Bersyarat (misal memilih 3 dari 5 kandidat/menu)?",
+      "back": "Tulis seluruh syarat dalam notasi singkat: Wajib (+A), Dilarang bersamaan (B ≠ C), Implikasi (D -> E). Mulai dari syarat yang pasti wajib dan syarat tambahan pada kalimat pertanyaan, lalu eliminasi opsi yang melanggar salah satu syarat.",
+      "note": "Pembeda: Pada soal pilihan ganda, menguji opsi (eliminasi pelanggaran syarat) sering lebih cepat daripada menyusun seluruh kemungkinan kombinasi."
+    },
+    {
+      "id": "fc_b01_048",
+      "category": "TIU",
+      "subtopic": "tiu_verbal_analitis",
+      "front": "Apa kesalahan paling umum saat membaca syarat 'A tidak boleh bersebelahan dengan B' dibandingkan 'A tepat di antara B dan C'?",
+      "back": "'Tepat di antara B dan C' berarti susunannya bisa B-A-C ATAU C-A-B (dua kemungkinan urutan), kecuali ada syarat arah lain. Sementara 'tidak bersebelahan' berarti selisih nomor posisi |pos(A) - pos(B)| >= 2.",
+      "note": "Pembeda: Selalu cek kedua arah (B-A-C dan C-A-B) agar tidak terjebak satu skenario saja."
+    },
+    {
+      "id": "fc_b01_049",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_berhitung",
+      "front": "Hafalkan konversi pecahan istimewa penyebut 8 ke bentuk persen dan desimal: 1/8, 3/8, 5/8, 7/8.",
+      "back": "1/8 = 12,5% (0,125) | 3/8 = 37,5% (0,375) | 5/8 = 62,5% (0,625) | 7/8 = 87,5% (0,875).",
+      "note": "Pembeda: Sangat sering muncul pada soal hitung cepat TIU (misal: 37,5% × 800 langsung dihitung 3/8 × 800 = 300)."
+    },
+    {
+      "id": "fc_b01_050",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_berhitung",
+      "front": "Hafalkan konversi pecahan istimewa penyebut 3 dan 6 ke persen: 1/3, 2/3, 1/6, 5/6.",
+      "back": "1/3 = 33,33% | 2/3 = 66,67% | 1/6 = 16,67% | 5/6 = 83,33%.",
+      "note": "Pembeda: Jika soal memuat 66,67% × 450, langsung konversi ke 2/3 × 450 = 300 tanpa mengalikan desimal."
+    },
+    {
+      "id": "fc_b01_051",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_berhitung",
+      "front": "Apa identitas aljabar cepat untuk menghitung selisih dua bilangan kuadrat (a² - b²) dan bentuk (a² - b²)/(a - b)?",
+      "back": "a² - b² = (a + b)(a - b), dan (a² - b²)/(a - b) = a + b. Contoh: 27² - 23² = (27+23)(27-23) = 50 × 4 = 200.",
+      "note": "Pembeda: Jangan menghitung kuadrat masing-masing bilangan secara manual karena memakan waktu lama."
+    },
+    {
+      "id": "fc_b01_052",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_berhitung",
+      "front": "Bagaimana sifat distributif digunakan untuk mempercepat perkalian berulang seperti (48 × 37) + (48 × 63)?",
+      "back": "Faktorkan bilangan yang sama: a×b + a×c = a × (b + c). Maka 48 × (37 + 63) = 48 × 100 = 4.800.",
+      "note": "Pembeda: Berlaku pula untuk pengurangan: a×b - a×c = a × (b - c)."
+    },
+    {
+      "id": "fc_b01_053",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_berhitung",
+      "front": "Bagaimana trik cepat membagi bilangan desimal seperti 3,6 ÷ 0,09 tanpa salah menempatkan koma?",
+      "back": "Kalikan pembilang dan penyebut dengan pangkat 10 yang sama hingga penyebut menjadi bilangan bulat. 3,6 ÷ 0,09 -> kalikan 100 -> 360 ÷ 9 = 40.",
+      "note": "Pembeda: Kesalahan paling sering adalah menghitung 36 ÷ 9 = 4 karena lupa menyamakan jumlah pergeseran koma pada pembilang dan penyebut."
+    },
+    {
+      "id": "fc_b01_054",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_berhitung",
+      "front": "Hafalkan nilai akar kuadrat penting (11² sampai 20²) untuk menghemat waktu soal hitung cepat.",
+      "back": "11²=121 | 12²=144 | 13²=169 | 14²=196 | 15²=225 | 16²=256 | 17²=289 | 18²=324 | 19²=361 | 20²=400.",
+      "note": "Pembeda: Perhatikan 13² (169) dan 14² (196) yang angka belakangnya saling tertukar."
+    },
+    {
+      "id": "fc_b01_055",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_deret",
+      "front": "Apa ciri cepat mengenali deret 2 larik (deret lompat 1 suku) pada soal TIU?",
+      "back": "Angka terlihat naik-turun secara tidak konsisten jika dibaca berurutan (misal: 3, 20, 6, 17, 12, 14) atau biasanya meminta DUA angka lanjutan sekaligus. Pisahkan suku urutan ganjil (1, 3, 5, ...) dan urutan genap (2, 4, 6, ...).",
+      "note": "Pembeda: Jika jumlah suku cukup panjang (8–10 angka) dan lompat 1 tidak ketemu, cek pola lompat 2 (deret 3 larik)."
+    },
+    {
+      "id": "fc_b01_056",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_deret",
+      "front": "Bagaimana cara mengidentifikasi Deret Bertingkat (tingkat 2) pada deret angka?",
+      "back": "Hitung selisih tingkat pertama (U2-U1, U3-U2, ...). Jika selisih tingkat pertama belum tetap tetapi membentuk pola teratur (misal +3, +5, +7, +9 atau +4, +8, +16), maka itulah deret bertingkat.",
+      "note": "Pembeda: Pada deret 4, 7, 12, 19, 28, selisih tingkat 1 adalah +3, +5, +7, +9 (selisih tingkat 2 konstan +2)."
+    },
+    {
+      "id": "fc_b01_057",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_deret",
+      "front": "Apa ciri utama Deret Fibonacci dan deret operasi bergantian?",
+      "back": "Deret Fibonacci: setiap suku adalah jumlah 2 suku tepat di depannya (1, 2, 3, 5, 8, 13, 21, 34). Operasi bergantian: pola berubah berulang setiap 2 langkah, misalnya (×2, -1, ×2, -1) atau (÷2, +4, ÷2, +4).",
+      "note": "Pembeda: Pada deret dengan lonjakan sangat cepat (2, 5, 11, 23, 47), cek pola kombinasi (×2 + 1) atau perkalian rasio tetap."
+    },
+    {
+      "id": "fc_b01_058",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_deret",
+      "front": "Sebutkan 3 barisan bilangan istimewa yang wajib langsung dikenali pada soal deret angka.",
+      "back": "1) Bilangan Kuadrat: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100. 2) Bilangan Kubik: 1, 8, 27, 64, 125, 216. 3) Bilangan Prima: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29.",
+      "note": "Pembeda: Kadang deret menyembunyikan bilangan kuadrat/prima sebagai SELISIH antar suku, bukan suku utamanya."
+    },
+    {
+      "id": "fc_b01_059",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_perbandingan",
+      "front": "Bagaimana cara tercepat membandingkan dua pecahan a/b dan c/d tanpa mengubah ke desimal?",
+      "back": "Gunakan perkalian silang ke atas: bandingkan (a × d) di sisi kiri dengan (c × b) di sisi kanan (dengan penyebut positif). Contoh: 4/7 vs 5/9 -> 4×9 (36) > 5×7 (35), maka 4/7 > 5/9.",
+      "note": "Pembeda: Pastikan hasil kali penyebut kanan dengan pembilang kiri (a×d) diletakkan di SISI KIRI agar tanda tidak terbalik."
+    },
+    {
+      "id": "fc_b01_060",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_perbandingan",
+      "front": "Kapan jawaban 'Hubungan X dan Y tidak dapat ditentukan' menjadi pilihan yang benar?",
+      "back": "Ketika persamaan atau syarat menghasilkan lebih dari satu kemungkinan hubungan (misal x² = 25 dan y = 5 -> x bisa +5 [x=y] atau -5 [x<y]), atau terdapat variabel bebas tanpa batas nilai.",
+      "note": "Pembeda: Uji minimal dengan angka positif, nol, negatif, dan pecahan (misal 0,5) jika soal berbentuk variabel umum."
+    },
+    {
+      "id": "fc_b01_061",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_perbandingan",
+      "front": "Bagaimana sifat tanda bilangan negatif berpangkat genap vs pangkat ganjil, serta hasil kali dua bilangan negatif?",
+      "back": "Negatif pangkat GENAP = POSITIF [(-3)⁴ = 81]. Negatif pangkat GANJIL = NEGATIF [(-3)³ = -27]. Hasil kali dua bilangan negatif (m×n) selalu POSITIF, sedangkan penjumlahannya (m+n) selalu NEGATIF.",
+      "note": "Pembeda: Hati-hati membedakan (-3)² = +9 dengan -3² = -9 (tanpa tanda kurung, pangkat hanya berlaku pada angka 3)."
+    },
+    {
+      "id": "fc_b01_062",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_perbandingan",
+      "front": "Jika diketahui a > 0 dan b < 0, bagaimana tanda dari (a - b) dibandingkan (b - a)?",
+      "back": "a - b selalu bernilai POSITIF (positif dikurangi negatif = bertambah besar), sedangkan b - a selalu bernilai NEGATIF. Maka (a - b) > (b - a) selalu benar.",
+      "note": "Pembeda: Substitusi angka kecil sederhana (misal a = 2, b = -1) adalah cara verifikasi paling aman dan cepat."
+    },
+    {
+      "id": "fc_b01_063",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_cerita",
+      "front": "Apa perbedaan rumus Perbandingan Senilai dan Perbandingan Berbalik Nilai pada soal cerita?",
+      "back": "Senilai (semakin banyak A, semakin banyak B; misal barang & harga): A1/B1 = A2/B2. Berbalik Nilai (semakin banyak A, semakin sedikit B; misal pekerja & waktu, kecepatan & waktu): A1 × B1 = A2 × B2.",
+      "note": "Pembeda: Pada soal proyek (pekerja × hari), perhatikan apakah pertanyaan meminta TOTAL PEKERJA atau TAMBAHAN PEKERJA (Total - Pekerja Awal)."
+    },
+    {
+      "id": "fc_b01_064",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_cerita",
+      "front": "Apa rumus cepat waktu BERPAPASAN (berangkat bersamaan) dan waktu MENYUSUL pada soal jarak-kecepatan?",
+      "back": "Berpapasan (arah berlawanan, berangkat sama): t = Jarak / (v1 + v2). Menyusul (arah sama): t = Selisih Jarak Awal / (v_cepat - v_lambat), dengan Selisih Jarak Awal = v_lambat × selisih waktu berangkat.",
+      "note": "Pembeda: Berpapasan = kecepatan DIJUMLAHKAN; Menyusul = kecepatan DIKURANGKAN. Tambahkan hasil t ke waktu berangkat kendaraan KEDUA (untuk menyusul)."
+    },
+    {
+      "id": "fc_b01_065",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_cerita",
+      "front": "Bagaimana rumus cepat mencari rata-rata kelompok baru pada soal Rata-Rata Gabungan?",
+      "back": "Total Baru = n_total × x̄_gabungan; Total Awal = n_awal × x̄_awal; Jumlah nilai tambahan = Total Baru - Total Awal; Rata-rata tambahan = Jumlah nilai tambahan / n_tambahan.",
+      "note": "Pembeda: Untuk perbandingan jumlah anggota dua kelompok (n1 : n2), gunakan selisih silang: n1 / n2 = |x̄_gab - x̄2| / |x̄_gab - x̄1|."
+    },
+    {
+      "id": "fc_b01_066",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_cerita",
+      "front": "Apa rumus cepat Harga Jual setelah Untung/Rugi/Diskon dan rumus Bunga Tunggal bank?",
+      "back": "Untung u%: HJ = (100% + u%) × HB. Rugi/Diskon d%: HJ = (100% - d%) × HB. Bunga Tunggal untuk m bulan dengan suku bunga p% per tahun: Bunga = Modal × (p/100) × (m/12).",
+      "note": "Pembeda: Jika diketahui HJ dan ditanya HB (harga awal sebelum untung/diskon), BAGI dengan persentasenya: HB = HJ / (100% ± persen)."
+    },
+    {
+      "id": "fc_b01_067",
+      "category": "TIU",
+      "subtopic": "tiu_numerik_cerita",
+      "front": "Apa rumus cepat soal Himpunan (Diagram Venn 2 himpunan) dan rumus Skala Peta?",
+      "back": "Diagram Venn: Total = n(A) + n(B) - n(A∩B) + Tidak Keduanya. Skala Peta: Jarak Sebenarnya = Jarak Peta × Penyebut Skala (ingat konversi: 1 km = 100.000 cm).",
+      "note": "Pembeda: Pada konversi cm ke km, langsung coret 5 angka nol (misal 1.500.000 cm = 15 km)."
+    },
+    {
+      "id": "fc_b01_068",
+      "category": "TIU",
+      "subtopic": "tiu_figural",
+      "front": "Apa saja 4 unsur utama yang harus diperiksa berurutan pada soal TIU Figural Serial/Analogi?",
+      "back": "1) Rotasi/perputaran (45°, 90°, 180° searah atau berlawanan jarum jam); 2) Pergeseran posisi elemen; 3) Perubahan jumlah sisi/simbol (+1, +2, atau selang-seling); 4) Perubahan warna/arsiran (hitam-putih/inversi) serta pencerminan (refleksi).",
+      "note": "Pembeda: Lacak SATU elemen spesifik terlebih dahulu (misal titik hitam atau panah) untuk langsung mengeliminasi 2–3 opsi salah."
+    },
+    {
+      "id": "fc_b01_069",
+      "category": "TIU",
+      "subtopic": "tiu_figural",
+      "front": "Bagaimana strategi cepat menjawab soal TIU Figural Ketidaksamaan (mencari 1 gambar berbeda dari 5 pilihan)?",
+      "back": "Cek apakah 4 gambar identik jika DIPUTAR (rotasi bidang datar), sedangkan 1 gambar merupakan hasil PENCERMINAN (dibalik) atau memiliki jumlah elemen/rasio warna (isi vs kosong) yang berbeda.",
+      "note": "Pembeda: Gambar yang hanya diputar 90°/180° tetap dianggap SAMA; gambar yang dicerminkan (kiri-kanan tertukar) dianggap BERBEDA."
+    },
+    {
+      "id": "fc_b01_070",
+      "category": "TIU",
+      "subtopic": "tiu_figural",
+      "front": "Bagaimana strategi menyelesaikan soal Figural Matriks 3×3?",
+      "back": "Periksa pola secara mendatar (baris demi baris) dan vertikal (kolom demi kolom): apakah setiap baris memuat himpunan bentuk yang sama (pola Sudoku/distribusi), penjumlahan/pengurangan elemen (kolom 1 + kolom 2 = kolom 3), atau rotasi bertahap.",
+      "note": "Pembeda: Jika pola baris tidak langsung terlihat, segera cek pola kolom dari atas ke bawah."
+    },
+    {
+      "id": "fc_b01_071",
+      "category": "TKP",
+      "subtopic": "tkp_pelayanan",
+      "front": "Sub-bab Pelayanan Publik: Warga lansia/ibu hamil/disabilitas datang saat antrean loket reguler padat. Apa prinsip tindakan bernilai 5?",
+      "back": "Proaktif mengarahkan ke jalur/fasilitas prioritas sesuai SOP serta tetap menjaga ketertiban dan keadilan antrean reguler.",
+      "note": "Kata kunci poin 5: Inklusif, proaktif, ramah, sesuai SOP. Hindari opsi yang menolak melayani atau melanggar antrean tanpa mekanisme prioritas resmi."
+    },
+    {
+      "id": "fc_b01_072",
+      "category": "TKP",
+      "subtopic": "tkp_pelayanan",
+      "front": "Sub-bab Pelayanan Publik: Pemohon marah dengan suara keras di depan loket karena berkasnya tertunda padahal syaratnya belum lengkap. Apa prinsip tindakan bernilai 5?",
+      "back": "Tetap tenang, mendengarkan keluhannya dengan empati tanpa memotong, lalu menjelaskan kekurangan berkas dan langkah perbaikannya secara rinci, jelas, dan sopan.",
+      "note": "Kata kunci poin 5: Tenang, empati, solutif, edukatif. Hindari opsi yang menyalahkan warga secara emosional atau langsung mengusir lewat keamanan."
+    },
+    {
+      "id": "fc_b01_073",
+      "category": "TKP",
+      "subtopic": "tkp_pelayanan",
+      "front": "Sub-bab Pelayanan Publik: Sistem komputer pelayanan mendadak mati/gangguan jaringan saat ruang tunggu penuh. Apa prinsip tindakan bernilai 5?",
+      "back": "Menginformasikan kendala secara terbuka beserta estimasi pemulihan, berkoordinasi cepat dengan tim IT, dan tetap membantu pra-verifikasi berkas fisik agar langsung diproses saat sistem pulih.",
+      "note": "Kata kunci poin 5: Transparan, responsif, meminimalkan waktu tunggu warga. Hindari opsi pasif (menutup loket atau menyalahkan sistem pusat)."
+    },
+    {
+      "id": "fc_b01_074",
+      "category": "TKP",
+      "subtopic": "tkp_pelayanan",
+      "front": "Sub-bab Pelayanan Publik: Terjadi kesalahan ketik pada surat yang diterbitkan petugas, atau brosur syarat layanan di meja depan masih memuat aturan lama. Apa prinsip tindakan bernilai 5?",
+      "back": "Segera meminta maaf dan memperbaiki kesalahan secara prioritas tanpa membebani warga (tanpa antre ulang); untuk informasi usang, segera tarik dan ganti dengan pengumuman aturan terbaru.",
+      "note": "Kata kunci poin 5: Bertanggung jawab cepat, korektif, berorientasi kepuasan masyarakat."
+    },
+    {
+      "id": "fc_b01_075",
+      "category": "TKP",
+      "subtopic": "tkp_pelayanan",
+      "front": "Sub-bab Pelayanan Publik: Warga menawarkan uang tip/amplop terima kasih setelah urusan layanan selesai cepat. Apa prinsip tindakan bernilai 5?",
+      "back": "Menolak dengan santun dan ramah sambil menjelaskan bahwa pelayanan tersebut merupakan kewajiban ASN tanpa biaya tambahan di luar ketentuan resmi.",
+      "note": "Kata kunci poin 5: Tolak santun, bebas pungli/gratifikasi, edukatif. Menolak kasar bernilai lebih rendah daripada menolak santun dan informatif."
+    },
+    {
+      "id": "fc_b01_076",
+      "category": "TKP",
+      "subtopic": "tkp_jejaring_kerja",
+      "front": "Sub-bab Jejaring Kerja: Ditugaskan di tim lintas divisi baru dengan anggota belum saling mengenal dan tenggat singkat. Apa prinsip tindakan bernilai 5?",
+      "back": "Menginisiasi perkenalan peran masing-masing, menyepakati target bersama, dan menetapkan saluran komunikasi/pelacakan progres yang jelas sejak awal.",
+      "note": "Kata kunci poin 5: Inisiatif kolaborasi, kejelasan peran, komunikasi terbuka. Hindari opsi bekerja sendiri-sendiri atau meminta ganti anggota tim."
+    },
+    {
+      "id": "fc_b01_077",
+      "category": "TKP",
+      "subtopic": "tkp_jejaring_kerja",
+      "front": "Sub-bab Jejaring Kerja: Rekan dari unit lain terlambat mengirim data penting untuk laporan bersama. Apa prinsip tindakan bernilai 5?",
+      "back": "Menghubungi langsung secara sopan untuk menanyakan kendala yang dihadapi dan menawarkan bantuan teknis agar data segera selesai bersama.",
+      "note": "Kata kunci poin 5: Komunikasi konstruktif, empati kerja, orientasi solusi tim. Hindari langsung mengadu ke atasan sebelum berkomunikasi atau menyusun laporan tanpa data mereka."
+    },
+    {
+      "id": "fc_b01_078",
+      "category": "TKP",
+      "subtopic": "tkp_jejaring_kerja",
+      "front": "Sub-bab Jejaring Kerja: Usulan Anda dalam rapat tim tidak dipilih dan forum menyepakati ide rekan lain. Apa prinsip tindakan bernilai 5?",
+      "back": "Menerima keputusan kolektif dengan lapang dada dan mendukung penuh pelaksanaannya agar target tim tercapai optimal.",
+      "note": "Kata kunci poin 5: Mengutamakan tujuan tim di atas ego pribadi, komitmen pada keputusan bersama."
+    },
+    {
+      "id": "fc_b01_079",
+      "category": "TKP",
+      "subtopic": "tkp_jejaring_kerja",
+      "front": "Sub-bab Jejaring Kerja: Anda baru mengikuti pelatihan teknis yang berguna bagi unit, sementara rekan tim lain belum ikut. Apa prinsip tindakan bernilai 5?",
+      "back": "Merangkum materi dan menginisiasi sesi berbagi pengetahuan (knowledge sharing) kepada rekan tim agar kinerja unit meningkat bersama.",
+      "note": "Kata kunci poin 5: Berbagi pengetahuan aktif, penguatan kapasitas tim. Mengirim file tanpa menjelaskan biasanya bernilai 4, sedangkan sesi berbagi aktif bernilai 5."
+    },
+    {
+      "id": "fc_b01_080",
+      "category": "TKP",
+      "subtopic": "tkp_jejaring_kerja",
+      "front": "Sub-bab Jejaring Kerja: Terjadi salah paham antarrekan tim atau tumpang tindih tanggung jawab antardivisi. Apa prinsip tindakan bernilai 5?",
+      "back": "Bersikap netral, memfasilitasi dialog terbuka untuk meluruskan komunikasi, dan menyepakati pembagian peran yang jelas demi fokus pada target bersama.",
+      "note": "Kata kunci poin 5: Netral, fasilitatif, kolaboratif. Hindari memihak salah satu rekan atau mengambil alih sepihak tanpa koordinasi."
+    },
+    {
+      "id": "fc_b01_081",
+      "category": "TKP",
+      "subtopic": "tkp_sosial_budaya",
+      "front": "Sub-bab Sosial Budaya: Ditempatkan di daerah dengan adat dan bahasa lokal yang berbeda jauh dengan latar belakang Anda. Apa prinsip tindakan bernilai 5?",
+      "back": "Menghormati adat setempat, mempelajari sopan santun serta ungkapan dasar bahasa lokal, dan berbaur secara wajar dalam kegiatan masyarakat.",
+      "note": "Kata kunci poin 5: Adaptif, menghormati kearifan lokal, inklusif. Hindari membandingkan dengan daerah asal atau menutup diri di luar jam kerja."
+    },
+    {
+      "id": "fc_b01_082",
+      "category": "TKP",
+      "subtopic": "tkp_sosial_budaya",
+      "front": "Sub-bab Sosial Budaya: Jadwal rapat tim berbenturan dengan jadwal ibadah anggota minoritas, atau jadwal piket bertepatan dengan hari raya keagamaan tertentu. Apa prinsip tindakan bernilai 5?",
+      "back": "Menyesuaikan jadwal rapat agar semua anggota bisa beribadah dengan tenang; mengatur piket secara adil dengan saling menggantikan antarumat beragama pada hari raya masing-masing.",
+      "note": "Kata kunci poin 5: Toleransi aktif, akomodatif, keadilan bagi minoritas maupun mayoritas."
+    },
+    {
+      "id": "fc_b01_083",
+      "category": "TKP",
+      "subtopic": "tkp_sosial_budaya",
+      "front": "Sub-bab Sosial Budaya: Muncul candaan bernada stereotip suku/kekurangan fisik di kantor atau pesan SARA di grup warga. Apa prinsip tindakan bernilai 5?",
+      "back": "Meredam dan mengingatkan secara santun namun tegas bahwa stereotip/isu SARA perlu dihindari demi menjaga martabat sesama dan kerukunan bersama.",
+      "note": "Kata kunci poin 5: Perekat persatuan, santun namun tegas, menolak diskriminasi. Hindari ikut tertawa, diam acuh, atau menegur dengan kemarahan."
+    },
+    {
+      "id": "fc_b01_084",
+      "category": "TKP",
+      "subtopic": "tkp_sosial_budaya",
+      "front": "Sub-bab Sosial Budaya: Menyusun sosialisasi program pemerintah untuk warga desa berpendidikan dasar atau melayani warga yang hanya fasih bahasa daerah. Apa prinsip tindakan bernilai 5?",
+      "back": "Menyesuaikan bahasa menjadi sederhana dan konkret (melibatkan tokoh lokal/penerjemah bila perlu) agar pesan dipahami utuh, sambil tetap menyusun dokumen resmi sesuai kaidah bahasa Indonesia.",
+      "note": "Kata kunci poin 5: Empati audiens, komunikasi inklusif, jembatan budaya."
+    },
+    {
+      "id": "fc_b01_085",
+      "category": "TKP",
+      "subtopic": "tkp_sosial_budaya",
+      "front": "Sub-bab Sosial Budaya: Rekan kerja penyandang disabilitas kesulitan akses di ruang rapat, atau peserta rapat memiliki beragam pantangan makanan/agama. Apa prinsip tindakan bernilai 5?",
+      "back": "Proaktif menata aksesibilitas ruang/kebutuhan sejak awal perencanaan serta mengusulkan perbaikan fasilitas inklusif kepada bagian terkait.",
+      "note": "Kata kunci poin 5: Aksesibilitas, perencanaan inklusif, penghormatan kesetaraan hak."
+    },
+    {
+      "id": "fc_b01_086",
+      "category": "TKP",
+      "subtopic": "tkp_tik",
+      "front": "Sub-bab TIK: Instansi meluncurkan aplikasi kerja baru yang masih asing bagi banyak pegawai. Apa prinsip tindakan bernilai 5?",
+      "back": "Segera mempelajari panduan dan fitur aplikasi secara mandiri, menerapkannya dalam tugas harian, serta membantu rekan yang mengalami kesulitan.",
+      "note": "Kata kunci poin 5: Adaptif teknologi, proaktif belajar, membantu adopsi tim. Hindari bertahan pada cara manual atau menyerahkan semuanya ke staf IT."
+    },
+    {
+      "id": "fc_b01_087",
+      "category": "TKP",
+      "subtopic": "tkp_tik",
+      "front": "Sub-bab TIK: Menerima surel mencurigakan (phishing) minta ganti kata sandi, atau pesan berantai hoaks dengan tautan bukan domain resmi .go.id. Apa prinsip tindakan bernilai 5?",
+      "back": "Tidak mengeklik tautan maupun meneruskannya, memverifikasi ke tim IT atau kanal resmi instansi, dan melaporkan/mengingatkan rekan agar tidak menjadi korban.",
+      "note": "Kata kunci poin 5: Waspada keamanan siber, verifikasi kanal resmi, cegah sebaran hoaks."
+    },
+    {
+      "id": "fc_b01_088",
+      "category": "TKP",
+      "subtopic": "tkp_tik",
+      "front": "Sub-bab TIK: Menjaga keamanan data pada komputer bersama, akses Wi-Fi publik, atau kerahasiaan passphrase Tanda Tangan Elektronik (TTE). Apa prinsip tindakan bernilai 5?",
+      "back": "Selalu logout dan kunci layar saat meninggalkan komputer bersama, gunakan jaringan pribadi + VPN resmi daripada Wi-Fi publik terbuka, serta jaga kerahasiaan passphrase TTE sepenuhnya tanpa dibagikan ke siapa pun.",
+      "note": "Kata kunci poin 5: Kerahasiaan kredensial, kepatuhan keamanan informasi, perlindungan data pribadi."
+    },
+    {
+      "id": "fc_b01_089",
+      "category": "TKP",
+      "subtopic": "tkp_tik",
+      "front": "Sub-bab TIK: Pekerjaan rekap manual di unit memakan waktu lama atau progres kegiatan tim masih tercecer di pesan teks. Apa prinsip tindakan bernilai 5?",
+      "back": "Merancang template spreadsheet otomatis atau lembar pantau daring pada penyimpanan resmi instansi, menguji akurasinya, lalu membagikannya disertai panduan singkat untuk tim.",
+      "note": "Kata kunci poin 5: Inovasi efisiensi digital, tervalidasi, kolaboratif pada kanal resmi."
+    },
+    {
+      "id": "fc_b01_090",
+      "category": "TKP",
+      "subtopic": "tkp_tik",
+      "front": "Sub-bab TIK: Aplikasi pelaporan mengalami galat (error) atau koneksi internet melambat menjelang presentasi daring. Apa prinsip tindakan bernilai 5?",
+      "back": "Siapkan mitigasi teknis cepat (koneksi cadangan/backup materi) dan laporkan kendala secara informatif (tangkapan layar & langkah pemicu) ke helpdesk IT resmi agar cepat tertangani.",
+      "note": "Kata kunci poin 5: Antisipatif, pemecahan masalah teknis terukur, pelaporan terstruktur."
+    },
+    {
+      "id": "fc_b01_091",
+      "category": "TKP",
+      "subtopic": "tkp_profesionalisme",
+      "front": "Sub-bab Profesionalisme: Menerima dua tugas dengan tenggat bersamaan (rutin dan mendesak pimpinan). Apa prinsip tindakan bernilai 5?",
+      "back": "Memetakan urgensi, mengomunikasikan estimasi waktu secara transparan kepada pimpinan, menuntaskan tugas mendesak dengan teliti, lalu menyelesaikan tugas rutin tepat waktu.",
+      "note": "Kata kunci poin 5: Manajemen prioritas, komunikasi proaktif, tuntas seluruh tanggung jawab."
+    },
+    {
+      "id": "fc_b01_092",
+      "category": "TKP",
+      "subtopic": "tkp_profesionalisme",
+      "front": "Sub-bab Profesionalisme: Menyadari ada kesalahan data pada laporan yang sudah diserahkan ke atasan, atau butuh tambahan waktu agar analisis akurat. Apa prinsip tindakan bernilai 5?",
+      "back": "Segera mengakui kesalahan atau menginformasikan kendala sebelum tenggat secara jujur, mengirimkan revisi yang telah diperiksa ulang, dan mengevaluasi proses agar tidak terulang.",
+      "note": "Kata kunci poin 5: Jujur, akuntabel, proaktif sebelum tenggat, perbaikan berkelanjutan."
+    },
+    {
+      "id": "fc_b01_093",
+      "category": "TKP",
+      "subtopic": "tkp_profesionalisme",
+      "front": "Sub-bab Profesionalisme: Diminta atasan melanggar prosedur keuangan, diminta teman membocorkan dokumen rahasia, atau diajak mendukung paslon politik di media sosial. Apa prinsip tindakan bernilai 5?",
+      "back": "Menolak secara tegas namun santun berlandaskan regulasi/kode etik dan netralitas ASN, serta menawarkan jalur prosedural yang sah jika relevan.",
+      "note": "Kata kunci poin 5: Patuh hukum di atas tekanan personal, netralitas mutlak, jaga kerahasiaan jabatan."
+    },
+    {
+      "id": "fc_b01_094",
+      "category": "TKP",
+      "subtopic": "tkp_profesionalisme",
+      "front": "Sub-bab Profesionalisme: Memiliki konflik pribadi di luar kantor dengan rekan satu tim kerja, atau mendapat kritik tajam dari atasan soal hasil kerja. Apa prinsip tindakan bernilai 5?",
+      "back": "Memisahkan urusan pribadi dari tugas kedinasan secara objektif; menerima kritik kerja dengan terbuka dan segera menerapkannya untuk perbaikan kualitas hasil.",
+      "note": "Kata kunci poin 5: Objektif, dewasa menghadapi kritik, fokus mutu kinerja."
+    },
+    {
+      "id": "fc_b01_095",
+      "category": "TKP",
+      "subtopic": "tkp_profesionalisme",
+      "front": "Sub-bab Profesionalisme: Suasana kantor lengang saat atasan dinas luar, atau akan segera dimutasi ke unit baru dalam dua minggu. Apa prinsip tindakan bernilai 5?",
+      "back": "Tetap disiplin bekerja penuh hingga jam pulang/hari terakhir, menyelesaikan tugas yang berjalan dengan mutu sama, serta menyiapkan dokumentasi serah terima yang rapi.",
+      "note": "Kata kunci poin 5: Disiplin mandiri tanpa pengawasan, tanggung jawab hingga tuntas."
+    },
+    {
+      "id": "fc_b01_096",
+      "category": "TKP",
+      "subtopic": "tkp_anti_radikalisme",
+      "front": "Sub-bab Anti Radikalisme: Rekan kerja menyebarkan konten anti-Pancasila di grup kantor atau selebaran anti-NKRI ditemukan di fasilitas kantor. Apa prinsip tindakan bernilai 5?",
+      "back": "Mengamankan bukti secara objektif, mengingatkan dengan tenang jika relevan, dan segera melaporkan melalui atasan atau saluran pengaduan/keamanan internal instansi.",
+      "note": "Kata kunci poin 5: Deteksi dini, amankan bukti, lapor jalur resmi. Hindari main hakim sendiri, menyebarkan ulang ke media sosial, atau bersikap acuh."
+    },
+    {
+      "id": "fc_b01_097",
+      "category": "TKP",
+      "subtopic": "tkp_anti_radikalisme",
+      "front": "Sub-bab Anti Radikalisme: Diajak mengikuti kajian tertutup yang mengafirkan golongan lain atau diminta berdonasi untuk komunitas berhaluan ekstrem. Apa prinsip tindakan bernilai 5?",
+      "back": "Menolak tegas dan santun, memutus keterlibatan segera, serta melaporkan indikasi penyebaran/pendanaan ekstrem tersebut ke kanal aduan resmi.",
+      "note": "Kata kunci poin 5: Ketegasan menolak, memutus akses sejak dini, kewaspadaan pelaporan."
+    },
+    {
+      "id": "fc_b01_098",
+      "category": "TKP",
+      "subtopic": "tkp_anti_radikalisme",
+      "front": "Sub-bab Anti Radikalisme: Ada forum tertutup di lingkungan tempat tinggal yang mengajarkan permusuhan terhadap kelompok lain, atau kerabat dekat mulai terpapar konten provokatif. Apa prinsip tindakan bernilai 5?",
+      "back": "Untuk lingkungan warga: berkoordinasi dengan pengurus RT/RW, tokoh masyarakat, dan aparat berwenang secara dialogis/legal. Untuk kerabat: lakukan pendekatan dialogis empatik dengan rujukan moderat agar tidak makin terisolasi.",
+      "note": "Kata kunci poin 5: Koordinasi resmi (anti main hakim sendiri) dan pendekatan persuasif-moderat."
+    },
+    {
+      "id": "fc_b01_099",
+      "category": "TKP",
+      "subtopic": "tkp_anti_radikalisme",
+      "front": "Sub-bab Anti Radikalisme: Peserta diskusi membenarkan kekerasan atas nama keyakinan, atau muncul ujaran kebencian viral di grup kerja. Apa prinsip tindakan bernilai 5?",
+      "back": "Menolak pembenaran kekerasan secara tenang, tegas, dan argumentatif berdasarkan Pancasila serta negara hukum; lakukan cek fakta dan sampaikan narasi penyejuk untuk menangkal provokasi.",
+      "note": "Kata kunci poin 5: Tolak kekerasan mutlak, cek fakta, narasi moderat dan konstitusional."
+    },
+    {
+      "id": "fc_b01_100",
+      "category": "TKP",
+      "subtopic": "tkp_anti_radikalisme",
+      "front": "Sub-bab Anti Radikalisme: Mengelola media sosial instansi atau menjadi panitia pembinaan rohani/rekrutmen pegawai di kantor. Apa prinsip tindakan bernilai 5?",
+      "back": "Mengedepankan literasi kebangsaan dan moderasi beragama, memverifikasi rekam jejak narasumber/pelamar terkait komitmen NKRI, dan memoderasi komentar bermuatan ekstrem tanpa membungkam kritik layanan yang sah.",
+      "note": "Kata kunci poin 5: Pencegahan sistemik, kurasi moderasi beragama, komitmen kebangsaan."
+    }
+  ]
+}
